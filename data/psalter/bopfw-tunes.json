@@ -1,0 +1,2287 @@
+[
+    {
+        "sel": "1a",
+        "name": "Ellacombe",
+        "tune": "The Man Is Blessed"
+    },
+    {
+        "sel": "1b",
+        "name": "Giesen",
+        "tune": "How Blessed the Man"
+    },
+    {
+        "sel": "2a",
+        "name": "Salzburg (Hintze)",
+        "tune": "Why Do Gentile Nations Rage?"
+    },
+    {
+        "sel": "2b",
+        "name": "Aberystwyth",
+        "tune": "Jesus, Lover of My Soul"
+    },
+    {
+        "sel": "2c",
+        "name": "Hollingside",
+        "tune": "Take My Life and Let it Be"
+    },
+    {
+        "sel": "2d",
+        "name": "Kent",
+        "tune": "Why Do the Gentile Rage?"
+    },
+    {
+        "sel": "3a",
+        "name": "New Britain",
+        "tune": "Amazing Grace"
+    },
+    {
+        "sel": "3b",
+        "name": "Toronto",
+        "tune": "LORD, How My Foes Are Multiplied"
+    },
+    {
+        "sel": "4a",
+        "name": "Wallace",
+        "tune": "Give Answer When I Call"
+    },
+    {
+        "sel": "4b",
+        "name": "Penitence",
+        "tune": "In the Hour of Trial"
+    },
+    {
+        "sel": "5a",
+        "name": "Morning Light",
+        "tune": "Listen to My Words, O LORD"
+    },
+    {
+        "sel": "5b",
+        "name": "Aberystwyth",
+        "tune": "Jesus, Lover of My Soul"
+    },
+    {
+        "sel": "5c",
+        "name": "Scarborough Fair",
+        "tune": "Listen to My Words, O LORD"
+    },
+    {
+        "sel": "6a",
+        "name": "Olive\u2019s Brow",
+        "tune": "Tis Midnight, and on Olive's Brow"
+    },
+    {
+        "sel": "6b",
+        "name": "Morecambe",
+        "tune": "Spirit of God, Descend upon My Heart"
+    },
+    {
+        "sel": "7a",
+        "name": "Slane",
+        "tune": "Be Thou My Vision"
+    },
+    {
+        "sel": "7b",
+        "name": "National Hymn",
+        "tune": "God of Our Fathers, Whose Almighty Hand"
+    },
+    {
+        "sel": "8a",
+        "name": "Dunfermline",
+        "tune": "O LORD, Our Lord"
+    },
+    {
+        "sel": "8b",
+        "name": "Amsterdam",
+        "tune": "Rise, My Soul, and Stretch Thy Wings"
+    },
+    {
+        "sel": "8c",
+        "name": "Stroudwater",
+        "tune": "O LORD, Our Lord"
+    },
+    {
+        "sel": "9a",
+        "name": "Sankey",
+        "tune": "Hiding in Thee; Faith is the Victory"
+    },
+    {
+        "sel": "9b",
+        "name": "Joanna (St. Denio)",
+        "tune": "Immortal, Invisible, God Only Wise"
+    },
+    {
+        "sel": "10a",
+        "name": "Unde et Memores",
+        "tune": "Why Do You Stand So Far Away?"
+    },
+    {
+        "sel": "10b",
+        "name": "Sursum Corda",
+        "tune": "Lift Up Your Hearts!"
+    },
+    {
+        "sel": "11a",
+        "name": "Olmutz",
+        "tune": "My Trust Is in the LORD"
+    },
+    {
+        "sel": "11b",
+        "name": "St. Bride",
+        "tune": "My Trust Is in the LORD"
+    },
+    {
+        "sel": "12",
+        "name": "Lindesfarne",
+        "tune": "Help, LORD"
+    },
+    {
+        "sel": "13a",
+        "name": "Meditation",
+        "tune": "How Long Will You Forget Me, LORD?"
+    },
+    {
+        "sel": "13b",
+        "name": "Cleveland",
+        "tune": "O How Long, LORD?"
+    },
+    {
+        "sel": "14a",
+        "name": "Passion Chorale",
+        "tune": "O Sacred Head, Now Wounded"
+    },
+    {
+        "sel": "14b",
+        "name": "Old 128th",
+        "tune": "Within His Heart the Fool Speaks"
+    },
+    {
+        "sel": "15a",
+        "name": "Lowry",
+        "tune": "Savior, Thy Dying Love; Something for Jesus"
+    },
+    {
+        "sel": "15b",
+        "name": "Dawn",
+        "tune": "Within Your Tent Who Will Reside?"
+    },
+    {
+        "sel": "16a",
+        "name": "Medfield",
+        "tune": "Keep Me, O God"
+    },
+    {
+        "sel": "16b",
+        "name": "Abridge",
+        "tune": "I'll Bless the LORD Who Counsels Me"
+    },
+    {
+        "sel": "16c",
+        "name": "Foundation",
+        "tune": "How Firm a Foundation"
+    },
+    {
+        "sel": "16d",
+        "name": "Sterling",
+        "tune": "Preserve Me, O God"
+    },
+    {
+        "sel": "16e",
+        "name": "Conserva Me",
+        "tune": "Keep Me, O God"
+    },
+    {
+        "sel": "17a",
+        "name": "Landas",
+        "tune": "My Faith Has Found a Resting Place"
+    },
+    {
+        "sel": "17b",
+        "name": "St Andrew",
+        "tune": "Keep Me the Focus of Youth Eye"
+    },
+    {
+        "sel": "17c",
+        "name": "Arfryn",
+        "tune": "Arise, Confront My Foe"
+    },
+    {
+        "sel": "18a",
+        "name": "Uxbridge",
+        "tune": "I Love You, LORD"
+    },
+    {
+        "sel": "18b",
+        "name": "Freuen Wir Uns",
+        "tune": "Holy Jesus! God of Love"
+    },
+    {
+        "sel": "18c",
+        "name": "Canonbury",
+        "tune": "Lord, Speak to Me that I May Speak; I Gave My Life to Thee"
+    },
+    {
+        "sel": "18d",
+        "name": "Pentecost",
+        "tune": "With Men of Kindness You Are Kind"
+    },
+    {
+        "sel": "18e",
+        "name": "Church Triumphant",
+        "tune": "How Perfect Is the Way of God"
+    },
+    {
+        "sel": "18f",
+        "name": "Freuen Wir Uns",
+        "tune": "Holy Jesus! God of Love"
+    },
+    {
+        "sel": "18g",
+        "name": "Andre",
+        "tune": "Blessed Be My Rock"
+    },
+    {
+        "sel": "18h",
+        "name": "Crasselius",
+        "tune": null
+    },
+    {
+        "sel": "19a",
+        "name": "Clarksville",
+        "tune": "The Skies Above"
+    },
+    {
+        "sel": "19b",
+        "name": "Millennium",
+        "tune": "The LORD'S Most Perfect Law"
+    },
+    {
+        "sel": "20a",
+        "name": "Sagina",
+        "tune": "And Can It Be That I Should Gain?"
+    },
+    {
+        "sel": "20b",
+        "name": "Leighton",
+        "tune": "The LORD Reply in Your Distress"
+    },
+    {
+        "sel": "21a",
+        "name": "Noel",
+        "tune": "It Came Upon a Midnight Clear; A Thousand Years Have Come and Gone"
+    },
+    {
+        "sel": "21b",
+        "name": "Ellacombe",
+        "tune": "Because the King Trusts in the LORD"
+    },
+    {
+        "sel": "22a",
+        "name": "Fillmore",
+        "tune": "My God, My God"
+    },
+    {
+        "sel": "22b",
+        "name": "Veni Emmanuel",
+        "tune": "O Come, O Come, Emmanuel"
+    },
+    {
+        "sel": "22c",
+        "name": "Wavertree",
+        "tune": "Be Not Far Off"
+    },
+    {
+        "sel": "22d",
+        "name": "Vision",
+        "tune": "I'll Praise You in the Gathering"
+    },
+    {
+        "sel": "22e",
+        "name": "Creation",
+        "tune": "The Spacious Firmament on High"
+    },
+    {
+        "sel": "23a",
+        "name": "St. Columbia",
+        "tune": "The King of Love My Shepherd Is"
+    },
+    {
+        "sel": "23b",
+        "name": "Crimond",
+        "tune": "The Lord's My Shepherd, I'll Not Want"
+    },
+    {
+        "sel": "23c",
+        "name": "Bunessan",
+        "tune": "Morning Has Broken"
+    },
+    {
+        "sel": "23d",
+        "name": "Wassail Wassail",
+        "tune": "The LORD Is My Shepherd"
+    },
+    {
+        "sel": "24a",
+        "name": "To God Be The Glory",
+        "tune": null
+    },
+    {
+        "sel": "24b",
+        "name": "St. George\u2019s Edinburgh",
+        "tune": "Ye Gates, Lift Up Your Heads"
+    },
+    {
+        "sel": "24c",
+        "name": "Greyfriars",
+        "tune": "The Earth and the Riches"
+    },
+    {
+        "sel": "25a",
+        "name": "Leominster",
+        "tune": "To You I Lift My Soul"
+    },
+    {
+        "sel": "25b",
+        "name": "Calvary (Welcome Voice)",
+        "tune": "The LORD Is Good and Just"
+    },
+    {
+        "sel": "25c",
+        "name": "Trentham",
+        "tune": "Breathe on Me, Breath of God"
+    },
+    {
+        "sel": "26a",
+        "name": "Kingsfold",
+        "tune": "LORD, Vindicate Me"
+    },
+    {
+        "sel": "26b",
+        "name": "Peace",
+        "tune": "LORD, Vindicate Me"
+    },
+    {
+        "sel": "27a",
+        "name": "Willard",
+        "tune": "The LORD Is My Light and My Salvation"
+    },
+    {
+        "sel": "27b",
+        "name": "St. Michael",
+        "tune": "I Ask the LORD and Seek"
+    },
+    {
+        "sel": "27c",
+        "name": "St. Peter",
+        "tune": "In Christ There is No East or West; How Sweet the Name of Jesus Sounds"
+    },
+    {
+        "sel": "27d",
+        "name": "Louise",
+        "tune": "O LORD,Teach Me to Follow You"
+    },
+    {
+        "sel": "28a",
+        "name": "Amadeus",
+        "tune": "LORD, I Call on You"
+    },
+    {
+        "sel": "28b",
+        "name": "Dundee (French)",
+        "tune": "I Cry to You, O LORD"
+    },
+    {
+        "sel": "28c",
+        "name": "Brown",
+        "tune": "The LORD Be Blessed"
+    },
+    {
+        "sel": "29a",
+        "name": "Joanna (St. Denio)",
+        "tune": "Immortal, Invisible, God Only Wise"
+    },
+    {
+        "sel": "29b",
+        "name": "Normandy Carol",
+        "tune": "When Wise Men Came Seeking"
+    },
+    {
+        "sel": "30a",
+        "name": "Angel\u2019s Story",
+        "tune": "O Jesus, I Have Promised; I Love to Hear the Story"
+    },
+    {
+        "sel": "30b",
+        "name": "St. Theodulph",
+        "tune": "All Glory, Laud, and Honor"
+    },
+    {
+        "sel": "31a",
+        "name": "Avondale (Gabriel)",
+        "tune": "In You, O LORD, I Put My Trust"
+    },
+    {
+        "sel": "31b",
+        "name": "Lancashire",
+        "tune": "The Day of the Resurrection; Lead On, O King Eternal"
+    },
+    {
+        "sel": "31c",
+        "name": "Llangloffan",
+        "tune": "O God of Earth and Altar"
+    },
+    {
+        "sel": "31d",
+        "name": "Saints\u2019 Praise",
+        "tune": "How Great the Good"
+    },
+    {
+        "sel": "32a",
+        "name": "Tabler",
+        "tune": "What Blessedness"
+    },
+    {
+        "sel": "32b",
+        "name": "Main",
+        "tune": "Instruction I Will Give to You"
+    },
+    {
+        "sel": "32c",
+        "name": "Vox Dilecti",
+        "tune": "I Heard the Voice of Jesus Say"
+    },
+    {
+        "sel": "32d",
+        "name": "Campbell",
+        "tune": "Instruction I Will Give to You"
+    },
+    {
+        "sel": "33a",
+        "name": "Dennis",
+        "tune": "Blessed Be the Tie that Binds"
+    },
+    {
+        "sel": "33b",
+        "name": "Louisville",
+        "tune": "With Gladness in the LORD"
+    },
+    {
+        "sel": "33c",
+        "name": "Ash Grove",
+        "tune": "The LORD by His Word Has Created"
+    },
+    {
+        "sel": "34a",
+        "name": "Champs Elysees",
+        "tune": "At All Times I Will Bless the Lord"
+    },
+    {
+        "sel": "34b",
+        "name": "Winchester New",
+        "tune": "I Will At All Times Bless the LORD"
+    },
+    {
+        "sel": "34c",
+        "name": "Sweet Hour",
+        "tune": "Sweet Hour of Prayer"
+    },
+    {
+        "sel": "35a",
+        "name": "Hamburg",
+        "tune": "When I Survey the Wondrous Cross"
+    },
+    {
+        "sel": "35b",
+        "name": "Olive\u2019s Brow",
+        "tune": "Tis Midnight, and on Olive's Brow"
+    },
+    {
+        "sel": "35c",
+        "name": "Wayfaring Stranger",
+        "tune": "Now Men Arise to Bear False Witness"
+    },
+    {
+        "sel": "35d",
+        "name": "Wareham",
+        "tune": "Great God We Sing That Mighty Hand"
+    },
+    {
+        "sel": "35e",
+        "name": "Leighton",
+        "tune": "With Justice Judge Me, LORD"
+    },
+    {
+        "sel": "36a",
+        "name": "Manoah",
+        "tune": "Begin, My Tongue, Some Heavenly Theme"
+    },
+    {
+        "sel": "36b",
+        "name": "Peace",
+        "tune": "Your Love, LORD"
+    },
+    {
+        "sel": "36c",
+        "name": "Old 44th",
+        "tune": "About the Wicked"
+    },
+    {
+        "sel": "37a",
+        "name": "Reward",
+        "tune": "Do Not Be Angry"
+    },
+    {
+        "sel": "37b",
+        "name": "Omni Dei",
+        "tune": "Wicked Men Against the Righteous"
+    },
+    {
+        "sel": "37c",
+        "name": "Beach Spring",
+        "tune": "Steps a Man Takes"
+    },
+    {
+        "sel": "37d",
+        "name": "Compassion",
+        "tune": "Though the Wicked Hound the Righteous"
+    },
+    {
+        "sel": "38a",
+        "name": "St. Sylvester",
+        "tune": "LORD, Do Not in Hot Displeasure Speak"
+    },
+    {
+        "sel": "38b",
+        "name": "Katushka",
+        "tune": "My Desire and Ceaseless Wailing"
+    },
+    {
+        "sel": "38c",
+        "name": "Mount Vernon",
+        "tune": "You, O LORD, I Have Been Trusting"
+    },
+    {
+        "sel": "39a",
+        "name": "Langran",
+        "tune": "I Said, \"I Will Keep Watch\""
+    },
+    {
+        "sel": "39b",
+        "name": "Eventide",
+        "tune": "Abide With Me"
+    },
+    {
+        "sel": "40a",
+        "name": "Fingal",
+        "tune": "I Waited for the LORD"
+    },
+    {
+        "sel": "40b",
+        "name": "Madrid",
+        "tune": "Come Christians Join to Sing"
+    },
+    {
+        "sel": "41a",
+        "name": "Kingsfold",
+        "tune": "How Blessed the Man Who Guides the Poor"
+    },
+    {
+        "sel": "41b",
+        "name": "Donnelly",
+        "tune": "All Those Who Hate Me"
+    },
+    {
+        "sel": "41c",
+        "name": "Alpha",
+        "tune": "Book One Doxology"
+    },
+    {
+        "sel": "42a",
+        "name": "St. Catherine",
+        "tune": "Faith of Our Fathers, Living Still"
+    },
+    {
+        "sel": "42b",
+        "name": "Veni Emmanuel",
+        "tune": "O Come, O Come, Emmanuel"
+    },
+    {
+        "sel": "42c",
+        "name": "Appalachia",
+        "tune": "As Deer for Streams, I Pant for God"
+    },
+    {
+        "sel": "42d",
+        "name": "Steadfast",
+        "tune": "O God, My Soul Is in Despair"
+    },
+    {
+        "sel": "43a",
+        "name": "Azmon",
+        "tune": "O For a Thousand Tongues to Sing"
+    },
+    {
+        "sel": "43b",
+        "name": "St. Chrysostom",
+        "tune": "O Vindicate Me"
+    },
+    {
+        "sel": "44a",
+        "name": "Foundation",
+        "tune": "O God, We Have Heard of Your Works"
+    },
+    {
+        "sel": "44b",
+        "name": "Maldwyn",
+        "tune": "The Earth and the Fullness..."
+    },
+    {
+        "sel": "44c",
+        "name": "Dominus Regit Me",
+        "tune": "If We Have Forgotten"
+    },
+    {
+        "sel": "45a",
+        "name": "Methyr Tydfil",
+        "tune": "My Heart is Stirred"
+    },
+    {
+        "sel": "45b",
+        "name": "Fairfield",
+        "tune": "A Goodly Theme is Mine"
+    },
+    {
+        "sel": "45c",
+        "name": "Diademata",
+        "tune": "Crown Him With Many Crowns"
+    },
+    {
+        "sel": "46a",
+        "name": "Pinneo",
+        "tune": "God Is Our Refuge and Our Strength"
+    },
+    {
+        "sel": "46b",
+        "name": "Scott",
+        "tune": "God Is Our Refuge and Our Strength"
+    },
+    {
+        "sel": "46c",
+        "name": "Ein\u2019 Feste Burg",
+        "tune": "A Mighty Fortress is Our God"
+    },
+    {
+        "sel": "47a",
+        "name": "Petersham",
+        "tune": "Thy Word is Like a Garden, Lord"
+    },
+    {
+        "sel": "47b",
+        "name": "Truro",
+        "tune": "Lift Up Your Heads. Ye Mighty Gates"
+    },
+    {
+        "sel": "48a",
+        "name": "St. Clement",
+        "tune": "The Day Thou Gavest, Lord, Is Ended"
+    },
+    {
+        "sel": "48b",
+        "name": "Bethlehem",
+        "tune": "How Vast the Benefits Divine; All Nature's Works His Praise Declare"
+    },
+    {
+        "sel": "48c",
+        "name": "Zerah",
+        "tune": "Within Your Temple"
+    },
+    {
+        "sel": "49a",
+        "name": "Amsterdam",
+        "tune": "Hear This, All Earth's Nations"
+    },
+    {
+        "sel": "49b",
+        "name": "Aus Der Tiefe (Heinlein)",
+        "tune": "Let No Fear Disturb Your Peace"
+    },
+    {
+        "sel": "50a",
+        "name": "Silver Street",
+        "tune": "God, Most Supreme In Might"
+    },
+    {
+        "sel": "50b",
+        "name": "St. Thomas",
+        "tune": "Come, We that Love the Lord; I Love Your Kingdom, Lord"
+    },
+    {
+        "sel": "50c",
+        "name": "Dinbych",
+        "tune": "Commit All Thy Griefs"
+    },
+    {
+        "sel": "51a",
+        "name": "Toplady",
+        "tune": "Rock of Ages"
+    },
+    {
+        "sel": "51b",
+        "name": "Myra",
+        "tune": "O Hide Your Face"
+    },
+    {
+        "sel": "51c",
+        "name": "Jesu Meine Zuversicht",
+        "tune": "Welcome God and Mary's Son"
+    },
+    {
+        "sel": "51d",
+        "name": "Ajalon",
+        "tune": "Go to Dark Gethsemane"
+    },
+    {
+        "sel": "52a",
+        "name": "Anatevka",
+        "tune": "Why Boast of Wrong?"
+    },
+    {
+        "sel": "52b",
+        "name": "Bryn Calfaria",
+        "tune": "Hear, O Hear Us, Israel's Shepherd"
+    },
+    {
+        "sel": "53a",
+        "name": "Southwell",
+        "tune": "Out of the Deep I Call"
+    },
+    {
+        "sel": "53b",
+        "name": "Leaf",
+        "tune": "The Fool Has Spoken in His Heart"
+    },
+    {
+        "sel": "54a",
+        "name": "Austria",
+        "tune": "Glorious Things of Thee are Spoken"
+    },
+    {
+        "sel": "54b",
+        "name": "Ebenezer (Ton-y-Botel)",
+        "tune": "O Deep, Deep Love of Jesus; Once to Every Man and Nation"
+    },
+    {
+        "sel": "55a",
+        "name": "St. Anne",
+        "tune": "O God, Our Help in Ages Past"
+    },
+    {
+        "sel": "55b",
+        "name": "Halifax",
+        "tune": "Consume the Wicked"
+    },
+    {
+        "sel": "55c",
+        "name": "Bovina",
+        "tune": "But as for Me, I'll Call on God"
+    },
+    {
+        "sel": "56a",
+        "name": "Consolation",
+        "tune": "Awake, Awake to Love and Work"
+    },
+    {
+        "sel": "56b",
+        "name": "Coronation",
+        "tune": "All Hail the Power"
+    },
+    {
+        "sel": "57a",
+        "name": "Tabler",
+        "tune": "Be Merciful to Me, O God"
+    },
+    {
+        "sel": "57b",
+        "name": "Sunderland",
+        "tune": "O Be Exalted High, O God"
+    },
+    {
+        "sel": "58a",
+        "name": "Adirondack",
+        "tune": "Gods, Do You Really Speak with Righteousness?"
+    },
+    {
+        "sel": "58b",
+        "name": "Leicester",
+        "tune": "O King of Kings"
+    },
+    {
+        "sel": "59a",
+        "name": "National Hymn",
+        "tune": "Free Me, My God"
+    },
+    {
+        "sel": "59b",
+        "name": "Finlandia",
+        "tune": "I Wait for You"
+    },
+    {
+        "sel": "60a",
+        "name": "Yorke Tune",
+        "tune": "O God, You Have Rejected Us"
+    },
+    {
+        "sel": "60b",
+        "name": "All Saint\u2019s New",
+        "tune": "The Son of God Goes Forth to War"
+    },
+    {
+        "sel": "61a",
+        "name": "Lyons",
+        "tune": "O Worship the King; Ye Servants of God, Your Master Proclaim"
+    },
+    {
+        "sel": "61b",
+        "name": "Josephine",
+        "tune": "Fret Not Thyself"
+    },
+    {
+        "sel": "62a",
+        "name": "Bruce",
+        "tune": "My Soul Finds Rest in God Alone"
+    },
+    {
+        "sel": "62b",
+        "name": "Resignation",
+        "tune": "My Shepherd Will Supply My Needs"
+    },
+    {
+        "sel": "62c",
+        "name": "Main",
+        "tune": "They're Lighter than a Sigh"
+    },
+    {
+        "sel": "63a",
+        "name": "Te Deum",
+        "tune": "O God, You are My God"
+    },
+    {
+        "sel": "63b",
+        "name": "Wetherby",
+        "tune": "I'll Seek You Early, God"
+    },
+    {
+        "sel": "63c",
+        "name": "Cooling",
+        "tune": "And When I Turn My Thoughts to You"
+    },
+    {
+        "sel": "64a",
+        "name": "Culross",
+        "tune": "God, Hear My Voice"
+    },
+    {
+        "sel": "64b",
+        "name": "Kilmarnock",
+        "tune": "God, Hear My Voice"
+    },
+    {
+        "sel": "65a",
+        "name": "Webb",
+        "tune": "Stand Up, Stand Up for Jesus"
+    },
+    {
+        "sel": "65b",
+        "name": "Sheffield",
+        "tune": "The Praises of Thy Wonders"
+    },
+    {
+        "sel": "65c",
+        "name": "Lauda Anima",
+        "tune": "Praise, My Soul, the King of Heaven"
+    },
+    {
+        "sel": "65d",
+        "name": "Solid Rock",
+        "tune": "On Christ the Solid Rock I Stand"
+    },
+    {
+        "sel": "66a",
+        "name": "Miles Lane",
+        "tune": "All Hail the Power of Jesus' Name"
+    },
+    {
+        "sel": "66b",
+        "name": "Forest Green",
+        "tune": "O Little Town of Bethlehem; Thy Word is Like a Garden, Lord"
+    },
+    {
+        "sel": "66c",
+        "name": "Wie Schon Leuchtet",
+        "tune": "How Brightly Shines the Morning Star!; O Morning-star, How Fair! How Bright!"
+    },
+    {
+        "sel": "67a",
+        "name": "Missionary Hymn",
+        "tune": "From Greenland's Icy Mountains"
+    },
+    {
+        "sel": "67b",
+        "name": "Aurelia",
+        "tune": "The Church's One Foundation"
+    },
+    {
+        "sel": "67c",
+        "name": "Thaxted",
+        "tune": "O God, Show Mercy to Us"
+    },
+    {
+        "sel": "68a",
+        "name": "Exsurgat Deus",
+        "tune": "Let God Arise"
+    },
+    {
+        "sel": "68b",
+        "name": "Laight Street",
+        "tune": "Let God Arise"
+    },
+    {
+        "sel": "68c",
+        "name": "Park Street",
+        "tune": "But You, Jehovah, Shall Endure"
+    },
+    {
+        "sel": "68d",
+        "name": "In Babilone",
+        "tune": "Hail, Thou Once Despised Jesus"
+    },
+    {
+        "sel": "68e",
+        "name": "Old 124th",
+        "tune": "Now Israel May Say and That in Truth"
+    },
+    {
+        "sel": "68f",
+        "name": "Croydon",
+        "tune": "Sing Out Your Praises"
+    },
+    {
+        "sel": "69a",
+        "name": "Salvum Fac",
+        "tune": "Save Me, O God"
+    },
+    {
+        "sel": "69b",
+        "name": "Pilgrims",
+        "tune": "Save Me from Sinking"
+    },
+    {
+        "sel": "69c",
+        "name": "Old 110th",
+        "tune": "O Let Their Table Be a Snare"
+    },
+    {
+        "sel": "69d",
+        "name": "Sabbath Evening",
+        "tune": "The Name of God"
+    },
+    {
+        "sel": "70a",
+        "name": "Noel Nouvelet",
+        "tune": "Hasten, God, My Rescue"
+    },
+    {
+        "sel": "70b",
+        "name": "Jacki\u2019s 1st Lament",
+        "tune": "Hasten, O God"
+    },
+    {
+        "sel": "71a",
+        "name": "Contemplation",
+        "tune": "In You, O LORD, I Put My Trust"
+    },
+    {
+        "sel": "71b",
+        "name": "St. Peter",
+        "tune": "Do Not Forsake Me in Old Age"
+    },
+    {
+        "sel": "71c",
+        "name": "Politz",
+        "tune": "I'll Come to Tell the Mighty Deeds"
+    },
+    {
+        "sel": "72a",
+        "name": "Truro",
+        "tune": "Lift Up Your Heads. Ye Mighty Gates"
+    },
+    {
+        "sel": "72b",
+        "name": "Duke Street",
+        "tune": "Jesus Shall Reign Where'er the Sun"
+    },
+    {
+        "sel": "72c",
+        "name": "Andre",
+        "tune": "May Waving Grain on Hilltops Thrive"
+    },
+    {
+        "sel": "72d",
+        "name": "Yorkshire",
+        "tune": "Christians, Awake, Salute the Happy Morn"
+    },
+    {
+        "sel": "72e",
+        "name": "Siyahamba",
+        "tune": "Marching in the Light of God"
+    },
+    {
+        "sel": "72f",
+        "name": "Effingham",
+        "tune": "Book Two Doxology"
+    },
+    {
+        "sel": "72g",
+        "name": "Beta",
+        "tune": "Book Two Doxology"
+    },
+    {
+        "sel": "73a",
+        "name": "St. Catherine",
+        "tune": "Faith of Our Fathers Living Still"
+    },
+    {
+        "sel": "73b",
+        "name": "Vater Unser",
+        "tune": "Our Father, Though in Heaven Above"
+    },
+    {
+        "sel": "73c",
+        "name": "Trust",
+        "tune": "Yet Constantly I Am With You"
+    },
+    {
+        "sel": "74a",
+        "name": "Holocaust",
+        "tune": "God, Why Forever Cast Us Off?"
+    },
+    {
+        "sel": "74b",
+        "name": "Broomsgrove",
+        "tune": "Yet God My King Brings Forth"
+    },
+    {
+        "sel": "75a",
+        "name": "Ancyra",
+        "tune": "To You, O God, We Render Thanks"
+    },
+    {
+        "sel": "75b",
+        "name": "Pinneo",
+        "tune": "To You, O God, We Render Thanks"
+    },
+    {
+        "sel": "76a",
+        "name": "Regent Square",
+        "tune": "Angels from the Realms of Glory"
+    },
+    {
+        "sel": "76b",
+        "name": "Westminster Abbey",
+        "tune": "Christ is Made the Sure Foundation"
+    },
+    {
+        "sel": "77a",
+        "name": "He Leadeth Me",
+        "tune": "He Leadeth Me"
+    },
+    {
+        "sel": "77b",
+        "name": "Wareham",
+        "tune": "The LORD'S Deeds I Remember"
+    },
+    {
+        "sel": "78a",
+        "name": "Illa",
+        "tune": "I Heard the Voice of Jesus Say"
+    },
+    {
+        "sel": "78b",
+        "name": "Champs Elysees",
+        "tune": "O Come, My People"
+    },
+    {
+        "sel": "78c",
+        "name": "Naomi",
+        "tune": "Ephraim's Sons"
+    },
+    {
+        "sel": "78d",
+        "name": "Donnelly",
+        "tune": "Yet in the Desert Still They Sinned"
+    },
+    {
+        "sel": "78e",
+        "name": "St. Kilda",
+        "tune": "In Heav'n He Made the East Wind Blow"
+    },
+    {
+        "sel": "78f",
+        "name": "Winchester Old",
+        "tune": "They'd Turn and Seek God Eagerly"
+    },
+    {
+        "sel": "78g",
+        "name": "Anatevka",
+        "tune": "These Rebels in the Wilderness"
+    },
+    {
+        "sel": "78h",
+        "name": "Endless Song",
+        "tune": "Then He Struck Down"
+    },
+    {
+        "sel": "78i",
+        "name": "Agawam",
+        "tune": "Yet They Rebelled"
+    },
+    {
+        "sel": "78j",
+        "name": "St. Ambrose",
+        "tune": "As When Wine Makes the Soldier Bolder"
+    },
+    {
+        "sel": "79a",
+        "name": "Holy Cross",
+        "tune": "O God, To Your Inheritance"
+    },
+    {
+        "sel": "79b",
+        "name": "Fair Haven",
+        "tune": "O Charge Us Not With Former Sins"
+    },
+    {
+        "sel": "80",
+        "name": "Bryn Calfaria",
+        "tune": "Hear, O Hear Us, Israel's Shepherd"
+    },
+    {
+        "sel": "81a",
+        "name": "Brother James\u2019 Air",
+        "tune": "To God Our Strength"
+    },
+    {
+        "sel": "81b",
+        "name": "Keokuk",
+        "tune": "Hear, O My People"
+    },
+    {
+        "sel": "82a",
+        "name": "Latvia",
+        "tune": "God Is in His Congregation"
+    },
+    {
+        "sel": "82b",
+        "name": "Stuttgart",
+        "tune": "God Is in His Congregation"
+    },
+    {
+        "sel": "83",
+        "name": "Salvum Fac",
+        "tune": "Do Not Be Silent, God"
+    },
+    {
+        "sel": "84a",
+        "name": "Stella",
+        "tune": "How Lovely, LORD"
+    },
+    {
+        "sel": "84b",
+        "name": "Melita",
+        "tune": "Eternal Father Strong to Save"
+    },
+    {
+        "sel": "84c",
+        "name": "Sussex Carol",
+        "tune": "On Christmas Night All Christians Sing"
+    },
+    {
+        "sel": "84d",
+        "name": "Woodworth",
+        "tune": "Just as I Am, Without One Plea"
+    },
+    {
+        "sel": "85a",
+        "name": "Bera",
+        "tune": "O LORD, Unto Your Land"
+    },
+    {
+        "sel": "85b",
+        "name": "Bradbury",
+        "tune": "Savior, Like a Shepherd Lead Us"
+    },
+    {
+        "sel": "86a",
+        "name": "Conwell",
+        "tune": "LORD, Listen and Answer"
+    },
+    {
+        "sel": "86b",
+        "name": "Delphine",
+        "tune": "Your Way Teach Me, LORD"
+    },
+    {
+        "sel": "87a",
+        "name": "St. Leonard",
+        "tune": "May the Mind of Christ My Savior"
+    },
+    {
+        "sel": "87b",
+        "name": "Effingham",
+        "tune": "The LORD'S Foundation"
+    },
+    {
+        "sel": "88a",
+        "name": "Adirondack",
+        "tune": "LORD, My Salvation"
+    },
+    {
+        "sel": "88b",
+        "name": "Ellers",
+        "tune": "Savior, Again to Thy Dear Name We Raise"
+    },
+    {
+        "sel": "89a",
+        "name": "New Jerusalem",
+        "tune": "The Lovingkindness of the LORD"
+    },
+    {
+        "sel": "89b",
+        "name": "Noel",
+        "tune": "It Came Upon a Midnight Clear; A Thousand Years Have Come and Gone"
+    },
+    {
+        "sel": "89c",
+        "name": "St. Magnus",
+        "tune": "The Head that Was Once Crowned with Thorns"
+    },
+    {
+        "sel": "89d",
+        "name": "Halifax",
+        "tune": "In Visions Once You Spoke"
+    },
+    {
+        "sel": "89e",
+        "name": "Ayrshire",
+        "tune": "And If His Sons Forsake My Law"
+    },
+    {
+        "sel": "89f",
+        "name": "Norwich",
+        "tune": "Now Your Anointed You Have Spurned"
+    },
+    {
+        "sel": "89g",
+        "name": "Yorke Tune",
+        "tune": "How Long, LORD?"
+    },
+    {
+        "sel": "89h",
+        "name": "Emmanuel",
+        "tune": "Book Three Doxology"
+    },
+    {
+        "sel": "90a",
+        "name": "St. Chrysostom",
+        "tune": "Lord, You Have Been Our Dwelling Place"
+    },
+    {
+        "sel": "90b",
+        "name": "St. Catherine",
+        "tune": "Faith of Our Fathers, Living Still"
+    },
+    {
+        "sel": "91a",
+        "name": "Hyfrydol",
+        "tune": "Come, Thou Long Expected Jesus; Alleluia! Sing to Jesus!"
+    },
+    {
+        "sel": "91b",
+        "name": "Woodworth",
+        "tune": "The One Who Has a Refuge Safe"
+    },
+    {
+        "sel": "91c",
+        "name": "Retreat",
+        "tune": "From Every Stormy Wind that Blows"
+    },
+    {
+        "sel": "91d",
+        "name": "Walton",
+        "tune": "The Lion Will Become Your Prey"
+    },
+    {
+        "sel": "92",
+        "name": "Darwall",
+        "tune": "Rejoice! The Lord is King"
+    },
+    {
+        "sel": "93a",
+        "name": "Rialto",
+        "tune": "The LORD Is Crowned as King"
+    },
+    {
+        "sel": "93b",
+        "name": "Monks Gate",
+        "tune": "To Be a Pilgrim (He Who Would Valiant Be)"
+    },
+    {
+        "sel": "94a",
+        "name": "Austria",
+        "tune": "Glorious Things of Thee are Spoken"
+    },
+    {
+        "sel": "94b",
+        "name": "Ebenezer (Ton-y-Botel)",
+        "tune": "O Deep, Deep Love of Jesus; Once to Every Man and Nation"
+    },
+    {
+        "sel": "95a",
+        "name": "Alexandria",
+        "tune": "Come to the LORD and Sing For Joy"
+    },
+    {
+        "sel": "95b",
+        "name": "Orlington",
+        "tune": "O Come and Let Us Worship Hiom"
+    },
+    {
+        "sel": "95c",
+        "name": "Norwich",
+        "tune": "Today If You Will Hear His Voice"
+    },
+    {
+        "sel": "95d",
+        "name": "Come Joyfully",
+        "tune": "O Come to the LORD"
+    },
+    {
+        "sel": "96a",
+        "name": "Coronation",
+        "tune": "All Hail the Power"
+    },
+    {
+        "sel": "96b",
+        "name": "Orlington",
+        "tune": "In Radient Robes"
+    },
+    {
+        "sel": "96c",
+        "name": "Winchester New",
+        "tune": "O Sing a New Song to the LORD"
+    },
+    {
+        "sel": "96d",
+        "name": "Terra Beata",
+        "tune": "This is My Father's World"
+    },
+    {
+        "sel": "97a",
+        "name": "Arfon",
+        "tune": "The LORD Reigns (Let Earth Rejoice)"
+    },
+    {
+        "sel": "97b",
+        "name": "Sicilian Mariners",
+        "tune": "Lord, Dismiss Us with Thy Blessing"
+    },
+    {
+        "sel": "97c",
+        "name": "Throne",
+        "tune": "The LORD is King!"
+    },
+    {
+        "sel": "98a",
+        "name": "Desert (Lyngham)",
+        "tune": "O Sing a New Song to the LORD"
+    },
+    {
+        "sel": "98b",
+        "name": "Ode to Joy",
+        "tune": "To the LORD O Sing a New Song"
+    },
+    {
+        "sel": "99a",
+        "name": "Arnsberg",
+        "tune": "God Is in His Temple"
+    },
+    {
+        "sel": "99b",
+        "name": "Leoni",
+        "tune": "The God of Abraham Praise"
+    },
+    {
+        "sel": "100a",
+        "name": "Old 100th",
+        "tune": "Praise God From Whom All Blessings Flow"
+    },
+    {
+        "sel": "100b",
+        "name": "Glasgow",
+        "tune": "O Shout for Joy unto the LORD"
+    },
+    {
+        "sel": "100c",
+        "name": "Lobe Den Herren",
+        "tune": "Praise to the Lord, the Almighty"
+    },
+    {
+        "sel": "100d",
+        "name": "Enter",
+        "tune": "Make a Joyful Noise"
+    },
+    {
+        "sel": "100e",
+        "name": "Festal Song",
+        "tune": "Give to the Winds Thy Fears"
+    },
+    {
+        "sel": "101a",
+        "name": "Llangloffan",
+        "tune": "Of Loyalty and Justice"
+    },
+    {
+        "sel": "101b",
+        "name": "Aurelia",
+        "tune": "Of Loyalty and Justice"
+    },
+    {
+        "sel": "102a",
+        "name": "Baca",
+        "tune": "To This My Prayer"
+    },
+    {
+        "sel": "102b",
+        "name": "Park Street",
+        "tune": "My Days Like Evening's Shade"
+    },
+    {
+        "sel": "102c",
+        "name": "Teann A Nall",
+        "tune": "Let This Be Written"
+    },
+    {
+        "sel": "102d",
+        "name": "Sandbanks",
+        "tune": "My Strength He Weakened"
+    },
+    {
+        "sel": "103a",
+        "name": "Schumann",
+        "tune": "O Bless the LORD, My Soul"
+    },
+    {
+        "sel": "103b",
+        "name": "Beecher",
+        "tune": "Bless the LORD, My Soul"
+    },
+    {
+        "sel": "103c",
+        "name": "Evening Prayer",
+        "tune": "For Our Frame He Well Remembers"
+    },
+    {
+        "sel": "103d",
+        "name": "Sicilian Mariners",
+        "tune": "Lord, Dismiss Us with Thy Blessing"
+    },
+    {
+        "sel": "104a",
+        "name": "Lyons",
+        "tune": "O Worship the King; Ye Servants of God, Your Master Proclaim"
+    },
+    {
+        "sel": "104b",
+        "name": "Emsworth",
+        "tune": "By Limits You Set"
+    },
+    {
+        "sel": "104c",
+        "name": "Ash Grove",
+        "tune": "The Trees of the LORD"
+    },
+    {
+        "sel": "104d",
+        "name": "Bradford",
+        "tune": "How Many Works, LORD"
+    },
+    {
+        "sel": "104e",
+        "name": "Hanover",
+        "tune": "Forevermore May the LORD'S Glory Stand"
+    },
+    {
+        "sel": "105a",
+        "name": "Henry",
+        "tune": "O Thank the LORD (Call on His Name)"
+    },
+    {
+        "sel": "105b",
+        "name": "Houghton",
+        "tune": "God's Covenant Stays"
+    },
+    {
+        "sel": "105c",
+        "name": "St. Matthew",
+        "tune": "He Called for Famine"
+    },
+    {
+        "sel": "105d",
+        "name": "Landas",
+        "tune": "My Soul has Found a Resting Place"
+    },
+    {
+        "sel": "105e",
+        "name": "Clonmel",
+        "tune": "How Glad Was Egypt"
+    },
+    {
+        "sel": "106a",
+        "name": "Brown",
+        "tune": "O Praise the LORD! O Thank the LORD"
+    },
+    {
+        "sel": "106b",
+        "name": "High Popples",
+        "tune": "With All Our Fathers"
+    },
+    {
+        "sel": "106c",
+        "name": "St. Kilda",
+        "tune": "They Envied Moses"
+    },
+    {
+        "sel": "106d",
+        "name": "Martyrs",
+        "tune": "Then They Despised"
+    },
+    {
+        "sel": "106e",
+        "name": "Leveque",
+        "tune": "At Meribah"
+    },
+    {
+        "sel": "106f",
+        "name": "Alpena",
+        "tune": "God Put His Tribes"
+    },
+    {
+        "sel": "106g",
+        "name": "Delta",
+        "tune": "Book Four Doxology"
+    },
+    {
+        "sel": "106h",
+        "name": "Homewood",
+        "tune": "Book Four Doxology"
+    },
+    {
+        "sel": "107a",
+        "name": "St. Petersburg",
+        "tune": "How Great Our Lord"
+    },
+    {
+        "sel": "107b",
+        "name": "Dies Irae",
+        "tune": "In Death's Dark Shadow"
+    },
+    {
+        "sel": "107c",
+        "name": "Horsley",
+        "tune": "The Foolish Suffered for Their Sins"
+    },
+    {
+        "sel": "107d",
+        "name": "Fountain",
+        "tune": "There Is a Fountain Filled with Blood"
+    },
+    {
+        "sel": "107e",
+        "name": "Canaan",
+        "tune": "He Changes Streams to Wilderness"
+    },
+    {
+        "sel": "107f",
+        "name": "Glorify",
+        "tune": "O Glorify Him"
+    },
+    {
+        "sel": "107g",
+        "name": "Shadow",
+        "tune": "Some Lived in Darkness"
+    },
+    {
+        "sel": "107h",
+        "name": "Conwell",
+        "tune": "Fools Were Afflicted"
+    },
+    {
+        "sel": "107i",
+        "name": "Ships",
+        "tune": "All Those Who Go Down to the Sea"
+    },
+    {
+        "sel": "107j",
+        "name": "Kirkpatrick",
+        "tune": "Some Rivers He Changes"
+    },
+    {
+        "sel": "108a",
+        "name": "Nicaea",
+        "tune": "Holy, Holy, Holy"
+    },
+    {
+        "sel": "108b",
+        "name": "Leminster",
+        "tune": "God Has Spoken in Holiness"
+    },
+    {
+        "sel": "108c",
+        "name": "Silchester",
+        "tune": "With Steadfast Heart, O God"
+    },
+    {
+        "sel": "108d",
+        "name": "Diademata",
+        "tune": "God Spoke in Holiness"
+    },
+    {
+        "sel": "109a",
+        "name": "Jacki\u2019s 2nd Lament",
+        "tune": "God of My Praise"
+    },
+    {
+        "sel": "109b",
+        "name": "Batty",
+        "tune": "Never Thinking to Show Kindness"
+    },
+    {
+        "sel": "109c",
+        "name": "Katushka",
+        "tune": "Never Thinking to Show Kindness"
+    },
+    {
+        "sel": "109d",
+        "name": "Ebenezer (Ton-y-Botel)",
+        "tune": "O Deep, Deep Love of Jesus; Once to Every Man and Nation"
+    },
+    {
+        "sel": "110a",
+        "name": "Jerusalem",
+        "tune": "Jerusalem"
+    },
+    {
+        "sel": "110b",
+        "name": "All Saints New",
+        "tune": "The Son of God Goes Forth to War"
+    },
+    {
+        "sel": "110c",
+        "name": "St. John",
+        "tune": "The LORD Said to My Lord"
+    },
+    {
+        "sel": "110d",
+        "name": "Terra Beata",
+        "tune": "This is My Father's World"
+    },
+    {
+        "sel": "111a",
+        "name": "Boynton",
+        "tune": "Am I a Soldier of the Cross"
+    },
+    {
+        "sel": "111b",
+        "name": "Stracathro",
+        "tune": "The Mighty Power of His Works"
+    },
+    {
+        "sel": "111c",
+        "name": "Arlington",
+        "tune": "O Praise the LORD"
+    },
+    {
+        "sel": "111d",
+        "name": "Dunfermline",
+        "tune": "The Mighty Power of His Works"
+    },
+    {
+        "sel": "112a",
+        "name": "Hetherton",
+        "tune": "Majestic Sweetness Sits Enthroned"
+    },
+    {
+        "sel": "112b",
+        "name": "Sine Nomine",
+        "tune": "O Praise the LORD"
+    },
+    {
+        "sel": "113a",
+        "name": "Hendon",
+        "tune": "Take My Life and Let it Be"
+    },
+    {
+        "sel": "113b",
+        "name": "Jubilate",
+        "tune": "O Praise the LORD"
+    },
+    {
+        "sel": "113c",
+        "name": "Beth",
+        "tune": "Praise the LORD'S Name"
+    },
+    {
+        "sel": "114a",
+        "name": "Erie",
+        "tune": "When Isr'el Went Forth"
+    },
+    {
+        "sel": "114b",
+        "name": "In Exitu Isreal",
+        "tune": "When from Egypt Isr'el Parted"
+    },
+    {
+        "sel": "115a",
+        "name": "St. Anne",
+        "tune": "O God, Our Help in Ages Past"
+    },
+    {
+        "sel": "115b",
+        "name": "Scott",
+        "tune": "O Israel, Trust in the LORD"
+    },
+    {
+        "sel": "116a",
+        "name": "St. Matthew",
+        "tune": "How Fervently I Love the LORD"
+    },
+    {
+        "sel": "116b",
+        "name": "Ostend",
+        "tune": "I Still Believed"
+    },
+    {
+        "sel": "116c",
+        "name": "Tidings",
+        "tune": "I Love the LORD"
+    },
+    {
+        "sel": "116d",
+        "name": "Pilgrims",
+        "tune": "My Crying Eyes"
+    },
+    {
+        "sel": "117a",
+        "name": "Christmas",
+        "tune": "While Shepherds Watched Their Flocks by Night"
+    },
+    {
+        "sel": "117b",
+        "name": "Mission",
+        "tune": "Praise the LORD"
+    },
+    {
+        "sel": "117c",
+        "name": "Alabad",
+        "tune": "Praise the LORD"
+    },
+    {
+        "sel": "118a",
+        "name": "White Lake",
+        "tune": "O Thank the LORD, for He Is Good"
+    },
+    {
+        "sel": "118b",
+        "name": "Dominus Regit Me",
+        "tune": "Because He's Good"
+    },
+    {
+        "sel": "118c",
+        "name": "Sharon",
+        "tune": "All Earth's Nations Joined Together"
+    },
+    {
+        "sel": "118d",
+        "name": "Hetherton",
+        "tune": "Majestic Sweetness Sits Enthroned"
+    },
+    {
+        "sel": "118e",
+        "name": "Jackson",
+        "tune": "Eternal Wisdom, Thee We Praise"
+    },
+    {
+        "sel": "119a",
+        "name": "Christine",
+        "tune": "How Good It Is to Thank the Lord"
+    },
+    {
+        "sel": "119b",
+        "name": "Hesperus",
+        "tune": "How Can a Young Man Cleanse His Way?"
+    },
+    {
+        "sel": "119c",
+        "name": "Maryton",
+        "tune": "O Master, Let Me Walk With Thee"
+    },
+    {
+        "sel": "119d",
+        "name": "Olive\u2019s Brow",
+        "tune": "Tis Midnight, and on Olive's Brow"
+    },
+    {
+        "sel": "119e",
+        "name": "Bedford",
+        "tune": "That I May Keep Your Statutes"
+    },
+    {
+        "sel": "119f",
+        "name": "City of Our God",
+        "tune": "O Let Your Lovingkindness Now Come"
+    },
+    {
+        "sel": "119g",
+        "name": "Charlestown",
+        "tune": "All Who Love and Serve Your City"
+    },
+    {
+        "sel": "119h",
+        "name": "Teann A Nall",
+        "tune": "My Portion is the LORD"
+    },
+    {
+        "sel": "119i",
+        "name": "Maitland",
+        "tune": "Must Jesus Bear the Cross Alone"
+    },
+    {
+        "sel": "119j",
+        "name": "Eventide",
+        "tune": "Abide With Me"
+    },
+    {
+        "sel": "119k",
+        "name": "Russian Hymn",
+        "tune": "God, the Omnipotent"
+    },
+    {
+        "sel": "119l",
+        "name": "Ellesdie",
+        "tune": "Evermore, O LORD"
+    },
+    {
+        "sel": "119m",
+        "name": "Perfect Way",
+        "tune": "O How I Love Your Law!"
+    },
+    {
+        "sel": "119n",
+        "name": "Tallis\u2019 Canon",
+        "tune": "Your Word's a Lamp"
+    },
+    {
+        "sel": "119o",
+        "name": "Lloyd",
+        "tune": "People of Double Mind I Hate"
+    },
+    {
+        "sel": "119p",
+        "name": "Alexandria",
+        "tune": "People of Double Mind I Hate"
+    },
+    {
+        "sel": "119q",
+        "name": "Nettleton",
+        "tune": "Come Thou Fount of Every Blessing; Hush My Dear, Lie Still and Slumber"
+    },
+    {
+        "sel": "119r",
+        "name": "Retreat",
+        "tune": "From Every Stormy Wind That Blows"
+    },
+    {
+        "sel": "119s",
+        "name": "Coventry Carol",
+        "tune": "Lully, Lully, Thou Little Tiny Child"
+    },
+    {
+        "sel": "119t",
+        "name": "Davis",
+        "tune": "O Thou in Whom Presence My Soul Takes Delight"
+    },
+    {
+        "sel": "119u",
+        "name": "Hamburg",
+        "tune": "When I Survey The Wondrous Cross"
+    },
+    {
+        "sel": "119v",
+        "name": "Hursley",
+        "tune": "Sun of My Soul, Thou Savior Dear"
+    },
+    {
+        "sel": "119w",
+        "name": "Russia",
+        "tune": "LORD, Let My Cry Before You Come"
+    },
+    {
+        "sel": "120a",
+        "name": "Ayrshire",
+        "tune": "I Cried in Trouble to the LORD"
+    },
+    {
+        "sel": "120b",
+        "name": "Martyrdom",
+        "tune": "I Cried in Trouble to the LORD"
+    },
+    {
+        "sel": "121a",
+        "name": "Heath",
+        "tune": "I Lift My Eyes and See the Hills"
+    },
+    {
+        "sel": "121b",
+        "name": "Abbeyville",
+        "tune": "I Lift My Eyes and See the Hills"
+    },
+    {
+        "sel": "121c",
+        "name": "Sandon",
+        "tune": "Unto the Hills I Lift My Longing Eyes"
+    },
+    {
+        "sel": "121d",
+        "name": "Hope",
+        "tune": "I Lift My Eyes and See the Hills"
+    },
+    {
+        "sel": "122a",
+        "name": "CWM Rhondda",
+        "tune": "Guide Me, O Thou Great Jehovah"
+    },
+    {
+        "sel": "122b",
+        "name": "Dzove",
+        "tune": "Now to the LORD'S House Let Us Go!"
+    },
+    {
+        "sel": "123a",
+        "name": "St. Michael",
+        "tune": "I Lift My Eyes to You"
+    },
+    {
+        "sel": "123b",
+        "name": "Leaf",
+        "tune": "I'm Lifting Up My Eyes to You"
+    },
+    {
+        "sel": "124",
+        "name": "Old 124th",
+        "tune": "Now Israel May Say and That in Truth"
+    },
+    {
+        "sel": "125",
+        "name": "Slane",
+        "tune": "Be Thou My Vision"
+    },
+    {
+        "sel": "126a",
+        "name": "Geneva",
+        "tune": "The LORD Brought Zion's Exiles Back"
+    },
+    {
+        "sel": "126b",
+        "name": "Italian Hymn",
+        "tune": "Come, Thou Almighty King"
+    },
+    {
+        "sel": "127a",
+        "name": "Syracuse",
+        "tune": "Unless the LORD Build Up the House"
+    },
+    {
+        "sel": "127b",
+        "name": "Chambersburg",
+        "tune": "Unless the Lord Is He Who Builds the House"
+    },
+    {
+        "sel": "128a",
+        "name": "McKee",
+        "tune": "All the Way My Savior Leads Me"
+    },
+    {
+        "sel": "128b",
+        "name": "Holy Manna",
+        "tune": "Blessed Are All Who Fear the LORD'S Name"
+    },
+    {
+        "sel": "129",
+        "name": "Old 110th",
+        "tune": "Time and Again They Greatly Did Oppress Me"
+    },
+    {
+        "sel": "130a",
+        "name": "Evadna",
+        "tune": "LORD, From the Depths to You I Cried"
+    },
+    {
+        "sel": "130b",
+        "name": "Morte Christe",
+        "tune": "LORD, From the Depths I Cried to You"
+    },
+    {
+        "sel": "131a",
+        "name": "Humility",
+        "tune": "My Heart Is Not Exalted, LORD"
+    },
+    {
+        "sel": "131b",
+        "name": "Repton",
+        "tune": "Dear Lord and Father of Mankind"
+    },
+    {
+        "sel": "132a",
+        "name": "St. Andrew of Crete",
+        "tune": "Christian, Doth Thou See Them?"
+    },
+    {
+        "sel": "132b",
+        "name": "Glenfinlas",
+        "tune": "For Your Servant David"
+    },
+    {
+        "sel": "132c",
+        "name": "Wyclif",
+        "tune": "For the LORD Has Chosen Zion"
+    },
+    {
+        "sel": "133a",
+        "name": "Azmon",
+        "tune": "O for a Thousand Tongues to Sing"
+    },
+    {
+        "sel": "133b",
+        "name": "Dunlap\u2019s Creek",
+        "tune": "Behold How Very Good It Is"
+    },
+    {
+        "sel": "134a",
+        "name": "From Strength to Strength",
+        "tune": "Come, Bless the LORD"
+    },
+    {
+        "sel": "134b",
+        "name": "Stuttgart",
+        "tune": "Bless the LORD, All His Servants"
+    },
+    {
+        "sel": "135a",
+        "name": "Austria",
+        "tune": "Glorious Things of Thee are Spoken"
+    },
+    {
+        "sel": "135b",
+        "name": "Triumph",
+        "tune": "Your Name, LORD, Endures Forever"
+    },
+    {
+        "sel": "135c",
+        "name": "Dorrnance",
+        "tune": "Your Name, LORD, Endures Forever"
+    },
+    {
+        "sel": "136a",
+        "name": "Easter Hymn",
+        "tune": "Christ the Lord Is Risen Today"
+    },
+    {
+        "sel": "136b",
+        "name": "Constance",
+        "tune": "I've Found a Friend, O Such a Friend"
+    },
+    {
+        "sel": "136c",
+        "name": "Shining Shore",
+        "tune": "My Days are Gliding Swiftly By"
+    },
+    {
+        "sel": "136d",
+        "name": "Llanfair",
+        "tune": "Thank the LORD for Good is He"
+    },
+    {
+        "sel": "137a",
+        "name": "Neumark",
+        "tune": "In Babylon We Thought of Zion"
+    },
+    {
+        "sel": "137b",
+        "name": "Rakefet",
+        "tune": "By Babylon's Rivers"
+    },
+    {
+        "sel": "138a",
+        "name": "Walton",
+        "tune": "With All My Heart My Thanks I'll Bring"
+    },
+    {
+        "sel": "138b",
+        "name": "Wesley",
+        "tune": "With All My Heart My Thanks I'll Bring"
+    },
+    {
+        "sel": "139a",
+        "name": "Holley",
+        "tune": "You Searched Me, LORD"
+    },
+    {
+        "sel": "139b",
+        "name": "Maryton",
+        "tune": "O Master, Let Me Walk With Thee"
+    },
+    {
+        "sel": "139c",
+        "name": "Woodworth",
+        "tune": "Just as I Am, Without One Plea"
+    },
+    {
+        "sel": "139d",
+        "name": "Wareham",
+        "tune": "Great God We Sing That Mighty Hand"
+    },
+    {
+        "sel": "140a",
+        "name": "Diamond",
+        "tune": "Save Me, O LORD"
+    },
+    {
+        "sel": "140b",
+        "name": "Yorkshire",
+        "tune": "Christians, Awake, Salute the Happy Morn"
+    },
+    {
+        "sel": "141a",
+        "name": "When Jesus Wept",
+        "tune": "When Jesus Wept"
+    },
+    {
+        "sel": "141b",
+        "name": "Leveque",
+        "tune": "When Just Men Strike Me in Reproof"
+    },
+    {
+        "sel": "142",
+        "name": "Contemplation",
+        "tune": "To You, O LORD, I Lift My Voice"
+    },
+    {
+        "sel": "143a",
+        "name": "Invitation",
+        "tune": "LORD, Listen to My Prayer"
+    },
+    {
+        "sel": "143b",
+        "name": "I Need Thee",
+        "tune": "I Need Thee Every Hour"
+    },
+    {
+        "sel": "143c",
+        "name": "St. Elizabeth",
+        "tune": "Fairest Lord Jesus; Beautiful Savior"
+    },
+    {
+        "sel": "143d",
+        "name": "St. Elizabeth",
+        "tune": "Fairest Lord Jesus; Beautiful Savior"
+    },
+    {
+        "sel": "144a",
+        "name": "Lischer",
+        "tune": "Blessed Be the LORD, My Rock"
+    },
+    {
+        "sel": "144b",
+        "name": "Lenox",
+        "tune": "O God, In Praise to You"
+    },
+    {
+        "sel": "145a",
+        "name": "Duke Street",
+        "tune": "Jesus Shall Reign Where'er the Sun"
+    },
+    {
+        "sel": "145b",
+        "name": "Ernan",
+        "tune": "Full of Compassion Is the LORD"
+    },
+    {
+        "sel": "145c",
+        "name": "Rockingham",
+        "tune": "When I Survey the Wondrous Cross"
+    },
+    {
+        "sel": "145d",
+        "name": "Beethoven\u2019s 7th",
+        "tune": "I Will Extol You"
+    },
+    {
+        "sel": "146a",
+        "name": "Converse",
+        "tune": "What a Friend We have in Jesus"
+    },
+    {
+        "sel": "146b",
+        "name": "Ripley",
+        "tune": "Hallelujah, Praise Jehovah"
+    },
+    {
+        "sel": "147a",
+        "name": "Onward",
+        "tune": "Sing Halleluja!"
+    },
+    {
+        "sel": "147b",
+        "name": "Petersham",
+        "tune": "O Praise the LORD, Jerusalem"
+    },
+    {
+        "sel": "148a",
+        "name": "St. Catherines",
+        "tune": "From Heav'n O Praise the LORD!"
+    },
+    {
+        "sel": "148b",
+        "name": "Praise Jehovah",
+        "tune": "Hallelujah! Praise the LORD'S Name!"
+    },
+    {
+        "sel": "149a",
+        "name": "Dance of the Dawn",
+        "tune": "Praise the LORD! Hallelujah!"
+    },
+    {
+        "sel": "149b",
+        "name": "Bethlehem",
+        "tune": "How Vast the Benefits Divine; All Nature's Works His Praise Declare"
+    },
+    {
+        "sel": "150a",
+        "name": "Omega",
+        "tune": "Praise the LORD!"
+    },
+    {
+        "sel": "150b",
+        "name": "Sunderland",
+        "tune": "Book Five Doxology"
+    }
+]
