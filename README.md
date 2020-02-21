@@ -1,6 +1,9 @@
 Compendium of Reformed Standards
 ================================
 
+The *compendium* is a collection of reformed documents, such as confessions and
+catechisms.  It is the source for the [Reformed Standards website][1].
+
 * ancient-church
     * apostles-creed
     * athanasian-creed
@@ -47,3 +50,5 @@ Contributing
 
 Contributions are encouraged, and welcome.  Feel free to email us patches, or
 open issues and pull requests on GitHub.
+
+[1]: https://reformedstandards.com
