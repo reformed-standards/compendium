@@ -1,6 +1,8 @@
 Compendium of Reformed Standards
 ================================
 
+[![Build Status](https://travis-ci.org/reformed-standards/compendium.svg?branch=master)](https://travis-ci.org/reformed-standards/compendium)
+
 The *compendium* is a collection of reformed documents, such as confessions and
 catechisms.  It is the source for the [Reformed Standards website][1].
 
