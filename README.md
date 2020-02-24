@@ -14,7 +14,7 @@ catechisms.  It is the source for the [Reformed Standards website][1].
 * anglican
     * 39-articles
 * british
-    *savoy
+    * savoy
 * miscellany
     * catechism-young-children
     * nashville-wcf.html
