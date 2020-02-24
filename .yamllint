@@ -1,0 +1,10 @@
+---
+# vim: ft=yaml
+# It extends the default conf by adjusting some options.
+
+extends: default
+
+rules:
+  comments-indentation: disable  # don't bother me with this rule
+  line-length:
+    max: 120
