@@ -33,6 +33,7 @@ catechisms.  It is the source for the [Reformed Standards website][1].
 * three-forms-of-unity
     * belgic-confession
     * canons-of-dort
+    * church-order-of-dort
     * heidelberg-catechism
 * westminster
     * directory-for-family-worship
