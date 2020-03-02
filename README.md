@@ -34,6 +34,7 @@ catechisms.  It is the source for the [Reformed Standards website][1].
     * belgic-confession
     * canons-of-dort
     * church-order-of-dort
+    * dort-sabbath
     * heidelberg-catechism
 * westminster
     * directory-for-family-worship
