@@ -48,7 +48,8 @@ questions:
         - Eph.2.20
         - Rev.22.18-Rev.22.19
         - Isa.8.20
-        - Luke.16.29,Luke.16.31
+        - Luke.16.29
+        - Luke.16.31
         - Gal.1.8-Gal.1.9
         - 2Tim.3.15-2Tim.3.16
   - question: >-
@@ -65,8 +66,10 @@ questions:
     verses:
       1:
         - Hos.8.12
-        - 1Cor.2.6-1Cor.2.7,1Cor.2.13
-        - Ps.119.18,Ps.119.129
+        - 1Cor.2.6-1Cor.2.7
+        - 1Cor.2.13
+        - Ps.119.18
+        - Ps.119.129
       2:
         - Ps.12.6
         - Ps.119.140
@@ -74,7 +77,8 @@ questions:
         - Acts.10.43
         - Acts.26.22
       4:
-        - Rom.3.19,Rom.3.27
+        - Rom.3.19
+        - Rom.3.27
       5:
         - Acts.18.28
         - Heb.4.12
@@ -84,7 +88,8 @@ questions:
         - Acts.20.32
       6:
         - John.16.13-John.16.14
-        - 1John.2.20,1John.2.27
+        - 1John.2.20
+        - 1John.2.27
         - John.20.31
   - question: >-
       What do the scriptures principally teach?
@@ -107,7 +112,8 @@ questions:
       2:
         - Matt.3.16-Matt.3.17
       3:
-        - Acts.15.14-Acts.15.15,Acts.15.17-Acts.15.18
+        - Acts.15.14-Acts.15.15
+        - Acts.15.17-Acts.15.18
         - Isa.46.9
       4:
         - Acts.4.27-Acts.4.28
@@ -165,7 +171,8 @@ questions:
     verses:
       1:
         - Deut.6.4
-        - 1Cor.8.4,1Cor.8.6
+        - 1Cor.8.4
+        - 1Cor.8.6
         - Jer.10.10
   - question: >-
       How many persons are there in the Godhead?
@@ -190,9 +197,11 @@ questions:
       Father and the Son from all eternity.[3]
     verses:
       1:
-        - Heb.1.5-Heb.1.6,Heb.1.8
+        - Heb.1.5-Heb.1.6
+        - Heb.1.8
       2:
-        - John.1.14,John.1.18
+        - John.1.14
+        - John.1.18
       3:
         - John.15.26
         - Gal.4.6
@@ -206,7 +215,9 @@ questions:
       works,[3] and worship,[4] as are proper to God only.
     verses:
       1:
-        - Isa.6.3,Isa.6.5,Isa.6.8
+        - Isa.6.3
+        - Isa.6.5
+        - Isa.6.8
         - John.12.41
         - Acts.28.25
         - 1John.5.20
@@ -234,9 +245,11 @@ questions:
       1:
         - Eph.1.11
         - Rom.11.33
-        - Rom.9.14-Rom.9.15,Rom.9.18
+        - Rom.9.14-Rom.9.15
+        - Rom.9.18
       2:
-        - Eph.1.4,Eph.1.11
+        - Eph.1.4
+        - Eph.1.11
         - Rom.9.22-Rom.9.23
         - Ps.33.11
   - question: >-
@@ -258,7 +271,8 @@ questions:
         - Eph.1.4-Eph.1.6
         - 2Thess.2.13-2Thess.2.14
       3:
-        - Rom.9.17-Rom.9.18,Rom.9.21-Rom.9.22
+        - Rom.9.17-Rom.9.18
+        - Rom.9.21-Rom.9.22
         - Matt.11.25-Matt.11.26
         - 2Tim.2.20
         - Jude.1.4
@@ -416,7 +430,8 @@ questions:
       knowledge of good and evil, upon the pain of death.[8]
     verses:
       1:
-        - Gen.2.8,Gen.2.15-Gen.2.16
+        - Gen.2.8
+        - Gen.2.15-Gen.2.16
       2:
         - Gen.1.28
       3:
@@ -443,7 +458,8 @@ questions:
       wherein they were created.[1]
     verses:
       1:
-        - Gen.3.6-Gen.3.8,Gen.3.13
+        - Gen.3.6-Gen.3.8
+        - Gen.3.13
   - question: >-
       Did all mankind fall in that first transgression ?
     number: 22
@@ -476,7 +492,8 @@ questions:
     verses:
       1:
         - 1John.3.4
-        - Gal.3.10,Gal.3.12
+        - Gal.3.10
+        - Gal.3.12
   - question: >-
       Wherein consists the sinfulness of that estate whereinto man fell?
     number: 25
@@ -490,7 +507,8 @@ questions:
       do proceed all actual transgressions.[3]
     verses:
       1:
-        - Rom.5.12,Rom.5.19
+        - Rom.5.12
+        - Rom.5.19
       2:
         - Rom.3.10-Rom.3.19
         - Eph.2.1-Eph.2.3
@@ -523,7 +541,9 @@ questions:
       world, and that which is to come.[4]
     verses:
       1:
-        - Gen.3.8,Gen.3.10,Gen.3.24
+        - Gen.3.8
+        - Gen.3.10
+        - Gen.3.24
       2:
         - Eph.2.2-Eph.2.3
       3:
@@ -532,7 +552,8 @@ questions:
         - Gen.2.17
         - Lam.3.39
         - Rom.6.23
-        - Matt.25.41,Matt.25.46
+        - Matt.25.41
+        - Matt.25.46
         - Jude.1.7
   - question: >-
       What are the punishments of sin in this world?
@@ -564,7 +585,8 @@ questions:
       8:
         - Deut.28.15-Deut.28.18
       9:
-        - Rom.6.21,Rom.6.23
+        - Rom.6.21
+        - Rom.6.23
   - question: >-
       What are the punishments of sin in the world to come?
     number: 29
@@ -576,7 +598,8 @@ questions:
     verses:
       1:
         - 2Thess.1.9
-        - Mark.9.43-Mark.9.44,Mark.9.48
+        - Mark.9.43-Mark.9.44
+        - Mark.9.48
         - Luke.16.24
   - question: >-
       Doth God leave all mankind to perish in the estate of sin and misery?
@@ -592,7 +615,8 @@ questions:
       1:
         - 1Thess.5.9
       2:
-        - Gal.3.10,Gal.3.12
+        - Gal.3.10
+        - Gal.3.12
       3:
         - Titus.3.4-Titus.3.7
         - Gal.3.21
@@ -639,7 +663,8 @@ questions:
       7:
         - Ezek.36.27
       8:
-        - Jas.2.18,Jas.2.22
+        - Jas.2.18
+        - Jas.2.22
       9:
         - 2Cor.5.14-2Cor.5.15
       10:
@@ -669,7 +694,8 @@ questions:
       1:
         - Rom.15.8
       2:
-        - Acts.3.20,Acts.3.24
+        - Acts.3.20
+        - Acts.3.24
       3:
         - Heb.10.1
       4:
@@ -680,7 +706,8 @@ questions:
         - Heb.8-Heb.10
         - Heb.11.13
       7:
-        - Gal.3.7-Gal.3.9,Gal.3.14
+        - Gal.3.7-Gal.3.9
+        - Gal.3.14
   - question: >-
       How is the covenant of grace administered under the New Testament?
     number: 35
@@ -699,7 +726,8 @@ questions:
         - 1Cor.11.23-1Cor.11.25
       4:
         - 2Cor.3.6-2Cor.3.9
-        - Heb.8.6,Heb.8.10-Heb.8.11
+        - Heb.8.6
+        - Heb.8.10-Heb.8.11
   - question: >-
       Who is the Mediator of the covenant of grace?
     number: 36
@@ -713,7 +741,8 @@ questions:
       1:
         - 1Tim.2.5
       2:
-        - John.1.1,John.1.14
+        - John.1.1
+        - John.1.14
         - John.10.30
         - Phil.2.6
       3:
@@ -736,7 +765,10 @@ questions:
         - John.1.14
         - Matt.26.38
       2:
-        - Luke.1.27,Luke.1.31,Luke.1.35,Luke.1.42
+        - Luke.1.27
+        - Luke.1.31
+        - Luke.1.35
+        - Luke.1.42
         - Gal.4.4
       3:
         - Heb.4.15
@@ -768,11 +800,14 @@ questions:
         - Eph.1.6
         - Matt.3.17
       5:
-        - Titus.2.13,Titus.2.1
+        - Titus.2.13
+        - Titus.2.1
       6:
         - Gal.4.6
       7:
-        - Luke.1.68-Luke.1.69,Luke.1.71,Luke.1.74
+        - Luke.1.68-Luke.1.69
+        - Luke.1.71
+        - Luke.1.74
       8:
         - Heb.5.8-Heb.5.9
         - Heb.9.11-Heb.9.15
@@ -810,7 +845,8 @@ questions:
       relied on by us,[1] as the works of the whole person.[2]
     verses:
       1:
-        - Matt.1.21,Matt.1.23
+        - Matt.1.21
+        - Matt.1.23
         - Matt.3.17
         - Heb.9.14
       2:
@@ -842,7 +878,8 @@ questions:
         - Matt.28.18-Matt.28.20
       3:
         - Acts.3.21-Acts.3.22
-        - Luke.4.18,Luke.4.21
+        - Luke.4.18
+        - Luke.4.21
       4:
         - Heb.5.5-Heb.5.7
         - Heb.4.14-Heb.4.15
@@ -882,7 +919,8 @@ questions:
       them.[3]
     verses:
       1:
-        - Heb.9.14,Heb.9.28
+        - Heb.9.14
+        - Heb.9.28
       2:
         - Heb.2.17
       3:
@@ -957,7 +995,8 @@ questions:
       of more than ordinary abasement.[1]
     verses:
       1:
-        - John.1.14,John.1.18
+        - John.1.14
+        - John.1.18
         - Gal.4.4
         - Luke.2.7
   - question: >-
@@ -1028,7 +1067,8 @@ questions:
         - 1Cor.15.3-1Cor.15.4
       2:
         - Ps.16.10
-        - Acts.2.24-Acts.2.27,Acts.2.31
+        - Acts.2.24-Acts.2.27
+        - Acts.2.31
         - Rom.6.9
         - Matt.12.40
   - question: >-
@@ -1067,7 +1107,8 @@ questions:
       the last day.[14]
     verses:
       1:
-        - Acts.2.24,Acts.2.27
+        - Acts.2.24
+        - Acts.2.27
       2:
         - Luke.24.39
       3:
@@ -1091,7 +1132,8 @@ questions:
       11:
         - Rom.4.25
       12:
-        - Eph.2.1,Eph.2.5-Eph.2.6
+        - Eph.2.1
+        - Eph.2.5-Eph.2.6
         - Col.2.12
       13:
         - 1Cor.15.25-1Cor.15.27
@@ -1168,12 +1210,15 @@ questions:
       their persons [7] and services.[8]
     verses:
       1:
-        - Heb.9.12,Heb.9.24
+        - Heb.9.12
+        - Heb.9.24
       2:
         - Heb.1.3
       3:
         - John.3.16
-        - John.17.9,John.17.20,John.17.24
+        - John.17.9
+        - John.17.20
+        - John.17.24
       4:
         - Rom.8.33-Rom.8.34
       5:
@@ -1241,7 +1286,8 @@ questions:
     verses:
       1:
         - Eph.1.13-Eph.1.14
-        - John.6.37,John.6.39
+        - John.6.37
+        - John.6.39
         - John.10.15-John.10.16
       2:
         - Eph.2.8
@@ -1330,11 +1376,14 @@ questions:
         - Isa.9.5-Isa.9.6
         - 1Tim.4.10
       2:
-        - Ps.115.1-Ps.115.2,Ps.115.9
+        - Ps.115.1-Ps.115.2
+        - Ps.115.9
         - Isa.31.4-Isa.31.5
-        - Zech.12.2-Zech.12.4,Zech.12.8-Zech.12.9
+        - Zech.12.2-Zech.12.4
+        - Zech.12.8-Zech.12.9
       3:
-        - Acts.2.39,Acts.2.42
+        - Acts.2.39
+        - Acts.2.42
       4:
         - Ps.147.19-Ps.147.20
         - Rom.9.4
@@ -1381,7 +1430,8 @@ questions:
       2:
         - 1Cor.6.17
         - John.10.28
-        - Eph.5.23,Eph.5.30
+        - Eph.5.23
+        - Eph.5.30
       3:
         - 1Pet.5.10
         - 1Cor.1.9
@@ -1404,7 +1454,8 @@ questions:
         - 2Tim.1.8-2Tim.1.9
       2:
         - Titus.3.4-Titus.3.5
-        - Eph.2.4-Eph.2.5,Eph.2.7-Eph.2.9
+        - Eph.2.4-Eph.2.5
+        - Eph.2.7-Eph.2.9
         - Rom.9.11
       3:
         - 2Cor.5.20
@@ -1413,7 +1464,8 @@ questions:
         - 2Thess.2.13-2Thess.2.14
       4:
         - Acts.26.18
-        - 1Cor.2.10,1Cor.2.12
+        - 1Cor.2.10
+        - 1Cor.2.12
       5:
         - Ezek.11.19
         - Ezek.36.26-Ezek.36.27
@@ -1471,13 +1523,18 @@ questions:
       of Christ, by God imputed to them,[4] and received by faith alone.[5]
     verses:
       1:
-        - Rom.3.22,Rom.3.24-Rom.3.25
+        - Rom.3.22
+        - Rom.3.24-Rom.3.25
         - Rom.4.5
       2:
-        - 2Cor.5.19,2Cor.5.21
-        - Rom.3.22,Rom.3.24-Rom.3.25,Rom.3.27-Rom.3.28
+        - 2Cor.5.19
+        - 2Cor.5.21
+        - Rom.3.22
+        - Rom.3.24-Rom.3.25
+        - Rom.3.27-Rom.3.28
       3:
-        - Titus.3.5,Titus.3.7
+        - Titus.3.5
+        - Titus.3.7
         - Eph.1.7
       4:
         - Rom.5.17-Rom.5.19
@@ -1500,13 +1557,16 @@ questions:
       grace.[6]
     verses:
       1:
-        - Rom.5.8-Rom.5.10,Rom.5.19
+        - Rom.5.8-Rom.5.10
+        - Rom.5.19
       2:
         - 1Tim.2.5-1Tim.2.6
         - Heb.10.10
         - Matt.20.28
-        - Dan.9.24,Dan.9.26
-        - Isa.53.4-Isa.53.6,Isa.53.10-Isa.53.12
+        - Dan.9.24
+        - Dan.9.26
+        - Isa.53.4-Isa.53.6
+        - Isa.53.10-Isa.53.12
         - Heb.7.22
         - Rom.8.32
         - 1Pet.1.18-1Pet.1.19
@@ -1636,7 +1696,9 @@ questions:
         - Eph.3.16-Eph.3.19
         - Col.1.10-Col.1.11
       6:
-        - Rom.6.4,Rom.6.6,Rom.6.14
+        - Rom.6.4
+        - Rom.6.6
+        - Rom.6.14
         - Gal.5.24
   - question: >-
       What is repentance unto life?
@@ -1656,9 +1718,12 @@ questions:
       2:
         - Zech.12.10
       3:
-        - Acts.11.18,Acts.11.20-Acts.11.21
+        - Acts.11.18
+        - Acts.11.20-Acts.11.21
       4:
-        - Ezek.18.28,Ezek.18.30,Ezek.18.32
+        - Ezek.18.28
+        - Ezek.18.30
+        - Ezek.18.32
         - Luke.15.17-Luke.15.18
         - Hos.2.6-Hos.2.7
       5:
@@ -1675,7 +1740,9 @@ questions:
         - Ezek.14.6
         - 1Kgs.8.47-1Kgs.8.48
       10:
-        - Ps.119.6,Ps.119.59,Ps.119.128
+        - Ps.119.6
+        - Ps.119.59
+        - Ps.119.128
         - 2Kgs.23.25
   - question: >-
       Wherein do justification and sanctification differ?
@@ -1695,20 +1762,23 @@ questions:
         - 1Cor.6.11
         - 1Cor.1.30
       2:
-        - Rom.4.6,Rom.4.8
+        - Rom.4.6
+        - Rom.4.8
       3:
         - Ezek.36.27
       4:
         - Rom.3.24-Rom.3.25
       5:
-        - Rom.6.6,Rom.6.14
+        - Rom.6.6
+        - Rom.6.14
       6:
         - Rom.8.33-Rom.8.34
       7:
         - 1John.2.12-1John.2.14
         - Heb.5.12-Heb.5.14
       8:
-        - 1John.1.8,1John.1.10
+        - 1John.1.8
+        - 1John.1.10
       9:
         - 2Cor.7.1
         - Phil.3.12-Phil.3.14
@@ -1724,7 +1794,8 @@ questions:
       and defiled in the sight of God.[3]
     verses:
       1:
-        - Rom.7.18,Rom.7.23
+        - Rom.7.18
+        - Rom.7.23
         - Mark.14.66
         - Gal.2.11-Gal.2.12
       2:
@@ -1782,8 +1853,12 @@ questions:
         - 1John.2.3
       2:
         - 1Cor.2.12
-        - 1John.3.14,1John.3.18-1John.3.19,1John.3.21,1John.3.24
-        - 1John.4.13,1John.4.16
+        - 1John.3.14
+        - 1John.3.18-1John.3.19
+        - 1John.3.21
+        - 1John.3.24
+        - 1John.4.13
+        - 1John.4.16
         - Heb.6.11-Heb.6.12
       3:
         - Rom.8.16
@@ -1805,16 +1880,22 @@ questions:
         - Eph.1.13
       2:
         - Isa.50.10
-        - Ps.88.1-Ps.88.3,Ps.88.6-Ps.88.7,Ps.88.9-Ps.88.10,Ps.88.13-Ps.88.15
+        - Ps.88.1-Ps.88.3
+        - Ps.88.6-Ps.88.7
+        - Ps.88.9-Ps.88.10
+        - Ps.88.13-Ps.88.15
       3:
         - Ps.77.1-Ps.77.12
-        - Song.5.2-Song.5.3,Song.5.6
-        - Ps.51.8,Ps.51.12
+        - Song.5.2-Song.5.3
+        - Song.5.6
+        - Ps.51.8
+        - Ps.51.12
         - Ps.31.22
         - Ps.22.1
       4:
         - 1John.3.9
-        - Ps.73.15,Ps.73.23
+        - Ps.73.15
+        - Ps.73.23
         - Isa.54.7-Isa.54.10
   - question: >-
       What is the communion in glory which the members of the invisible
@@ -1885,7 +1966,8 @@ questions:
       communion with Christ in glory, which they then enter upon.[4]
     verses:
       1:
-        - 1Cor.15.26,1Cor.15.55-1Cor.15.57
+        - 1Cor.15.26
+        - 1Cor.15.55-1Cor.15.57
         - Heb.2.15
       2:
         - Isa.57.1-Isa.57.2
@@ -1916,7 +1998,9 @@ questions:
       1:
         - Heb.12.23
       2:
-        - 2Cor.5.1,2Cor.5.6,2Cor.5.8
+        - 2Cor.5.1
+        - 2Cor.5.6
+        - 2Cor.5.8
         - Phil.1.23
         - Acts.3.21
         - Eph.4.10
@@ -1957,7 +2041,8 @@ questions:
         - 1Thess.4.15-1Thess.4.17
         - John.5.28-John.5.29
       3:
-        - 1Cor.15.21-1Cor.15.23,1Cor.15.42-1Cor.15.44
+        - 1Cor.15.21-1Cor.15.23
+        - 1Cor.15.42-1Cor.15.44
         - Phil.3.21
       4:
         - John.5.27-John.5.29
@@ -1972,10 +2057,14 @@ questions:
       Lord.[2]
     verses:
       1:
-        - 2Pet.2.4,2Pet.2.6-2Pet.2.7,2Pet.2.14-2Pet.2.15
+        - 2Pet.2.4
+        - 2Pet.2.6-2Pet.2.7
+        - 2Pet.2.14-2Pet.2.15
         - Matt.25.46
       2:
-        - Matt.24.36,Matt.24.42,Matt.24.44
+        - Matt.24.36
+        - Matt.24.42
+        - Matt.24.44
   - question: >-
       What shall be done to the wicked at the day of judgment?
     number: 89
@@ -2023,7 +2112,8 @@ questions:
       3:
         - 1Cor.6.2-1Cor.6.3
       4:
-        - Matt.25.34,Matt.25.46
+        - Matt.25.34
+        - Matt.25.46
       5:
         - Eph.5.27
         - Rev.14.13
@@ -2073,7 +2163,9 @@ questions:
       breach of it.[3]
     verses:
       1:
-        - Deut.5.1-Deut.5.3,Deut.5.31,Deut.5.33
+        - Deut.5.1-Deut.5.3
+        - Deut.5.31
+        - Deut.5.33
         - Luke.10.26-Luke.10.27
         - 1Thess.5.23
       2:
@@ -2081,7 +2173,8 @@ questions:
         - Acts.24.16
       3:
         - Rom.10.5
-        - Gal.3.10,Gal.3.12
+        - Gal.3.10
+        - Gal.3.12
   - question: >-
       Is there any use of the moral law to man since the fall?
     number: 94
@@ -2119,7 +2212,8 @@ questions:
         - Rom.3.20
         - Rom.7.7
       4:
-        - Rom.3.9,Rom.3.23
+        - Rom.3.9
+        - Rom.3.23
       5:
         - Gal.3.21-Gal.3.22
       6:
@@ -2158,7 +2252,8 @@ questions:
     verses:
       1:
         - Rom.6.14
-        - Rom.7.4,Rom.7.6
+        - Rom.7.4
+        - Rom.7.6
         - Gal.4.4-Gal.4.5
       2:
         - Rom.3.20
@@ -2170,7 +2265,8 @@ questions:
         - Gal.3.13-Gal.3.14
         - Rom.8.3-Rom.8.4
       5:
-        - Luke.1.68-Luke.1.69,Luke.1.74-Luke.1.75
+        - Luke.1.68-Luke.1.69
+        - Luke.1.74-Luke.1.75
         - Col.1.12-Col.1.14
       6:
         - Rom.7.22
@@ -2251,7 +2347,8 @@ questions:
       7:
         - Jer.18.7-Jer.18.8
         - Exod.20.7
-        - Ps.15.1,Ps.15.4-Ps.15.5
+        - Ps.15.1
+        - Ps.15.4-Ps.15.5
         - Ps.24.4-Ps.24.5
       8:
         - Job.13.7-Job.13.8
@@ -2263,7 +2360,8 @@ questions:
       10:
         - Matt.12.7
       11:
-        - Matt.5.21-Matt.5.22,Matt.5.27-Matt.5.28
+        - Matt.5.21-Matt.5.22
+        - Matt.5.27-Matt.5.28
         - Matt.15.4-Matt.15.6
         - Heb.10.24-Heb.10.25
         - Jude.1.23
@@ -2312,13 +2410,15 @@ questions:
       4:
         - Exod.6.3
       5:
-        - Acts.17.24,Acts.17.28
+        - Acts.17.24
+        - Acts.17.28
       6:
         - Gen.17.7
       7:
         - Luke.1.74-Luke.1.75
       8:
-        - 1Pet.1.15,1Pet.1.17-1Pet.1.18
+        - 1Pet.1.15
+        - 1Pet.1.17-1Pet.1.18
         - Lev.18.30
         - Lev.19.37
   - question: >-
@@ -2378,7 +2478,8 @@ questions:
       8:
         - Isa.45.23
       9:
-        - Josh.24.15,Josh.24.22
+        - Josh.24.15
+        - Josh.24.22
       10:
         - Deut.6.5
       11:
@@ -2451,14 +2552,17 @@ questions:
       3:
         - Ps.81.1
       4:
-        - Isa.43.2,Isa.43.23-Isa.43.24
+        - Isa.43.2
+        - Isa.43.23-Isa.43.24
       5:
         - Jer.4.22
-        - Hos.4.1,Hos.4.6
+        - Hos.4.1
+        - Hos.4.6
       6:
         - Jer.2.32
       7:
-        - Acts.17.23,Acts.17.29
+        - Acts.17.23
+        - Acts.17.29
       8:
         - Isa.40.18
       9:
@@ -2477,7 +2581,8 @@ questions:
       15:
         - 1John.2.15-1John.2.16
         - 1Sam.2.29
-        - Col.2.2,Col.2.5
+        - Col.2.2
+        - Col.2.5
       16:
         - 1John.4.1
       17:
@@ -2533,7 +2638,8 @@ questions:
         - Rom.1.25
       37:
         - Lev.20.6
-        - 1Sam.28.7,1Sam.28.11
+        - 1Sam.28.7
+        - 1Sam.28.11
         - 1Chr.10.13-1Chr.10.14
       38:
         - Acts.5.3
@@ -2548,7 +2654,9 @@ questions:
         - Acts.7.51
         - Eph.4.30
       42:
-        - Ps.73.2-Ps.73.3,Ps.73.13-Ps.73.15,Ps.73.22
+        - Ps.73.2-Ps.73.3
+        - Ps.73.13-Ps.73.15
+        - Ps.73.22
         - Job.1.22
       43:
         - 1Sam.6.7-1Sam.6.9
@@ -2631,7 +2739,8 @@ questions:
         - 1Tim.5.17-1Tim.5.18
         - 1Cor.9.7-1Cor.9.15
       7:
-        - Joel.2.12,Joel.2.18
+        - Joel.2.12
+        - Joel.2.18
         - 1Cor.7.5
       8:
         - Deut.6.13
@@ -2679,7 +2788,8 @@ questions:
       6:
         - Deut.4.15-Deut.4.19
         - Acts.17.29
-        - Rom.1.21-Rom.1.23,Rom.1.25
+        - Rom.1.21-Rom.1.23
+        - Rom.1.25
       7:
         - Dan.3.18
         - Gal.4.8
@@ -2688,13 +2798,15 @@ questions:
       9:
         - Exod.32.8
       10:
-        - 1Kgs.18.26,1Kgs.18.28
+        - 1Kgs.18.26
+        - 1Kgs.18.28
         - Isa.65.11
       11:
         - Acts.17.22
         - Col.2.21-Col.2.23
       12:
-        - Mal.1.7-Mal.1.8,Mal.1.14
+        - Mal.1.7-Mal.1.8
+        - Mal.1.14
       13:
         - Deut.4.2
       14:
@@ -2720,7 +2832,8 @@ questions:
         - Exod.4.24-Exod.4.26
       23:
         - Matt.22.5
-        - Mal.1.7,Mal.1.13
+        - Mal.1.7
+        - Mal.1.13
       24:
         - Matt.23.13
       25:
@@ -2792,24 +2905,30 @@ questions:
       3:
         - Ps.138.2
       4:
-        - 1Cor.11.24-1Cor.11.25,1Cor.11.28-1Cor.11.29
+        - 1Cor.11.24-1Cor.11.25
+        - 1Cor.11.28-1Cor.11.29
       5:
         - 1Tim.2.8
       6:
         - Jer.4.2
       7:
-        - Eccl.5.2,Eccl.5.4-Eccl.5.6
+        - Eccl.5.2
+        - Eccl.5.4-Eccl.5.6
       8:
-        - Acts.1.24,Acts.1.26
+        - Acts.1.24
+        - Acts.1.26
       9:
         - Job.36.24
       10:
         - Mal.3.16
       11:
-        - Ps.8.1,Ps.8.3-Ps.8.4,Ps.8.9
+        - Ps.8.1
+        - Ps.8.3-Ps.8.4
+        - Ps.8.9
       12:
         - Col.3.17
-        - Ps.105.2,Ps.105.5
+        - Ps.105.2
+        - Ps.105.5
       13:
         - Ps.102.18
       14:
@@ -2854,14 +2973,19 @@ questions:
       3:
         - Prov.30.9
       4:
-        - Mal.1.6-Mal.1.7,Mal.1.12
+        - Mal.1.6-Mal.1.7
+        - Mal.1.12
         - Mal.3.14
       5:
         - 1Sam.4.3-1Sam.4.5
-        - Jer.7.4,Jer.7.9-Jer.7.10,Jer.7.14,Jer.7.31
+        - Jer.7.4
+        - Jer.7.9-Jer.7.10
+        - Jer.7.14
+        - Jer.7.31
         - Col.2.20-Col.2.22
       6:
-        - 2Kgs.18.30,2Kgs.18.35
+        - 2Kgs.18.30
+        - 2Kgs.18.35
         - Exod.5.2
         - Ps.139.20
       7:
@@ -2882,23 +3006,28 @@ questions:
         - Jer.23.10
       13:
         - Deut.23.18
-        - Acts.23.12,Acts.23.14
+        - Acts.23.12
+        - Acts.23.14
       14:
         - Esth.3.7
         - Esth.9.24
         - Ps.22.18
       15:
         - Ps.24.4
-        - Ezek.17.16,Ezek.17.18-Ezek.17.19
+        - Ezek.17.16
+        - Ezek.17.18-Ezek.17.19
       16:
         - Mark.6.26
-        - 1Sam.25.22,1Sam.25.32-1Sam.25.34
+        - 1Sam.25.22
+        - 1Sam.25.32-1Sam.25.34
       17:
-        - Rom.9.14,Rom.9.19-Rom.9.20
+        - Rom.9.14
+        - Rom.9.19-Rom.9.20
       18:
         - Deut.29.29
       19:
-        - Rom.3.5,Rom.3.7
+        - Rom.3.5
+        - Rom.3.7
         - Rom.6.1
       20:
         - Eccl.8.11
@@ -2913,10 +3042,14 @@ questions:
         - Matt.25.28-Matt.25.30
       24:
         - Isa.22.13
-        - Jer.23.34,Jer.23.36,Jer.23.38
+        - Jer.23.34
+        - Jer.23.36
+        - Jer.23.38
       25:
-        - 1Tim.1.4,1Tim.1.6-1Tim.1.7
-        - 1Tim.6.4-1Tim.6.5,1Tim.6.20
+        - 1Tim.1.4
+        - 1Tim.1.6-1Tim.1.7
+        - 1Tim.6.4-1Tim.6.5
+        - 1Tim.6.20
         - 2Tim.2.14
         - Titus.3.9
       26:
@@ -2936,14 +3069,17 @@ questions:
       30:
         - 1Pet.4.4
       31:
-        - Acts.13.45-Acts.13.46,Acts.13.50
+        - Acts.13.45-Acts.13.46
+        - Acts.13.50
         - Acts.4.18
         - Acts.19.9
         - 1Thess.2.16
         - Heb.10.29
       32:
         - 2Tim.3.5
-        - Matt.6.1-Matt.6.2,Matt.6.5,Matt.6.16
+        - Matt.6.1-Matt.6.2
+        - Matt.6.5
+        - Matt.6.16
       33:
         - Mark.8.38
       34:
@@ -2957,7 +3093,8 @@ questions:
       37:
         - Rom.2.23-Rom.2.24
       38:
-        - Gal.3.1,Gal.3.3
+        - Gal.3.1
+        - Gal.3.3
         - Heb.6.6
   - question: >-
       What reasons are annexed to the third commandment?
@@ -2981,7 +3118,10 @@ questions:
         - Deut.28.58-Deut.28.59
         - Zech.5.2-Zech.5.4
       4:
-        - 1Sam.2.12,1Sam.2.17,1Sam.2.22,1Sam.2.24
+        - 1Sam.2.12
+        - 1Sam.2.17
+        - 1Sam.2.22
+        - 1Sam.2.24
         - 1Sam.3.13
   - question: >-
       Which is the fourth commandment?
@@ -3015,7 +3155,9 @@ questions:
         - Gen.2.2-Gen.2.3
         - 1Cor.16.1-1Cor.16.2
         - Matt.5.17-Matt.5.18
-        - Isa.56.2,Isa.56.4,Isa.56.6-Isa.56.7
+        - Isa.56.2
+        - Isa.56.4
+        - Isa.56.6-Isa.56.7
       2:
         - Rev.1.10
   - question: >-
@@ -3034,7 +3176,8 @@ questions:
       for the duties of that day.[5]
     verses:
       1:
-        - Exod.20.8,Exod.20.10
+        - Exod.20.8
+        - Exod.20.10
       2:
         - Exod.16.25-Exod.16.28
         - Neh.13.15-Neh.13.22
@@ -3051,8 +3194,11 @@ questions:
         - Lev.23.3
       5:
         - Exod.20.8
-        - Luke.23.54,Luke.23.56
-        - Exod.16.22,Exod.16.25-Exod.16.26,Exod.16.29
+        - Luke.23.54
+        - Luke.23.56
+        - Exod.16.22
+        - Exod.16.25-Exod.16.26
+        - Exod.16.29
         - Neh.13.19
   - question: >-
       Why is the charge of keeping the sabbath more specially directed to
@@ -3068,7 +3214,8 @@ questions:
       1:
         - Exod.20.10
         - Josh.24.15
-        - Neh.13.15,Neh.13.17
+        - Neh.13.15
+        - Neh.13.17
         - Jer.17.20-Jer.17.22
         - Exod.23.12
   - question: >-
@@ -3085,14 +3232,16 @@ questions:
       1:
         - Ezek.22.26
       2:
-        - Acts.20.7,Acts.20.9
+        - Acts.20.7
+        - Acts.20.9
         - Ezek.33.30-Ezek.33.32
         - Amos.8.5
         - Mal.1.13
       3:
         - Ezek.23.38
       4:
-        - Jer.17.24,Jer.17.27
+        - Jer.17.24
+        - Jer.17.27
         - Isa.58.13
   - question: >-
       What are the reasons annexed to the fourth commandment, the more to
@@ -3141,14 +3290,17 @@ questions:
         - Exod.20.8
       2:
         - Exod.16.23
-        - Luke.23.54,Luke.23.56
+        - Luke.23.54
+        - Luke.23.56
         - Neh.13.19
       3:
         - Ps.92
-        - Ezek.20.12,Ezek.20.19-Ezek.20.20
+        - Ezek.20.12
+        - Ezek.20.19-Ezek.20.20
       4:
         - Gen.2.2-Gen.2.3
-        - Ps.118.22,Ps.118.24
+        - Ps.118.22
+        - Ps.118.24
         - Acts.4.10-Acts.4.11
         - Rev.1.10
       5:
@@ -3195,7 +3347,8 @@ questions:
       authority, whether in family,[4] church,[5] or commonwealth.[6]
     verses:
       1:
-        - Prov.23.22,Prov.23.25
+        - Prov.23.22
+        - Prov.23.25
         - Eph.6.1-Eph.6.2
       2:
         - 1Tim.5.1-1Tim.5.2
@@ -3223,7 +3376,8 @@ questions:
       1:
         - Eph.6.4
         - 2Cor.12.14
-        - 1Thess.2.7-1Thess.2.8,1Thess.2.11
+        - 1Thess.2.7-1Thess.2.8
+        - 1Thess.2.11
         - Num.11.11-Num.11.12
       2:
         - 1Cor.4.14-1Cor.4.16
@@ -3268,13 +3422,15 @@ questions:
         - Heb.13.7
         - Phil.3.17
       6:
-        - Eph.6.1-Eph.6.2,Eph.6.6-Eph.6.7
+        - Eph.6.1-Eph.6.2
+        - Eph.6.6-Eph.6.7
         - 1Pet.2.13-1Pet.2.14
         - Rom.13.1-Rom.13.5
         - Heb.13.17
         - Prov.4.3-Prov.4.4
         - Prov.23.22
-        - Exod.18.19,Exod.18.24
+        - Exod.18.19
+        - Exod.18.24
       7:
         - Heb.12.9
         - 1Pet.2.18-1Pet.2.20
@@ -3324,7 +3480,8 @@ questions:
       7:
         - Deut.21.18-Deut.21.21
       8:
-        - Prov.30.11,Prov.30.17
+        - Prov.30.11
+        - Prov.30.17
       9:
         - Prov.19.26
   - question: >-
@@ -3369,7 +3526,8 @@ questions:
         - 1Pet.2.14
       11:
         - Job.29.13-Job.29.16
-        - Isa.1.10,Isa.1.17
+        - Isa.1.10
+        - Isa.1.17
       12:
         - Eph.6.4
       13:
@@ -3411,7 +3569,8 @@ questions:
         - Acts.4.17-Acts.4.18
       6:
         - Exod.5.10-Exod.5.18
-        - Matt.23.2,Matt.23.4
+        - Matt.23.2
+        - Matt.23.4
       7:
         - Matt.14.8
         - Mark.6.24
@@ -3427,7 +3586,8 @@ questions:
         - Heb.12.10
         - Deut.25.3
       12:
-        - Gen.38.11,Gen.38.26
+        - Gen.38.11
+        - Gen.38.26
         - Acts.18.17
       13:
         - Eph.6.4
@@ -3523,7 +3683,10 @@ questions:
         - 1Kgs.18.4
       3:
         - Jer.26.15-Jer.26.16
-        - Acts.23.12,Acts.23.16-Acts.23.17,Acts.23.21,Acts.23.27
+        - Acts.23.12
+        - Acts.23.16-Acts.23.17
+        - Acts.23.21
+        - Acts.23.27
       4:
         - Eph.4.26-Eph.4.27
       5:
@@ -3531,7 +3694,8 @@ questions:
         - Deut.22.8
       6:
         - Matt.4.6-Matt.4.7
-        - Prov.1.10-Prov.1.11,Prov.1.15-Prov.1.16
+        - Prov.1.10-Prov.1.11
+        - Prov.1.15-Prov.1.16
       7:
         - 1Sam.24.12
         - 1Sam.26.9-1Sam.26.11
@@ -3550,7 +3714,8 @@ questions:
       11:
         - Prov.17.22
       12:
-        - Prov.25.16,Prov.25.27
+        - Prov.25.16
+        - Prov.25.27
       13:
         - 1Tim.5.23
       14:
@@ -3559,10 +3724,12 @@ questions:
         - Ps.127.2
       16:
         - Eccl.5.12
-        - 2Thess.3.10,2Thess.3.12
+        - 2Thess.3.10
+        - 2Thess.3.12
         - Prov.16.20
       17:
-        - Eccl.3.4,Eccl.3.11
+        - Eccl.3.4
+        - Eccl.3.11
       18:
         - 1Sam.19.4-1Sam.19.5
         - 1Sam.22.13-1Sam.22.14
@@ -3580,7 +3747,8 @@ questions:
         - Judg.8.1-Judg.8.3
       24:
         - Matt.5.24
-        - Eph.5.2,Eph.5.32
+        - Eph.5.2
+        - Eph.5.32
         - Rom.12.17
       25:
         - 1Thess.5.14
@@ -3606,7 +3774,8 @@ questions:
       2:
         - Gen.9.6
       3:
-        - Num.35.31,Num.35.33
+        - Num.35.31
+        - Num.35.33
       4:
         - Jer.48.10
         - Deut.20.1
@@ -3627,7 +3796,8 @@ questions:
       11:
         - Eph.4.31
       12:
-        - Matt.6.31,Matt.6.34
+        - Matt.6.31
+        - Matt.6.34
       13:
         - Luke.21.34
         - Rom.13.13
@@ -3644,7 +3814,8 @@ questions:
       18:
         - Gal.5.15
       19:
-        - Num.35.16-Num.35.18,Num.35.21
+        - Num.35.16-Num.35.18
+        - Num.35.21
       20:
         - Exod.21.18-Exod.21.36
   - question: >-
@@ -3677,7 +3848,8 @@ questions:
       3:
         - 1Pet.3.2
       4:
-        - 1Cor.7.2,1Cor.7.35-1Cor.7.36
+        - 1Cor.7.2
+        - 1Cor.7.35-1Cor.7.36
       5:
         - Job.31.1
       6:
@@ -3687,13 +3859,15 @@ questions:
       8:
         - 1Tim.2.9
       9:
-        - 1Cor.7.2,1Cor.7.9
+        - 1Cor.7.2
+        - 1Cor.7.9
       10:
         - Prov.5.19-Prov.5.20
       11:
         - 1Pet.3.7
       12:
-        - Prov.31.11,Prov.31.27-Prov.31.28
+        - Prov.31.11
+        - Prov.31.27-Prov.31.28
       13:
         - Prov.5.8
         - Gen.39.8-Gen.39.10
@@ -3725,7 +3899,8 @@ questions:
         - 2Sam.13.14
         - 1Cor.5.1
       4:
-        - Rom.1.24,Rom.1.26-Rom.1.27
+        - Rom.1.24
+        - Rom.1.26-Rom.1.27
         - Lev.20.15-Lev.20.16
       5:
         - Matt.5.28
@@ -3733,12 +3908,14 @@ questions:
         - Col.3.5
       6:
         - Eph.5.3-Eph.5.4
-        - Prov.7.5,Prov.7.21-Prov.7.22
+        - Prov.7.5
+        - Prov.7.21-Prov.7.22
       7:
         - Isa.3.16
         - 2Pet.2.14
       8:
-        - Prov.7.10,Prov.7.13
+        - Prov.7.10
+        - Prov.7.13
       9:
         - 1Tim.4.3
       10:
@@ -3810,14 +3987,17 @@ questions:
       others, as well as our own.[13]
     verses:
       1:
-        - Ps.15.2,Ps.15.4
-        - Zech.7.4,Zech.7.10
+        - Ps.15.2
+        - Ps.15.4
+        - Zech.7.4
+        - Zech.7.10
         - Zech.8.16-Zech.8.17
       2:
         - Lev.6.2-Lev.6.5
         - Luke.19.8
       3:
-        - Luke.6.30,Luke.6.38
+        - Luke.6.30
+        - Luke.6.38
         - 1John.3.17
         - Eph.4.28
         - Gal.6.10
@@ -3913,7 +4093,8 @@ questions:
       17:
         - Prov.11.26
       18:
-        - Acts.19.19,Acts.19.24-Acts.19.25
+        - Acts.19.19
+        - Acts.19.24-Acts.19.25
       19:
         - Job.20.19
         - Jas.5.4
@@ -3926,11 +4107,14 @@ questions:
         - Prov.23.5
         - Ps.62.10
       22:
-        - Matt.6.25,Matt.6.31,Matt.6.34
+        - Matt.6.25
+        - Matt.6.31
+        - Matt.6.34
         - Eccl.5.12
       23:
         - Ps.73.3
-        - Ps.37.1,Ps.37.7
+        - Ps.37.1
+        - Ps.37.7
       24:
         - 2Thess.3.11
         - Prov.18.9
@@ -4007,7 +4191,8 @@ questions:
         - Prov.17.9
         - 1Pet.4.8
       15:
-        - 1Cor.1.4-1Cor.1.5,1Cor.1.7
+        - 1Cor.1.4-1Cor.1.5
+        - 1Cor.1.7
         - 2Tim.1.4-2Tim.1.5
       16:
         - 1Sam.22.14
@@ -4066,18 +4251,22 @@ questions:
       1:
         - 1Sam.17.28
         - 2Sam.16.3
-        - 2Sam.1.9-2Sam.1.10,2Sam.1.15-2Sam.1.16
+        - 2Sam.1.9-2Sam.1.10
+        - 2Sam.1.15-2Sam.1.16
       2:
         - Lev.19.15
         - Hab.1.4
       3:
         - Prov.19.5
-        - Prov.6.16,Prov.6.19
+        - Prov.6.16
+        - Prov.6.19
       4:
         - Acts.6.13
       5:
-        - Jer.9.3,Jer.9.5
-        - Acts.24.2,Acts.24.5
+        - Jer.9.3
+        - Jer.9.5
+        - Acts.24.2
+        - Acts.24.5
         - Ps.12.3-Ps.12.4
         - Ps.52.1-Ps.52.4
       6:
@@ -4092,7 +4281,8 @@ questions:
       9:
         - Lev.5.1
         - Deut.13.8
-        - Acts.5.3,Acts.5.8-Acts.5.9
+        - Acts.5.3
+        - Acts.5.8-Acts.5.9
         - 2Tim.4.6
       10:
         - 1Kgs.1.6
@@ -4110,7 +4300,8 @@ questions:
         - Matt.26.60-Matt.26.61
       15:
         - Gen.3.5
-        - Gen.26.7,Gen.26.9
+        - Gen.26.7
+        - Gen.26.9
       16:
         - Isa.59.13
       17:
@@ -4148,7 +4339,8 @@ questions:
       29:
         - 2Tim.3.2
       30:
-        - Luke.18.9,Luke.18.11
+        - Luke.18.9
+        - Luke.18.11
         - Rom.12.16
         - 1Cor.4.6
         - Acts.12.22
@@ -4185,7 +4377,8 @@ questions:
       41:
         - Jer.48.27
       42:
-        - Ps.35.15-Ps.35.16,Ps.35.21
+        - Ps.35.15-Ps.35.16
+        - Ps.35.21
         - Matt.27.28-Matt.27.29
       43:
         - Jude.1.16
@@ -4244,7 +4437,8 @@ questions:
         - 1Cor.10.10
       2:
         - Gal.5.26
-        - Jas.3.14,Jas.3.16
+        - Jas.3.14
+        - Jas.3.16
       3:
         - Ps.112.9-Ps.112.10
         - Neh.2.10
@@ -4267,7 +4461,8 @@ questions:
         - Rom.8.3
       2:
         - Eccl.7.20
-        - 1John.1.8,1John.1.10
+        - 1John.1.8
+        - 1John.1.10
         - Gal.5.17
         - Rom.7.18-Rom.7.19
       3:
@@ -4287,9 +4482,13 @@ questions:
     verses:
       1:
         - John.19.11
-        - Ezek.8.6,Ezek.8.13,Ezek.8.15
+        - Ezek.8.6
+        - Ezek.8.13
+        - Ezek.8.15
         - 1John.5.16
-        - Ps.78.17,Ps.78.32,Ps.78.56
+        - Ps.78.17
+        - Ps.78.32
+        - Ps.78.56
   - question: >-
       What are those aggravations that make some sins more heinous than
       others?
@@ -4327,10 +4526,12 @@ questions:
       1:
         - Jer.2.8
       2:
-        - Job.32.7,Job.32.9
+        - Job.32.7
+        - Job.32.9
         - Eccl.4.13
       3:
-        - 1Kgs.11.4,1Kgs.11.9
+        - 1Kgs.11.4
+        - 1Kgs.11.9
       4:
         - 2Sam.12.14
         - 1Cor.5.1
@@ -4376,12 +4577,15 @@ questions:
         - 2Cor.12.15
         - Ps.55.12-Ps.55.15
       20:
-        - Zeph.2.8,Zeph.2.10-Zeph.2.11
+        - Zeph.2.8
+        - Zeph.2.10-Zeph.2.11
         - Matt.18.6
         - Rev.17.6
       21:
         - 1Cor.8.11-1Cor.8.12
-        - Rom.14.13,Rom.14.15,Rom.14.21
+        - Rom.14.13
+        - Rom.14.15
+        - Rom.14.21
       22:
         - Ezek.13.19
         - 1Cor.8.12
@@ -4409,7 +4613,8 @@ questions:
         - Matt.18.7
         - Rom.2.23-Rom.2.24
       29:
-        - Deut.22.22,Deut.22.28-Deut.22.29
+        - Deut.22.22
+        - Deut.22.28-Deut.22.29
         - Prov.6.32-Prov.6.35
       30:
         - Matt.11.21-Matt.11.24
@@ -4435,7 +4640,8 @@ questions:
         - Prov.23.35
       38:
         - Ps.78.34-Ps.78.37
-        - Jer.13.5-Jer.13.6,Jer.13.20-Jer.13.21
+        - Jer.13.5-Jer.13.6
+        - Jer.13.20-Jer.13.21
       39:
         - Eccl.5.4-Eccl.5.6
         - Prov.20.25
@@ -4484,7 +4690,8 @@ questions:
       58:
         - Jer.7.8-Jer.7.10
         - Prov.7.14-Prov.7.15
-        - John.13.27,John.13.30
+        - John.13.27
+        - John.13.30
       59:
         - Ezra.9.13-Ezra.9.14
       60:
@@ -4535,9 +4742,11 @@ questions:
       1:
         - Acts.20.21
         - Matt.3.7-Matt.3.8
-        - Luke.13.3,Luke.13.5
+        - Luke.13.3
+        - Luke.13.5
         - Acts.16.30-Acts.16.31
-        - John.3.16,John.3.18
+        - John.3.16
+        - John.3.18
       2:
         - Prov.2.1-Prov.2.5
         - Prov.8.33-Prov.8.36
@@ -4553,7 +4762,8 @@ questions:
     verses:
       1:
         - Matt.28.19-Matt.28.20
-        - Acts.2.42,Acts.2.46-Acts.2.47
+        - Acts.2.42
+        - Acts.2.46-Acts.2.47
   - question: >-
       How is the word made effectual to salvation?
     number: 155
@@ -4572,17 +4782,22 @@ questions:
         - Ps.19.8
       2:
         - 1Cor.14.24-1Cor.14.25
-        - 2Chr.34.18-2Chr.34.19,2Chr.34.26-2Chr.34.28
+        - 2Chr.34.18-2Chr.34.19
+        - 2Chr.34.26-2Chr.34.28
       3:
-        - Acts.2.37,Acts.2.41
-        - Acts.8.27-Acts.8.30,Acts.8.35-Acts.8.38
+        - Acts.2.37
+        - Acts.2.41
+        - Acts.8.27-Acts.8.30
+        - Acts.8.35-Acts.8.38
       4:
         - 2Cor.3.18
       5:
         - 2Cor.10.4-2Cor.10.6
         - Rom.6.17
       6:
-        - Matt.4.4,Matt.4.7,Matt.4.10
+        - Matt.4.4
+        - Matt.4.7
+        - Matt.4.10
         - Eph.6.16-Eph.6.17
         - Ps.19.11
       7:
@@ -4590,7 +4805,9 @@ questions:
         - 2Tim.3.15-2Tim.3.17
       8:
         - Rom.16.25
-        - 1Thess.3.2,1Thess.3.10-1Thess.3.11,1Thess.3.13
+        - 1Thess.3.2
+        - 1Thess.3.10-1Thess.3.11
+        - 1Thess.3.13
         - Rom.15.4
         - Rom.10.13-Rom.10.17
         - Rom.1.16
@@ -4605,7 +4822,8 @@ questions:
       languages.[4]
     verses:
       1:
-        - Deut.31.9,Deut.31.11-Deut.31.13
+        - Deut.31.9
+        - Deut.31.11-Deut.31.13
         - Neh.8.2-Neh.8.3
         - Neh.9.3-Neh.9.5
       2:
@@ -4632,7 +4850,8 @@ questions:
     verses:
       1:
         - Ps.19.10
-        - Neh.8.3-Neh.8.6,Neh.8.10
+        - Neh.8.3-Neh.8.6
+        - Neh.8.10
         - Exod.24.7
         - 2Chr.34.27
         - Isa.66.2
@@ -4642,11 +4861,13 @@ questions:
         - Luke.24.45
         - 2Cor.3.13-2Cor.3.16
       4:
-        - Deut.17.10,Deut.17.20
+        - Deut.17.10
+        - Deut.17.20
       5:
         - Acts.17.11
       6:
-        - Acts.8.30,Acts.8.34
+        - Acts.8.30
+        - Acts.8.34
         - Luke.10.26-Luke.10.28
       7:
         - Ps.1.2
@@ -4659,7 +4880,8 @@ questions:
       10:
         - Prov.2.1-Prov.2.6
         - Ps.119.18
-        - Neh.7.6,Neh.7.8
+        - Neh.7.6
+        - Neh.7.8
   - question: >-
       By whom is the word of God to be preached?
     number: 158
@@ -4668,7 +4890,8 @@ questions:
       gifted,[1] and also duly approved and called to that office.[2]
     verses:
       1:
-        - 1Tim.3.2,1Tim.3.6
+        - 1Tim.3.2
+        - 1Tim.3.6
         - Eph.4.8-Eph.4.11
         - Hos.4.6
         - Mal.2.7
@@ -4697,7 +4920,8 @@ questions:
       edification,[16] and salvation.[17]
     verses:
       1:
-        - Titus.2.1,Titus.2.8
+        - Titus.2.1
+        - Titus.2.8
       2:
         - Acts.18.25
       3:
@@ -4793,7 +5017,8 @@ questions:
     verses:
       1:
         - 1Pet.3.21
-        - Acts.8.13,Acts.8.23
+        - Acts.8.13
+        - Acts.8.23
         - 1Cor.3.6-1Cor.3.7
         - 1Cor.12.13
   - question: >-
@@ -4808,7 +5033,8 @@ questions:
       another;[7] and to distinguish them from those that are without.[8]
     verses:
       1:
-        - Gen.17.7,Gen.17.10
+        - Gen.17.7
+        - Gen.17.10
         - Exod.12
         - Matt.26.26-Matt.26.28
       2:
@@ -4854,7 +5080,8 @@ questions:
     verses:
       1:
         - Matt.28.19
-        - 1Cor.11.20,1Cor.11.23
+        - 1Cor.11.20
+        - 1Cor.11.23
         - Matt.26.26-Matt.26.28
   - question: >-
       What is Baptism?
@@ -4903,8 +5130,10 @@ questions:
         - Acts.8.36-Acts.8.37
         - Acts.2.38
       2:
-        - Gen.17.7,Gen.17.9
-        - Gal.3.9,Gal.3.14
+        - Gen.17.7
+        - Gen.17.9
+        - Gal.3.9
+        - Gal.3.14
         - Col.2.11-Col.2.12
         - Acts.2.38-Acts.2.39
         - Rom.4.11-Rom.4.12
@@ -4935,7 +5164,9 @@ questions:
     verses:
       1:
         - Col.2.11-Col.2.12
-        - Rom.6.4,Rom.6.6,Rom.6.11
+        - Rom.6.4
+        - Rom.6.6
+        - Rom.6.11
       2:
         - Rom.6.3-Rom.6.5
       3:
@@ -4953,7 +5184,8 @@ questions:
       8:
         - Acts.2.38
       9:
-        - 1Cor.12.13,1Cor.12.25
+        - 1Cor.12.13
+        - 1Cor.12.25
   - question: >-
       What is the Lord's supper?
     number: 168
@@ -4977,7 +5209,8 @@ questions:
       4:
         - 1Cor.11.24
       5:
-        - 1Cor.10.14-1Cor.10.16,1Cor.10.21
+        - 1Cor.10.14-1Cor.10.16
+        - 1Cor.10.21
       6:
         - 1Cor.10.17
   - question: >-
@@ -5017,7 +5250,8 @@ questions:
       1:
         - Acts.3.21
       2:
-        - Matt.26.26,Matt.26.28
+        - Matt.26.26
+        - Matt.26.28
       3:
         - 1Cor.11.24-1Cor.11.29
       4:
@@ -5055,7 +5289,8 @@ questions:
         - Acts.2.46-Acts.2.47
       8:
         - 1Cor.5.8
-        - 1Cor.11.18,1Cor.11.20
+        - 1Cor.11.18
+        - 1Cor.11.20
       9:
         - Matt.5.23-Matt.5.24
       10:
@@ -5064,7 +5299,8 @@ questions:
       11:
         - 1Cor.5.7-1Cor.5.8
       12:
-        - 1Cor.11.25-1Cor.11.26,1Cor.11.28
+        - 1Cor.11.25-1Cor.11.26
+        - 1Cor.11.28
         - Heb.10.21-Heb.10.22
         - Heb.10.24
         - Ps.26.6
@@ -5093,22 +5329,28 @@ questions:
         - Isa.50.10
         - 1John.5.13
         - Ps.88
-        - Ps.77.1-Ps.77.4,Ps.77.7-Ps.77.10
+        - Ps.77.1-Ps.77.4
+        - Ps.77.7-Ps.77.10
         - Jonah.2.4
       2:
         - Isa.54.7-Isa.54.10
         - Matt.5.3-Matt.5.4
         - Ps.31.22
-        - Ps.73.13,Ps.73.22-Ps.73.23
+        - Ps.73.13
+        - Ps.73.22-Ps.73.23
       3:
         - Phil.3.8-Phil.3.9
-        - Ps.42.1-Ps.42.2,Ps.42.5,Ps.42.11
+        - Ps.42.1-Ps.42.2
+        - Ps.42.5
+        - Ps.42.11
       4:
         - 2Tim.2.19
         - Isa.50.10
         - Ps.66.18-Ps.66.20
       5:
-        - Isa.40.11,Isa.40.29,Isa.40.31
+        - Isa.40.11
+        - Isa.40.29
+        - Isa.40.31
         - Matt.11.28
         - Matt.12.20
         - Matt.26.28
@@ -5161,7 +5403,8 @@ questions:
         - Lev.10.3
         - Heb.12.28
         - Ps.5.7
-        - 1Cor.11.17,1Cor.11.26-1Cor.11.27
+        - 1Cor.11.17
+        - 1Cor.11.26-1Cor.11.27
       2:
         - Exod.24.8
         - Matt.26.28
@@ -5171,7 +5414,9 @@ questions:
         - Luke.22.19
       5:
         - 1Cor.11.26
-        - 1Cor.10.3-1Cor.10.5,1Cor.10.11,1Cor.10.14
+        - 1Cor.10.3-1Cor.10.5
+        - 1Cor.10.11
+        - 1Cor.10.14
       6:
         - 1Cor.11.31
       7:
@@ -5214,27 +5459,33 @@ questions:
     verses:
       1:
         - Ps.28.7
-        - 1Cor.11.7,1Cor.11.30-1Cor.11.31
+        - 1Cor.11.7
+        - 1Cor.11.30-1Cor.11.31
       2:
-        - 2Chr.30.21-2Chr.30.23,2Chr.30.25-2Chr.30.26
-        - Acts.2.42,Acts.2.46-Acts.2.47
+        - 2Chr.30.21-2Chr.30.23
+        - 2Chr.30.25-2Chr.30.26
+        - Acts.2.42
+        - Acts.2.46-Acts.2.47
       3:
         - Ps.36.10
         - Song.3.4
         - 1Chr.29.18
       4:
-        - 1Cor.10.3-1Cor.10.5,1Cor.10.12
+        - 1Cor.10.3-1Cor.10.5
+        - 1Cor.10.12
       5:
         - Ps.50.14
       6:
         - 1Cor.11.25-1Cor.11.26
-        - Acts.2.42,Acts.2.46
+        - Acts.2.42
+        - Acts.2.46
       7:
         - Song.5.1-Song.5.6
         - Eccl.5.1-Eccl.5.6
       8:
         - Ps.123.1-Ps.123.2
-        - Ps.42.5,Ps.42.8
+        - Ps.42.5
+        - Ps.42.8
         - Ps.43.3-Ps.43.5
       9:
         - 2Chr.30.18-2Chr.30.19
@@ -5288,7 +5539,8 @@ questions:
         - Titus.3.5
         - Gal.3.27
       2:
-        - Gen.17.7,Gen.17.9
+        - Gen.17.7
+        - Gen.17.9
         - Acts.2.38-Acts.2.39
         - 1Cor.7.14
       3:
@@ -5552,7 +5804,8 @@ questions:
       4:
         - Ps.83.18
       5:
-        - Ps.86.10-Ps.86.13,Ps.86.15
+        - Ps.86.10-Ps.86.13
+        - Ps.86.15
       6:
         - 2Thess.3.1
         - Ps.147.19-Ps.147.20
@@ -5564,7 +5817,8 @@ questions:
         - Ps.103.1
         - Ps.19.14
       9:
-        - Phil.1.9,Phil.1.11
+        - Phil.1.9
+        - Phil.1.11
       10:
         - Ps.67.1-Ps.67.4
       11:
@@ -5572,13 +5826,16 @@ questions:
       12:
         - Ps.97.7
       13:
-        - Ps.74.18,Ps.74.22-Ps.74.23
+        - Ps.74.18
+        - Ps.74.22-Ps.74.23
       14:
         - 2Kgs.19.15-2Kgs.19.16
       15:
-        - 2Chr.20.6,2Chr.20.10-2Chr.20.12
+        - 2Chr.20.6
+        - 2Chr.20.10-2Chr.20.12
         - Ps.83
-        - Ps.140.4,Ps.140.8
+        - Ps.140.4
+        - Ps.140.8
   - question: >-
       What do we pray for in the first petition?
     number: 190
@@ -5604,7 +5861,8 @@ questions:
       4:
         - Ps.83.18
       5:
-        - Ps.86.10-Ps.86.13,Ps.86.15
+        - Ps.86.10-Ps.86.13
+        - Ps.86.15
       6:
         - 2Thess.3.1
         - Ps.147.19-Ps.147.20
@@ -5616,7 +5874,8 @@ questions:
         - Ps.103.1
         - Ps.19.14
       9:
-        - Phil.1.9,Phil.1.11
+        - Phil.1.9
+        - Phil.1.11
       10:
         - Ps.67.1-Ps.67.4
       11:
@@ -5624,13 +5883,16 @@ questions:
       12:
         - Ps.97.7
       13:
-        - Ps.74.18,Ps.74.22-Ps.74.23
+        - Ps.74.18
+        - Ps.74.22-Ps.74.23
       14:
         - 2Kgs.19.15-2Kgs.19.16
       15:
-        - 2Chr.20.6,2Chr.20.10-2Chr.20.12
+        - 2Chr.20.6
+        - 2Chr.20.10-2Chr.20.12
         - Ps.83
-        - Ps.140.4,Ps.140.8
+        - Ps.140.4
+        - Ps.140.8
   - question: >-
       What do we pray for in the second petition?
     number: 191
@@ -5655,14 +5917,16 @@ questions:
       2:
         - Eph.2.2-Eph.2.3
       3:
-        - Ps.68.1,Ps.68.18
+        - Ps.68.1
+        - Ps.68.18
         - Rev.12.10-Rev.12.11
       4:
         - 2Thess.3.1
       5:
         - Rom.10.1
       6:
-        - John.17.9,John.17.20
+        - John.17.9
+        - John.17.20
         - Rom.11.25-Rom.11.26
         - Ps.67
       7:
@@ -5676,7 +5940,8 @@ questions:
       10:
         - Acts.4.29-Acts.4.30
         - Eph.6.18-Eph.6.20
-        - Rom.15.29-Rom.15.30,Rom.15.32
+        - Rom.15.29-Rom.15.30
+        - Rom.15.32
         - 2Thess.1.11
         - 2Thess.2.16-2Thess.2.17
       11:
@@ -5725,7 +5990,9 @@ questions:
       9:
         - Jer.31.18-Jer.31.19
       10:
-        - Ps.119.1,Ps.119.8,Ps.119.35-Ps.119.36
+        - Ps.119.1
+        - Ps.119.8
+        - Ps.119.35-Ps.119.36
       11:
         - Mic.6.8
       12:
@@ -5834,7 +6101,8 @@ questions:
         - Jer.14.7
       7:
         - Rom.15.13
-        - Ps.51.7-Ps.51.10,Ps.51.12
+        - Ps.51.7-Ps.51.10
+        - Ps.51.12
       8:
         - Luke.11.4
         - Matt.6.14-Matt.6.15
@@ -5914,7 +6182,8 @@ questions:
       19:
         - 1Pet.5.8-1Pet.5.10
       20:
-        - 2Cor.13.7,2Cor.13.9
+        - 2Cor.13.7
+        - 2Cor.13.9
       21:
         - Rom.16.20
         - Luke.22.31-Luke.22.32
@@ -5941,7 +6210,9 @@ questions:
       2:
         - Rom.15.30
       3:
-        - Dan.9.4,Dan.9.7-Dan.9.9,Dan.9.16-Dan.9.19
+        - Dan.9.4
+        - Dan.9.7-Dan.9.9
+        - Dan.9.16-Dan.9.19
       4:
         - Phil.4.6
       5:
@@ -5950,7 +6221,8 @@ questions:
         - Eph.3.20-Eph.3.21
         - Luke.11.13
       7:
-        - 2Chr.20.6,2Chr.20.11
+        - 2Chr.20.6
+        - 2Chr.20.11
       8:
         - 2Chr.14.11
       9:
