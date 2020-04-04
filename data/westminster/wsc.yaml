@@ -145,7 +145,8 @@ questions:
       estate wherein they were created, by sinning against God[a].
     verses:
       a:
-        - Gen.3.6-Gen.3.8,Gen.3.13
+        - Gen.3.6-Gen.3.8
+        - Gen.3.13
         - Eccl.7.29
   - question: What is sin?
     number: 14
@@ -205,14 +206,17 @@ questions:
       itself, and to the pains of hell for ever[c].
     verses:
       a:
-        - Gen.3.8,Gen.3.10,Gen.3.24
+        - Gen.3.8
+        - Gen.3.10
+        - Gen.3.24
       b:
         - Eph.2.2-Eph.2.3
         - Gal.3.10
       c:
         - Lam.3.39
         - Rom.6.23
-        - Matt.25.41,Matt.25.46
+        - Matt.25.41
+        - Matt.25.46
   - question: Did God leave all mankind to perish in the estate of sin and misery?
     number: 20
     answer: >-
@@ -251,14 +255,20 @@ questions:
       womb of the virgin Mary, and born of her[c] yet without sin[d].
     verses:
       a:
-        - Heb.2.14,Heb.2.16,Heb.10.5
+        - Heb.2.14
+        - Heb.2.16
+        - Heb.10.5
       b:
         - Matt.26.38
       c:
-        - Luke.1.27,Luke.1.31,Luke.1.35,Luke.1.42
+        - Luke.1.27
+        - Luke.1.31
+        - Luke.1.35
+        - Luke.1.42
         - Gal.4.4
       d:
-        - Heb.4.15,Heb.7.26
+        - Heb.4.15
+        - Heb.7.26
   - question: What offices doth Christ execute as our Redeemer?
     number: 23
     answer: >-
@@ -457,7 +467,8 @@ questions:
       b:
         - Eph.4.23-Eph.4.24
       c:
-        - Rom.6.4,Rom.6.6
+        - Rom.6.4
+        - Rom.6.6
   - question: >-
       What are the benefits which in this life do accompany or flow from justification,
       adoption, and sanctification?
@@ -488,7 +499,9 @@ questions:
       a:
         - Heb.12.23
       b:
-        - 2Cor.5.1,2Cor.5.6,2Cor.5.8
+        - 2Cor.5.1
+        - 2Cor.5.6
+        - 2Cor.5.8
         - Phil.1.23
         - Luke.23.43
       c:
@@ -529,7 +542,8 @@ questions:
       law[a].
     verses:
       a:
-        - Rom.2.14-Rom.2.15,Rom.10.5
+        - Rom.2.14-Rom.2.15
+        - Rom.10.5
   - question: Wherein is the moral law summarily comprehended?
     number: 41
     answer: The moral law is summarily comprehended in the ten commandments[a].
@@ -878,7 +892,10 @@ questions:
       chastity, in heart, speech, and behavior[a].
     verses:
       a:
-        - 1Cor.7.2-1Cor.7.3,1Cor.7.5,1Cor.7.34,1Cor.7.36
+        - 1Cor.7.2-1Cor.7.3
+        - 1Cor.7.5
+        - 1Cor.7.34
+        - 1Cor.7.36
         - 1Pet.3.2
   - question: What is forbidden in the seventh commandment?
     number: 72
@@ -941,7 +958,8 @@ questions:
       b:
         - 3John.1.12
       c:
-        - Prov.14.5,Prov.14.25
+        - Prov.14.5
+        - Prov.14.25
   - question: What is forbidden in the ninth commandment?
     number: 78
     answer: >-
@@ -1009,7 +1027,8 @@ questions:
       b:
         - Gen.6.5
         - Gen.8.21
-        - Rom.3.9-Rom.3.31,Rom.3.23
+        - Rom.3.9-Rom.3.31
+        - Rom.3.23
         - Jas.3.2-Jas.3.13
   - question: Are all transgressions of the law equally heinous?
     number: 83
@@ -1018,7 +1037,9 @@ questions:
       in the sight of God than others[a].
     verses:
       a:
-        - Ezek.8.6,Ezek.8.13,Ezek.8.15
+        - Ezek.8.6
+        - Ezek.8.13
+        - Ezek.8.15
         - 1John.5.16
         - Ps.78.17
         - Ps.78.32
@@ -1354,7 +1375,9 @@ questions:
       a:
         - Matt.6.11
       b:
-        - Ps.51.1-Ps.51.2,Ps.51.7,Ps.51.9
+        - Ps.51.1-Ps.51.2
+        - Ps.51.7
+        - Ps.51.9
         - Dan.9.17-Dan.9.19
       c:
         - Luke.11.4
@@ -1385,7 +1408,9 @@ questions:
       a:
         - Matt.6.13
       b:
-        - Dan.9.4,Dan.9.7-Dan.9.9,Dan.9.16-Dan.9.19
+        - Dan.9.4
+        - Dan.9.7-Dan.9.9
+        - Dan.9.16-Dan.9.19
       c:
         - 1Chr.29.10-1Chr.29.13
       d:
