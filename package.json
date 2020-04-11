@@ -1,0 +1,23 @@
+{
+  "name": "confessional-christianity",
+  "version": "1.0.0",
+  "description": "Compendium of Reformed Standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellKendall/compendium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellKendall/compendium/issues"
+  },
+  "homepage": "https://github.com/MaxwellKendall/compendium#readme",
+  "dependencies": {
+    "yaml": "^1.8.3"
+  }
+}
