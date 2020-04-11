@@ -2326,8 +2326,11 @@ questions:
         - Rom.7.14
         - Deut.6.5
         - Matt.22.37-Matt.22.39
-        - >-
-          Matt.5.21-Matt.5.22,Matt.5.27-Matt.5.28,Matt.5.33-Matt.5.34,Matt.5.37-Matt.5.39,Matt.5.43-Matt.5.44
+        - Matt.5.21-Matt.5.22
+        - Matt.5.27-Matt.5.28
+        - Matt.5.33-Matt.5.34
+        - Matt.5.37-Matt.5.39
+        - Matt.5.43-Matt.5.44
       3:
         - Col.3.5
         - Amos.8.5
@@ -4835,8 +4838,12 @@ questions:
         - Gen.18.17
         - Ps.78.5-Ps.78.7
       4:
-        - >-
-          1Cor.14.6,1Cor.14.9,1Cor.14.11-1Cor.14.12,1Cor.14.15-1Cor.14.16,1Cor.14.24,1Cor.14.27-1Cor.14.28
+        - 1Cor.14.6
+        - 1Cor.14.9
+        - 1Cor.14.11-1Cor.14.12
+        - 1Cor.14.15-1Cor.14.16
+        - 1Cor.14.24
+        - 1Cor.14.27-1Cor.14.28
   - question: >-
       How is the word of God to be read?
     number: 157
