@@ -14,14 +14,15 @@ const removeFormattingForString = (str) => {
 }
 
 const removeFormattingForObjects = (obj) => {
-    console.log("obj", obj);
+    if (!obj) return '';
     if (Array.isArray(obj)) {
         return obj
             .map((data) => {
                 if (typeof data === 'string') {
                     return removeFormattingForString(data);
                 }
-                if (typeof data === 'obj') {
+                if (typeof data === 'object') {
+                    console.log("data", data);
                     return removeFormattingForObjects(data);
                 }
                 return data;
@@ -60,7 +61,6 @@ const removeFormatting = (json) => {
                 if (typeof json[key] === 'object') return true;
                 return false
             });
-    // console.log("keys to be unformated", keysToBeUnFormatted);
     return keysToBeUnFormatted
         .map((key) => ({ key, type: typeof json[key] }))
         .reduce((acc, key) => {
