@@ -5805,44 +5805,18 @@ questions:
       1:
         - Matt.6.9
       2:
-        - 2Cor.3.5
+        - Luke.11.13
+        - Rom.8.15
       3:
-        - Ps.67.2-Ps.67.3
+        - Isa.64.9
       4:
-        - Ps.83.18
+        - Ps.123.1
+        - Lam.3.41
       5:
-        - Ps.86.10-Ps.86.13
-        - Ps.86.15
+        - Isa.63.15-Isa.63.16
+        - Neh.1.4-Neh.1.6
       6:
-        - 2Thess.3.1
-        - Ps.147.19-Ps.147.20
-        - Ps.138.1-Ps.138.3
-        - 2Cor.2.14-2Cor.2.15
-      7:
-        - Ps.145
-      8:
-        - Ps.103.1
-        - Ps.19.14
-      9:
-        - Phil.1.9
-        - Phil.1.11
-      10:
-        - Ps.67.1-Ps.67.4
-      11:
-        - Eph.1.17-Eph.1.18
-      12:
-        - Ps.97.7
-      13:
-        - Ps.74.18
-        - Ps.74.22-Ps.74.23
-      14:
-        - 2Kgs.19.15-2Kgs.19.16
-      15:
-        - 2Chr.20.6
-        - 2Chr.20.10-2Chr.20.12
-        - Ps.83
-        - Ps.140.4
-        - Ps.140.8
+        - Acts.12.5
   - question: >-
       What do we pray for in the first petition?
     number: 190
