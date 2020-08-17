@@ -1302,33 +1302,16 @@ days:
         answer: >-
           Christ is very man and very God; with respect to his human nature, he
           is no more on earth;[b] but with respect to his Godhead, majesty,
-          grace and spirit, he is at no time absent from us.[c][a] Matt.28:20
-          Teaching them to observe all things whatsoever I have commanded you:
-          and, lo, I am with you alway, even unto the end of the world. Amen.[b]
-          Heb.8:4 For if he were on earth, he should not be a priest, seeing
-          that there are priests that offer gifts according to the law:
-          Matt.26:11 For ye have the poor always with you; but me ye have not
-          always. John 16:28 I came forth from the Father, and am come into the
-          world: again, I leave the world, and go to the Father. John 17:11 And
-          now I am no more in the world, but these are in the world, and I come
-          to thee. Holy Father, keep through thine own name those whom thou hast
-          given me, that they may be one, as we are. Acts 3:21 Whom the heaven
-          must receive until the times of restitution of all things, which God
-          hath spoken by the mouth of all his holy prophets since the world
-          began.[c] John 14:17 Even the Spirit of truth; whom the world cannot
-          receive, because it seeth him not, neither knoweth him: but ye know
-          him; for he dwelleth with you, and shall be in you. John 14:18 I will
-          not leave you comfortless: I will come to you. John 14:19 Yet a little
-          while, and the world seeth me no more; but ye see me: because I live,
-          ye shall live also. John 16:13 Howbeit when he, the Spirit of truth,
-          is come, he will guide you into all truth: for he shall not speak of
-          himself; but whatsoever he shall hear, that shall he speak: and he
-          will shew you things to come. Matt.28:20 Teaching them to observe all
-          things whatsoever I have commanded you: and, lo, I am with you alway,
-          even unto the end of the world. Amen. Eph.4:8 Wherefore he saith, When
-          he ascended up on high, he led captivity captive, and gave gifts unto
-          men. Eph.4:12 For the perfecting of the saints, for the work of the
-          ministry, for the edifying of the body of Christ:
+          grace and spirit, he is at no time absent from us.[c]
+        verses:
+          a:
+            - Matt.28.20
+          b:
+            - Acts.1.9-Acts.1.11
+            - Acts.3:19-Acts.3.21
+          c:
+            - Matt.28.18-Matt.28.20
+            - John.14.16-John.14.19
       - question: >-
           But if his human nature is not present, wherever his Godhead is, are
           not then these two natures in Christ separated from one another?
