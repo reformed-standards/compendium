@@ -3,6 +3,7 @@ name: Heidelberg Catechism
 publication_year: 1563
 type: catechism
 image: heidelberg.jpg
+markdown: true
 recommended_reading:
   - heidelberg
 days:
@@ -634,17 +635,21 @@ days:
       - question: >-
           What are these articles?
         number: 23
-        answer: >-
+        answer: |
+
           1. I believe in God the Father, Almighty, Maker of heaven and earth:
-          2. And in Jesus Christ, his only begotten Son, our Lord: 3. Who was
-          conceived by the Holy Ghost, born of the Virgin Mary: 4. Suffered
-          under Pontius Pilate; was crucified, dead, and buried: He descended
-          into hell: 5. The third day he rose again from the dead: 6. He
-          ascended into heaven, and sitteth at the right hand of God the Father
-          Almighty: 7. From thence he shall come to judge the quick and the
-          dead: 8. I believe in the Holy Ghost: 9. I believe a holy catholic
-          church: the communion of saints: 10. The forgiveness of sins: 11. The
-          resurrection of the body: 12. And the life everlasting.
+          2. And in Jesus Christ, his only begotten Son, our Lord:
+          3. Who was conceived by the Holy Ghost, born of the Virgin Mary:
+          4. Suffered under Pontius Pilate; was crucified, dead, and buried: He descended into hell:
+          5. The third day he rose again from the dead:
+          6. He ascended into heaven, and sitteth at the right hand of God the Father Almighty:
+          7. From thence he shall come to judge the quick and the dead:
+          8. I believe in the Holy Ghost:
+          9. I believe a holy catholic church: the communion of saints:
+          10. The forgiveness of sins:
+          11. The resurrection of the body:
+          12. And the life everlasting.
+
   - number: 8
     questions:
       - question: >-
@@ -2450,13 +2455,13 @@ days:
       - question: >-
           What is the law of God?
         number: 92
-        answer: >-
+        answer: |
           God spake all these words, saying: I am the LORD thy God, which have
           brought thee out of the land of Egypt, out of the house of bondage.
 
-          I. Thou shalt have no other gods before me.
+          1. Thou shalt have no other gods before me.
 
-          II. Thou shalt not make unto thee any graven image, or any likeness of
+          2. Thou shalt not make unto thee any graven image, or any likeness of
           any thing that is in heaven above, or that is in the earth beneath, or
           that is in the water under the earth: thou shalt not bow down thyself
           to them, nor serve them: for I the Lord thy God am a jealous God,
@@ -2464,10 +2469,10 @@ days:
           and fourth generation of them that hate me; and showing mercy unto
           thousands of them that love me, and keep my commandments.
 
-          III. Thou shalt not take the name of the Lord thy God in vain: for the
+          3. Thou shalt not take the name of the Lord thy God in vain: for the
           Lord will not hold him guiltless that taketh his name in vain.
 
-          IV. Remember the sabbath day, to keep it holy. Six days shalt thou
+          4. Remember the sabbath day, to keep it holy. Six days shalt thou
           labor, and do all thy work: but the seventh day is the sabbath of the
           Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor
           thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor
@@ -2476,18 +2481,18 @@ days:
           seventh day: wherefore the Lord blessed the sabbath day, and hallowed
           it.
 
-          V. Honor thy father and thy mother: that thy days may be long upon the
+          5. Honor thy father and thy mother: that thy days may be long upon the
           land which the Lord thy God giveth thee.
 
-          VI. Thou shalt not kill.
+          6. Thou shalt not kill.
 
-          VII. Thou shalt not commit adultery.
+          7. Thou shalt not commit adultery.
 
-          VIII. Thou shalt not steal.
+          8. Thou shalt not steal.
 
-          IX. Thou shalt not bear false witness against thy neighbor.
+          9. Thou shalt not bear false witness against thy neighbor.
 
-          X. Thou shalt not covet thy neighbor's house, thou shalt not covet thy
+          10. Thou shalt not covet thy neighbor's house, thou shalt not covet thy
           neighbor's wife, nor his manservant, nor his maid-servant, nor his ox,
           nor his ass, nor any thing that is thy neighbor's.[a]
         verses:
