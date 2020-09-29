@@ -12358,8 +12358,17 @@ psalms:
       Lo, for thy precepts I have longed;
       in thy truth quicken me.
 
-      PSALM 119 (6)C.M.
-
+  - number: 119
+    suggested_tunes:
+      - Jackson
+      - Caithness
+      - Bangor
+      - York
+      - Bristol
+      - Ballerma
+    metre: C.M.
+    is_second_version: false
+    text: |
       Let thy sweet mercies also come
       and visit me, O LORD;
       Ev'n thy benign salvätion,
