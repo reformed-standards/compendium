@@ -1,6 +1,0 @@
-language: minimal
-dist: bionic
-before_install:
-  - sudo apt-get -y install yamllint
-script:
-  - find . -name '*.yml' -o -name '*.yaml' -exec yamllint --strict --format parsable {} \+
