@@ -1,2 +1,3 @@
 # GitHub Annotations support added in 1.25.0
 yamllint>=1.25.0
+PyYAML>=5.0.0
