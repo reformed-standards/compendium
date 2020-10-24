@@ -1,0 +1,33 @@
+---
+name: Test
+
+# yamllint disable-line rule:truthy
+on: push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Setup environment
+        run: |
+          python3 -m venv .venv
+          . .venv/bin/activate
+          pip install -r test/requirements.txt
+
+      - name: Make sure YAML files have the right extension
+        run: |
+          # Make sure the files _don't_ end in ".yml"
+          git ls-files | grep '\.yml$' && exit 1 || exit 0
+
+      - name: Lint YAML files through yamllint
+        run: |
+          . .venv/bin/activate
+          git ls-files | grep "\.yaml$" \
+                       | xargs yamllint --strict

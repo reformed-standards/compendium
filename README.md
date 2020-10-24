@@ -1,7 +1,7 @@
 Compendium of Reformed Standards
 ================================
 
-[![Build Status](https://travis-ci.org/reformed-standards/compendium.svg?branch=master)](https://travis-ci.org/reformed-standards/compendium)
+![Build Status](https://github.com/reformed-standards/compendium/workflows/.github/workflows/test.yaml/badge.svg)
 
 The *compendium* is a collection of reformed documents, such as confessions and
 catechisms.  It is the source for the [Reformed Standards website][1].
@@ -52,7 +52,8 @@ catechisms.  It is the source for the [Reformed Standards website][1].
 Contributing
 ------------
 
-Contributions are encouraged, and welcome.  Feel free to email us patches, or
-open issues and pull requests on GitHub.
+Contributions are encouraged, and welcome.  Feel free to email us patches
+(team at confessional.tech), or open issues and pull requests on [GitHub.][2]
 
 [1]: https://reformedstandards.com
+[2]: https://github.com/reformed-standards/compendium/
