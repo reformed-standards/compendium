@@ -31,3 +31,7 @@ jobs:
           . .venv/bin/activate
           git ls-files | grep "\.yaml$" \
                        | xargs yamllint --strict
+      - name: Validate data files
+        run: |
+          . .venv/bin/activate
+          ./test/validate_data_files.py
