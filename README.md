@@ -1,7 +1,7 @@
 Compendium of Reformed Standards
 ================================
 
-![Build Status](https://github.com/reformed-standards/compendium/workflows/.github/workflows/test.yaml/badge.svg)
+![Build Status](https://github.com/reformed-standards/compendium/workflows/Test/badge.svg)
 
 The *compendium* is a collection of reformed documents, such as confessions and
 catechisms.  It is the source for the [Reformed Standards website][1].
