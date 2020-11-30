@@ -25,7 +25,8 @@ chapters:
         verses:
           - 2Tim.3.15-2Tim.3.17
           - Isa.8.20
-          - Luke.16.29,Luke.16.31
+          - Luke.16.29
+          - Luke.16.31
           - Eph.2.20
           - Rom.1.19-Rom.1.21
           - Rom.2.14-Rom.2.15
@@ -59,7 +60,8 @@ chapters:
           authority to the church of God, nor to be any otherwise approved or made
           use of than other human writings.
         verses:
-          - Luke.24.27,Luke.24.44
+          - Luke.24.27
+          - Luke.24.44
           - Rom.3.2
       - number: 4
         text: >-
@@ -87,7 +89,8 @@ chapters:
         verses:
           - John.16.13-John.16.14
           - 1Cor.2.10-1Cor.2.12
-          - 1John.2.20,1John.2.27
+          - 1John.2.20
+          - 1John.2.27
       - number: 6
         text: >-
           The whole counsel of God concerning all things necessary for his own glory,
@@ -106,7 +109,8 @@ chapters:
           - John.6.45
           - 1Cor.2.9-1Cor.2.12
           - 1Cor.11.13-1Cor.11.14
-          - 1Cor.14.26,1Cor.14.40
+          - 1Cor.14.26
+          - 1Cor.14.40
       - number: 7
         text: >-
           All things in Scripture are not alike plain in themselves, nor alike clear
@@ -138,7 +142,11 @@ chapters:
           - Isa.8.20
           - Acts.15.15
           - John.5.39
-          - 1Cor.14.6,1Cor.14.9,1Cor.14.11-1Cor.14.12,1Cor.14.24,1Cor.14.28
+          - 1Cor.14.6
+          - 1Cor.14.9
+          - 1Cor.14.11-1Cor.14.12
+          - 1Cor.14.24
+          - 1Cor.14.28
           - Col.3.16
       - number: 9
         text: >-
@@ -157,7 +165,8 @@ chapters:
           rest, can be no other but the Holy Scripture delivered by the Spirit, into
           which Scripture so delivered, our faith is finally resolved.
         verses:
-          - Matt.22.29,Matt.22.31-Matt.22.32
+          - Matt.22.29
+          - Matt.22.31-Matt.22.32
           - Eph.2.20
           - Acts.28.23
   - name: Of God and of the Holy Trinity
@@ -178,7 +187,8 @@ chapters:
           terrible in his judgments, hating all sin, and who will by no means clear
           the guilty.
         verses:
-          - 1Cor.8.4,1Cor.8.6
+          - 1Cor.8.4
+          - 1Cor.8.6
           - Deut.6.4
           - Jer.10.10
           - Isa.48.12
@@ -223,7 +233,8 @@ chapters:
           - Ps.119.68
           - Job.22.2-Job.22.3
           - Rom.11.34-Rom.11.36
-          - Dan.4.25,Dan.4.34-Dan.4.35
+          - Dan.4.25
+          - Dan.4.34-Dan.4.35
           - Heb.4.13
           - Ezek.11.5
           - Acts.15.18
@@ -247,7 +258,8 @@ chapters:
           - Exod.3.14
           - John.14.11
           - 1Cor.8.6
-          - John.1.14,John.1.18
+          - John.1.14
+          - John.1.18
           - John.15.26
           - Gal.4.6
   - name: Of God's Decree
@@ -266,7 +278,8 @@ chapters:
           - Isa.46.10
           - Eph.1.11
           - Heb.6.17
-          - Rom.9.15,Rom.9.18
+          - Rom.9.15
+          - Rom.9.18
           - Jas.1.13
           - 1John.1.5
           - Acts.4.27-Acts.4.28
@@ -280,7 +293,10 @@ chapters:
           or as that which would come to pass upon such conditions.
         verses:
           - Acts.15.18
-          - Rom.9.11,Rom.9.13,Rom.9.16,Rom.9.18
+          - Rom.9.11
+          - Rom.9.13
+          - Rom.9.16
+          - Rom.9.18
       - number: 3
         text: >-
           By the decree of God, for the manifestation of his glory, some men and angels
@@ -309,12 +325,16 @@ chapters:
           unto everlasting glory, out of his mere free grace and love, without any
           other thing in the creature as a condition or cause moving him thereunto.
         verses:
-          - Eph.1.4,Eph.1.9,Eph.1.11
+          - Eph.1.4
+          - Eph.1.9
+          - Eph.1.11
           - Rom.8.30
           - 2Tim.1.9
           - 1Thess.5.9
-          - Rom.9.13,Rom.9.16
-          - Eph.2.5,Eph.2.12
+          - Rom.9.13
+          - Rom.9.16
+          - Eph.2.5
+          - Eph.2.12
       - number: 6
         text: >-
           As God hath appointed the elect unto glory, so he hath, by the eternal and
@@ -348,7 +368,8 @@ chapters:
           - 2Pet.1.10
           - Eph.1.6
           - Rom.11.33
-          - Rom.11.5-Rom.11.6,Rom.11.20
+          - Rom.11.5-Rom.11.6
+          - Rom.11.20
           - Luke.10.20
   - name: Of Creation
     number: 4
@@ -388,7 +409,8 @@ chapters:
           were happy in their communion with God, and had dominion over the creatures.
         verses:
           - Gen.2.17
-          - Gen.1.26,Gen.1.28
+          - Gen.1.26
+          - Gen.1.28
   - name: Of Divine Providence
     number: 5
     articles:
@@ -423,7 +445,8 @@ chapters:
           God, in his ordinary providence maketh use of means, yet is free to work
           without, above, and against them at his pleasure.
         verses:
-          - Acts.27.31,Acts.27.44
+          - Acts.27.31
+          - Acts.27.44
           - Isa.55.10-Isa.55.11
           - Hos.1.7
           - Rom.4.19-Rom.4.21
@@ -446,7 +469,8 @@ chapters:
           - 2Kgs.19.28
           - Ps.76.10
           - Gen.1.20
-          - Isa.10.6-Isa.10.7,Isa.10.12
+          - Isa.10.6-Isa.10.7
+          - Isa.10.12
           - 1John.2.16
       - number: 5
         text: >-
@@ -460,7 +484,8 @@ chapters:
           befalls any of his elect is by his appointment, for his glory, and their
           good.
         verses:
-          - 2Chr.32.25-2Chr.32.26,2Chr.32.31
+          - 2Chr.32.25-2Chr.32.26
+          - 2Chr.32.31
           - 2Cor.12.7-2Cor.12.9
           - Rom.8.28
       - number: 6
@@ -475,7 +500,8 @@ chapters:
           harden themselves, under those means which God useth for the softening of
           others.
         verses:
-          - Rom.1.24-Rom.1.26,Rom.1.28
+          - Rom.1.24-Rom.1.26
+          - Rom.1.28
           - Rom.11.7-Rom.11.8
           - Deut.29.4
           - Matt.13.12
@@ -483,7 +509,8 @@ chapters:
           - 2Kgs.8.12-2Kgs.8.13
           - Ps.81.11-Ps.81.12
           - 2Thess.2.10-2Thess.2.12
-          - Exod.8.15,Exod.8.32
+          - Exod.8.15
+          - Exod.8.32
           - Isa.6.9-Isa.6.10
           - 1Pet.2.7-1Pet.2.8
       - number: 7
@@ -535,7 +562,9 @@ chapters:
           and eternal, unless the Lord Jesus set them free.
         verses:
           - Rom.5.12-Rom.5.19
-          - 1Cor.15.21-1Cor.15.22,1Cor.15.45,1Cor.15.49
+          - 1Cor.15.21-1Cor.15.22
+          - 1Cor.15.45
+          - 1Cor.15.49
           - Ps.51.5
           - Job.14.4
           - Eph.2.3
@@ -559,7 +588,8 @@ chapters:
           regenerated; and although it be through Christ pardoned and mortified, yet
           both itself, and the first motions thereof, are truly and properly sin.
         verses:
-          - Rom.7.18,Rom.7.23
+          - Rom.7.18
+          - Rom.7.23
           - Eccl.7.20
           - 1John.1.8
           - Rom.7.23-Rom.7.25
@@ -610,7 +640,8 @@ chapters:
           - Heb.1.1
           - 2Tim.1.9
           - Titus.1.2
-          - Heb.11.6,Heb.11.13
+          - Heb.11.6
+          - Heb.11.13
           - Rom.4.1-Rom.4.2
           - Acts.4.12
           - John.8.56
@@ -656,10 +687,13 @@ chapters:
           - John.1.14
           - Gal.4.4
           - Rom.8.3
-          - Heb.2.14,Heb.2.16-Heb.2.17
+          - Heb.2.14
+          - Heb.2.16-Heb.2.17
           - Heb.4.15
           - Matt.1.22-Matt.1.23
-          - Luke.1.27,Luke.1.31,Luke.1.35
+          - Luke.1.27
+          - Luke.1.31
+          - Luke.1.35
           - Rom.9.5
           - 1Tim.2.5
       - number: 3
@@ -682,7 +716,8 @@ chapters:
           - John.1.14
           - Heb.7.22
           - Heb.5.5
-          - John.5.22,John.5.27
+          - John.5.22
+          - John.5.27
           - Matt.28.18
           - Acts.2.36
       - number: 4
@@ -712,7 +747,8 @@ chapters:
           - Matt.27.46
           - Acts.13.37
           - 1Cor.15.3-1Cor.15.4
-          - John.20.25,John.20.27
+          - John.20.25
+          - John.20.27
           - Mark.16.19
           - Acts.1.9-Acts.1.11
           - Rom.8.34
@@ -777,7 +813,8 @@ chapters:
           - John.17.6
           - Eph.1.9
           - 1John.5.20
-          - Rom.8.9,Rom.8.14
+          - Rom.8.9
+          - Rom.8.14
           - Ps.110.1
           - 1Cor.15.25-1Cor.15.26
           - John.3.8
@@ -835,7 +872,8 @@ chapters:
         verses:
           - Rom.5.6
           - Rom.8.7
-          - Eph.2.1,Eph.2.5
+          - Eph.2.1
+          - Eph.2.5
           - Titus.3.3-Titus.3.5
           - John.6.44
       - number: 4
@@ -849,7 +887,10 @@ chapters:
           - Col.1.13
           - John.8.36
           - Phil.2.13
-          - Rom.7.15,Rom.7.18-Rom.7.19,Rom.7.21,Rom.7.23
+          - Rom.7.15
+          - Rom.7.18-Rom.7.19
+          - Rom.7.21
+          - Rom.7.23
       - number: 5
         text: >-
           This will of man is made perfectly and immutably free to good alone in the
@@ -905,7 +946,8 @@ chapters:
           all elect persons, who are incapable of being outwardly called by the ministry
           of the Word.
         verses:
-          - John.3.3,John.3.5-John.3.6
+          - John.3.3
+          - John.3.5-John.3.6
           - John.3.8
       - number: 4
         text: >-
@@ -919,7 +961,8 @@ chapters:
           - Matt.22.14
           - Matt.13.20-Matt.13.21
           - Heb.6.4-Heb.6.5
-          - John.6.44-John.6.45,John.6.65
+          - John.6.44-John.6.45
+          - John.6.65
           - 1John.2.24-1John.2.25
           - Acts.4.12
           - John.4.22
@@ -957,7 +1000,9 @@ chapters:
         verses:
           - Rom.3.28
           - Gal.5.6
-          - Jas.2.17,Jas.2.22,Jas.2.26
+          - Jas.2.17
+          - Jas.2.22
+          - Jas.2.26
       - number: 3
         text: >-
           Christ, by his obedience and death, did fully discharge the debt of all
@@ -1001,7 +1046,8 @@ chapters:
           faith and repentance.
         verses:
           - Matt.6.12
-          - 1John.1.7,1John.1.9
+          - 1John.1.7
+          - 1John.1.9
           - John.10.28
           - Ps.89.31-Ps.89.33
           - Ps.32.5
@@ -1079,7 +1125,8 @@ chapters:
           and the Spirit against the flesh.
         verses:
           - 1Thess.5.23
-          - Rom.7.18,Rom.7.23
+          - Rom.7.18
+          - Rom.7.23
           - Gal.5.17
           - 1Pet.2.11
       - number: 3
@@ -1109,7 +1156,8 @@ chapters:
         verses:
           - 2Cor.4.13
           - Eph.2.8
-          - Rom.10.14,Rom.10.17
+          - Rom.10.14
+          - Rom.10.17
           - Luke.17.5
           - 1Pet.2.2
           - Acts.20.32
@@ -1200,7 +1248,8 @@ chapters:
           every man's duty to repent of his particular known sins particularly.
         verses:
           - Luke.19.8
-          - 1Tim.1.13,1Tim.1.15
+          - 1Tim.1.13
+          - 1Tim.1.15
       - number: 5
         text: >-
           Such is the provision which God hath made through Christ in the covenant
@@ -1234,9 +1283,11 @@ chapters:
           God, whose workmanship they are, created in Christ Jesus thereunto, that
           having their fruit unto holiness they may have the end eternal life.
         verses:
-          - Jas.2.18,Jas.2.22
+          - Jas.2.18
+          - Jas.2.22
           - Ps.116.12-Ps.116.13
-          - 1John.2.3,1John.2.5
+          - 1John.2.3
+          - 1John.2.5
           - 2Pet.1.5-2Pet.1.11
           - Matt.5.16
           - 1Tim.6.1
@@ -1297,7 +1348,8 @@ chapters:
         verses:
           - Eph.1.6
           - 1Pet.2.5
-          - Matt.25.21,Matt.25.23
+          - Matt.25.21
+          - Matt.25.23
           - Heb.6.10
       - number: 7
         text: >-
@@ -1310,11 +1362,14 @@ chapters:
           and displeasing to God.
         verses:
           - 2Kgs.10.30
-          - 1Kgs.21.27,1Kgs.21.29
+          - 1Kgs.21.27
+          - 1Kgs.21.29
           - Gen.4.5
-          - Heb.11.4,Heb.11.6
+          - Heb.11.4
+          - Heb.11.6
           - 1Cor.13.1
-          - Matt.6.2,Matt.6.5
+          - Matt.6.2
+          - Matt.6.5
           - Amos.5.21-Amos.5.22
           - Rom.9.16
           - Titus.3.5
@@ -1358,7 +1413,8 @@ chapters:
           of grace; from all which ariseth also the certainty and infallibility thereof.
         verses:
           - Rom.8.30
-          - Rom.9.11,Rom.9.16
+          - Rom.9.11
+          - Rom.9.16
           - Rom.5.9-Rom.5.10
           - John.14.19
           - Heb.6.17-Heb.6.18
@@ -1375,13 +1431,18 @@ chapters:
           judgments upon themselves, yet shall they renew their repentance and be
           preserved through faith in Christ Jesus to the end.
         verses:
-          - Matt.26.70,Matt.26.72,Matt.26.74
-          - Isa.64.5,Isa.64.9
+          - Matt.26.70
+          - Matt.26.72
+          - Matt.26.74
+          - Isa.64.5
+          - Isa.64.9
           - Eph.4.30
-          - Ps.51.10,Ps.51.12
+          - Ps.51.10
+          - Ps.51.12
           - Ps.32.3-Ps.32.4
           - 2Sam.12.14
-          - Luke.22.32,Luke.22.61-Luke.22.62
+          - Luke.22.32
+          - Luke.22.61-Luke.22.62
   - name: Of the Assurance of Grace and Salvation
     number: 18
     articles:
@@ -1398,9 +1459,13 @@ chapters:
           - Job.8.13-Job.8.14
           - Matt.7.22-Matt.7.23
           - 1John.2.3
-          - 1John.3.14,1John.3.18-1John.3.19,1John.3.21,1John.3.24
+          - 1John.3.14
+          - 1John.3.18-1John.3.19
+          - 1John.3.21
+          - 1John.3.24
           - 1John.5.13
-          - Rom.5.2,Rom.5.5
+          - Rom.5.2
+          - Rom.5.5
       - number: 2
         text: >-
           This certainty is not a bare conjectural and probable persuasion grounded
@@ -1411,9 +1476,11 @@ chapters:
           spirits that we are the children of God; and, as a fruit thereof, keeping
           the heart both humble and holy.
         verses:
-          - Heb.6.11,Heb.6.19
+          - Heb.6.11
+          - Heb.6.19
           - Heb.6.17-Heb.6.18
-          - 2Pet.1.4-2Pet.1.5,2Pet.1.10-2Pet.1.11
+          - 2Pet.1.4-2Pet.1.5
+          - 2Pet.1.10-2Pet.1.11
           - Rom.8.15-Rom.8.16
           - 1John.3.1-1John.3.3
       - number: 3
@@ -1434,11 +1501,13 @@ chapters:
           - Ps.77.1-Ps.77.12
           - 1John.4.13
           - Heb.6.11-Heb.6.12
-          - Rom.5.1-Rom.5.2,Rom.5.5
+          - Rom.5.1-Rom.5.2
+          - Rom.5.5
           - Rom.14.17
           - Ps.119.32
           - Rom.6.1-Rom.6.2
-          - Titus.2.11-Titus.2.12,Titus.2.14
+          - Titus.2.11-Titus.2.12
+          - Titus.2.14
       - number: 4
         text: >-
           True believers may have the assurance of their salvation divers ways shaken,
@@ -1452,14 +1521,17 @@ chapters:
           assurance may in due time be revived, and by the which, in the meantime,
           they are preserved from utter despair.
         verses:
-          - Ps.51.8,Ps.51.12,Ps.51.14
+          - Ps.51.8
+          - Ps.51.12
+          - Ps.51.14
           - Ps.116.11
           - Ps.77.7-Ps.77.8
           - Ps.31.22
           - Ps.30.7
           - 1John.3.9
           - Luke.22.32
-          - Ps.42.5,Ps.42.11
+          - Ps.42.5
+          - Ps.42.11
           - Lam.3.26-Lam.3.31
   - name: Of the Law of God
     number: 19
@@ -1476,7 +1548,8 @@ chapters:
           - Gen.1.27
           - Eccl.7.29
           - Rom.10.5
-          - Gal.3.10,Gal.3.12
+          - Gal.3.10
+          - Gal.3.12
       - number: 2
         text: >-
           The same law that was first written in the heart of man continued to be
@@ -1499,8 +1572,10 @@ chapters:
           - Heb.10.1
           - Col.2.17
           - 1Cor.5.7
-          - Col.2.14,Col.2.16-Col.2.17
-          - Eph.2.14,Eph.2.16
+          - Col.2.14
+          - Col.2.16-Col.2.17
+          - Eph.2.14
+          - Eph.2.16
       - number: 4
         text: >-
           To them also he gave sundry judicial laws, which expired together with the
@@ -1517,7 +1592,8 @@ chapters:
           this obligation.
         verses:
           - Rom.13.8-Rom.13.10
-          - Jas.2.8,Jas.2.10-Jas.2.12
+          - Jas.2.8
+          - Jas.2.10-Jas.2.12
           - Jas.2.10-Jas.2.11
           - Matt.5.17-Matt.5.19
           - Rom.3.31
@@ -1581,7 +1657,8 @@ chapters:
           or repentance.
         verses:
           - Rom.1.17
-          - Rom.10.14-Rom.10.15,Rom.10.17
+          - Rom.10.14-Rom.10.15
+          - Rom.10.17
           - Prov.29.18
           - Isa.25.7
           - Isa.60.2-Isa.60.3
@@ -1613,7 +1690,8 @@ chapters:
           - 1Cor.2.14
           - Eph.1.19-Eph.1.20
           - John.6.44
-          - 2Cor.4.4,2Cor.4.6
+          - 2Cor.4.4
+          - 2Cor.4.6
   - name: Of Christian Liberty and Liberty of Conscience
     number: 21
     articles:
@@ -1643,7 +1721,8 @@ chapters:
           - Rom.8.15
           - Luke.1.73-Luke.1.75
           - 1John.4.18
-          - Gal.3.9,Gal.3.14
+          - Gal.3.9
+          - Gal.3.14
           - John.7.38-John.7.39
           - Heb.10.19-Heb.10.21
       - number: 2
@@ -1657,10 +1736,12 @@ chapters:
         verses:
           - Jas.4.12
           - Rom.14.4
-          - Acts.4.19,Acts.4.29
+          - Acts.4.19
+          - Acts.4.29
           - 1Cor.7.23
           - Matt.15.9
-          - Col.2.20,Col.2.22-Col.2.23
+          - Col.2.20
+          - Col.2.22-Col.2.23
           - 1Cor.3.5
           - 2Cor.1.24
       - number: 3
@@ -1674,7 +1755,8 @@ chapters:
         verses:
           - Rom.6.1-Rom.6.2
           - Gal.5.13
-          - 2Pet.2.18,2Pet.2.21
+          - 2Pet.2.18
+          - 2Pet.2.21
   - name: Of Religious Worship and the Sabbath Day
     number: 22
     articles:
@@ -1823,7 +1905,8 @@ chapters:
           by the word of God; so a lawful oath being imposed by lawful authority in
           such matters, ought to be taken.
         verses:
-          - Matt.5.34,Matt.5.37
+          - Matt.5.34
+          - Matt.5.37
           - Jas.5.12
           - Heb.6.16
           - 2Cor.1.23
@@ -1854,7 +1937,8 @@ chapters:
         verses:
           - Ps.76.11
           - Gen.28.20-Gen.28.22
-          - 1Cor.7.2,1Cor.7.9
+          - 1Cor.7.2
+          - 1Cor.7.9
           - Eph.4.28
           - Matt.19.11
   - name: Of the Civil Magistrate
@@ -1910,7 +1994,8 @@ chapters:
         verses:
           - Gen.2.18
           - Gen.1.28
-          - 1Cor.7.2,1Cor.7.9
+          - 1Cor.7.2
+          - 1Cor.7.9
       - number: 3
         text: >-
           It is lawful for all sorts of people to marry, who are able with judgment
@@ -1947,8 +2032,11 @@ chapters:
         verses:
           - Heb.12.23
           - Col.1.18
-          - Eph.1.10,Eph.1.22-Eph.1.23
-          - Eph.5.23,Eph.5.27,Eph.5.32
+          - Eph.1.10
+          - Eph.1.22-Eph.1.23
+          - Eph.5.23
+          - Eph.5.27
+          - Eph.5.32
       - number: 2
         text: >-
           All persons throughout the world, professing the faith of the gospel, and
@@ -2041,7 +2129,8 @@ chapters:
           duty, which he intrusts them with, or calls them to, to be continued to
           the end of the world, are bishops or elders, and deacons.
         verses:
-          - Acts.20.17,Acts.20.28
+          - Acts.20.17
+          - Acts.20.28
           - Phil.1.1
       - number: 9
         text: >-
@@ -2055,7 +2144,8 @@ chapters:
         verses:
           - Acts.14.23
           - 1Tim.4.14
-          - Acts.6.3,Acts.6.5-Acts.6.6
+          - Acts.6.3
+          - Acts.6.5-Acts.6.6
       - number: 10
         text: >-
           The work of pastors being constantly to attend the service of Christ, in
@@ -2094,7 +2184,8 @@ chapters:
           according to the rule of Christ.
         verses:
           - 1Thess.5.14
-          - 2Thess.3.6,2Thess.3.14-2Thess.3.15
+          - 2Thess.3.6
+          - 2Thess.3.14-2Thess.3.15
       - number: 13
         text: >-
           No church members, upon any offence taken by them, having performed their
@@ -2135,7 +2226,11 @@ chapters:
           over any churches or persons; or to impose their determination on the churches
           or officers.
         verses:
-          - Acts.15.2,Acts.15.4,Acts.15.6,Acts.15.22-Acts.15.23,Acts.15.25
+          - Acts.15.2
+          - Acts.15.4
+          - Acts.15.6
+          - Acts.15.22-Acts.15.23
+          - Acts.15.25
           - 2Cor.1.24
           - 1John.4.1
   - name: Of the Communion of Saints
@@ -2158,7 +2253,8 @@ chapters:
           - Eph.4.15-Eph.4.16
           - 1Cor.12.7
           - 1Cor.3.21-1Cor.3.23
-          - 1Thess.5.11,1Thess.5.14
+          - 1Thess.5.11
+          - 1Thess.5.14
           - Rom.1.12
           - 1John.3.17-1John.3.18
           - Gal.6.10
@@ -2257,7 +2353,8 @@ chapters:
           of their communion with him, and with each other.
         verses:
           - 1Cor.11.23-1Cor.11.26
-          - 1Cor.10.16-1Cor.10.17,1Cor.10.21
+          - 1Cor.10.16-1Cor.10.17
+          - 1Cor.10.21
       - number: 2
         text: >-
           In this ordinance Christ is not offered up to his Father, nor any real sacrifice
@@ -2268,7 +2365,8 @@ chapters:
           injurious to Christ's own sacrifice the alone propitiation for all the sins
           of the elect.
         verses:
-          - Heb.9.25-Heb.9.26,Heb.9.28
+          - Heb.9.25-Heb.9.26
+          - Heb.9.28
           - 1Cor.11.24
           - Matt.26.26-Matt.26.27
       - number: 3
@@ -2353,7 +2451,9 @@ chapters:
           - Acts.13.36
           - Eccl.12.7
           - Luke.23.43
-          - 2Cor.5.1,2Cor.5.6,2Cor.5.8
+          - 2Cor.5.1
+          - 2Cor.5.6
+          - 2Cor.5.8
           - Phil.1.23
           - Heb.12.23
           - Jude.1.6-Jude.1.7
@@ -2392,13 +2492,15 @@ chapters:
           receive according to what they have done in the body, whether good or evil.
         verses:
           - Acts.17.31
-          - John.5.22,John.5.27
+          - John.5.22
+          - John.5.27
           - 1Cor.6.3
           - Jude.1.6
           - 2Cor.5.10
           - Eccl.12.14
           - Matt.12.36
-          - Rom.14.10,Rom.14.12
+          - Rom.14.10
+          - Rom.14.12
           - Matt.25.32-Matt.25.46
       - number: 2
         text: >-
@@ -2413,7 +2515,8 @@ chapters:
           of his power.
         verses:
           - Rom.9.22-Rom.9.23
-          - Matt.25.21,Matt.25.34
+          - Matt.25.21
+          - Matt.25.34
           - 2Tim.4.8
           - Matt.25.46
           - Mark.9.48
