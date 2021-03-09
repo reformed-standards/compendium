@@ -32,6 +32,9 @@ def read_yaml_file(filename):
     data = open(filename).read()
     return yaml.load(data, Loader=yaml.Loader)
 
+def _validate_verses(text_w_ref, obj):
+    for ref in obj['verses']:
+        assert '[' + str(ref) + ']' in text_w_ref, 'Missing Citation ' + str(ref) + ' from ' + str(obj['number'])
 
 def validate_confession(data):
     for chapter in data['chapters']:
@@ -53,6 +56,8 @@ def validate_confession(data):
 
         for article in chapter['articles']:
             assert isinstance(article, dict), 'Article not a dict'
+            if 'verses' in article:
+                _validate_verses(article['text'], article)
 
             assert 'number' in article, 'Missing article number'
             assert 'text' in article, 'Missing text in article'
@@ -69,7 +74,6 @@ def _validate_question(question):
     assert 'question' in question, 'Missing question'
     assert 'answer' in question, 'Missing answer'
     assert 'number' in question, 'Missing question number'
-    assert 'verses' in question, 'Missing verses'
 
     assert isinstance(question['question'], str), \
         'Question not a string'
@@ -77,12 +81,14 @@ def _validate_question(question):
         'Answer not a string'
     assert isinstance(question['number'], int), \
         'Question number not an int'
+    if 'verses' in question:
+        _validate_verses(question['answer'] + question['question'], question)
 
 
 def validate_catechism(data):
     if 'days' in data:
         for day in data['days']:
-            for question in day:
+            for question in day['questions']:
                 _validate_question(question)
     else:
         for question in data['questions']:
@@ -116,6 +122,9 @@ def validate_file(filename):
             validate_confession(data)
 
         if 'questions' in data:
+            validate_catechism(data)
+
+        if 'days' in data:
             validate_catechism(data)
 
     except Exception as err:
