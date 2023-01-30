@@ -1872,13 +1872,17 @@ days:
         answer: >-
           In the institution of baptism, which is thus expressed: "Go ye,
           therefore, and teach all nations, baptizing them in the name of the
-          Father, and of the Son, and of the Holy Ghost", Matt.28:19. And "he
+          Father, and of the Son, and of the Holy Ghost".[a] And "he
           that believeth, and is baptized, shall be saved; but he that believeth
-          not, shall be damned.", Mark 16:16. This promise is also repeated,
-          where the scripture calls baptism "the washing of regenerations" and
-          the washing away of sins. Tit.3:5, Acts 22:16.[a]
+          not, shall be damned.".[b] This promise is also repeated,
+          where the scripture calls baptism "the washing of regeneration" and
+          the washing away of sins.[c]
         verses:
           a:
+            - Matt.28.19
+          b:
+            - Mark.16.16
+          c:
             - Titus.3.5
             - Acts.22.16
   - number: 27
