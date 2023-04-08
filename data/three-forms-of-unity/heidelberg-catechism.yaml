@@ -3253,7 +3253,7 @@ days:
           turning. Matt.6:33 But seek ye first the kingdom of God, and his
           righteousness; and all these things shall be added unto you.
       - question: >-
-          What are the words of that prayer? (a)
+          What are the words of that prayer?
         number: 119
         answer: >-
           Our Father which art in heaven, 1 Hallowed be thy name. 2 Thy kingdom
@@ -3261,7 +3261,7 @@ days:
           day our daily bread. 5 And forgive us our debts, as we forgive our
           debtors. 6 And lead us not into temptation, but deliver us from evil.
           For thine is the kingdom, and the power, and the glory, for ever.
-          Amen.
+          Amen.[a]
         verses:
           a:
             - Matt.6.9
