@@ -32,9 +32,9 @@ def read_yaml_file(filename):
     data = open(filename).read()
     return yaml.load(data, Loader=yaml.Loader)
 
-def _validate_verses(text_w_ref, obj):
+def _validate_verses(text_w_ref, obj, chapter_number = 0):
     for ref in obj['verses']:
-        assert '[' + str(ref) + ']' in text_w_ref, 'Missing Citation ' + str(ref) + ' from ' + str(obj['number'])
+        assert '[' + str(ref) + ']' in text_w_ref, 'Missing Citation ' + str(ref) + ' from chapter ' + str(chapter_number) + ' Article ' + str(obj['number'])
 
 def validate_confession(data):
     for chapter in data['chapters']:
@@ -57,7 +57,7 @@ def validate_confession(data):
         for article in chapter['articles']:
             assert isinstance(article, dict), 'Article not a dict'
             if 'verses' in article:
-                _validate_verses(article['text'], article)
+                _validate_verses(article['text'], article, chapter['number'])
 
             assert 'number' in article, 'Missing article number'
             assert 'text' in article, 'Missing text in article'
