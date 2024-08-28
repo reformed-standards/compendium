@@ -1,0 +1,824 @@
+---
+name: The Scottish Confession
+type: confession
+publication_year: 1560
+chapters:
+  - name: Of God
+    number: 1
+    text: >
+      We confess and acknowledge one only God, to whom only we must cleave, whom only
+      we must serve[a], whom only we must worship[b], and in whom only we put our
+      trust[c]. Who is eternal, infinite, immeasurable, incomprehensible, omnipotent,
+      invisible, one in substance and yet distinct in three persons, the Father, the
+      Son, and the Holy Ghost[d]. By whom we confess and believe, all things in
+      heaven and earth[e], as well visible as invisible, to have been created, to be
+      retained in their being, and to be ruled and guided by His inscrutable
+      providence, to such end as His eternal wisdom[f], goodness, and justice has
+      appointed them to the manifestation of His own glory.
+    verses:
+      a:
+        - Deut.6
+      b:
+        - Isa.44
+      c:
+        - Deut.4
+      d:
+        - Matt.28
+      e:
+        - Gen.1
+      f:
+        - Prov.16
+  - name: Of the Creation of Man
+    number: 2
+    text: >
+      We confess and acknowledge this our God to have created man (to wit, our first father
+      Adam) to His own image and similitude[a]. To whom He gave wisdom, lordship, justice, free
+      will, and clear knowledge of Himself. So that in the whole nature of man, there could be
+      noted no imperfection. From which honor and perfection, man and woman did both
+      fall[b], the woman being deceived by the Serpent, and man obeying the voice of
+      the woman: both conspiring against the sovereign majesty of God, who in express
+      words had before threatened death, if they presumed to eat of the forbidden
+      tree.
+    verses:
+      a:
+        - Gen.1-Gen.2
+      b:
+        - Gen.3
+  - name: Of Original Sin
+    number: 3
+    text: >
+      By which transgression, commonly called original sin, was the image of God
+      utterly defaced in man. And he and his posterity of nature became enemies to
+      God, slaves to Satan, and servants to sin[a], that death everlasting has had,
+      and insofar will have, power and domination over all that have not been, are
+      not, or will not be regenerated from above[b]. Which regeneration is wrought by
+      the power of the Holy Ghost[c] working in the hearts of the elect of God, an
+      assured faith in the promises of God revealed to us in His Word, by which faith
+      they apprehend Christ Jesus with the graces and benefits promised in Him.
+    verses:
+      a:
+        - Eph.2
+        - Rom.5
+      b:
+        - John.3
+      c:
+        - Rom.5-Rom.6
+  - name: Of the Revelation of the Promise
+    number: 4
+    text: >
+      For this we constantly believe that God, after the fearful and horrible
+      defection of man from His obedience, did seek Adam again, call upon him, rebuke
+      his sin[a], convict him of the same, and in the end made unto him a most joyful
+      promise: to wit, that the seed of the woman should break down the Serpent’s
+      head, that is, He should destroy the works of the devil. Which promise, as it
+      was repeated and made more clear from time to time[b], so was it embraced with
+      joy and most constantly retained of all the faithful from Adam to Noah, from
+      Noah to Abraham, from Abraham to David, and so forth to the incarnation of
+      Christ Jesus. Who all (we mean the faithful fathers) under the Law did
+      see the joyful days of Christ Jesus and did rejoice.
+    verses:
+      a:
+        - Gen.3
+      b:
+        - Gen.12
+        - Gen.15
+        - Isa.7
+        - Isa.8
+  - name: The Continuance, Increase, and Preservation of the Kirk
+    number: 5
+    text: >
+      We most constantly believe that God preserved, instructed, multiplied, honored,
+      adorned[a], and from death called to life His kirk in all ages from Adam till
+      the coming of Christ Jesus in the flesh. For Abraham, He called from his
+      father’s country[b], him He instructed, his seed He multiplied[c], the same He
+      marvelously preserved and more marvelously delivered from the bondage and
+      tyranny of Pharaoh. To them He gave His laws[d], constitutions, and ceremonies.
+      Them He possessed in the land of Canaan[e]: to them, after judges and after
+      Saul, He gave David to be king[f], to whom He made promise that of the fruit of
+      his loins should one sit forever upon His regal seat. To this same people, from
+      time to time, He sent prophets to reduce them to the right way of their God[g],
+      from which oftentimes they declined by idolatry[h]. And albeit that for their
+      stubborn contempt of justice, He was compelled to give them into the hands of
+      their enemies, as before was threatened by the mouth of Moses[i], in so much
+      that the holy city was destroyed, the temple burnt with fire, and the whole
+      land left desolate the space of 70 years[j], yet of mercy did He lead them
+      again to Jerusalem. Where the city and temple were rebuilt and they against all
+      temptations and assaults of Satan did abide, till the Messiah came according to
+      the promise.
+    verses:
+      a:
+        - Ezek.16
+      b:
+        - Gen.12
+      c:
+        - Exod.1-Exod.2
+        - Exod.13
+      d:
+        - Exod.20
+      e:
+        - Josh.1-Josh.3
+      f:
+        - 1Sam.16
+      g:
+        - 2Kgs.17
+      h:
+        - 2Kgs.7
+        - 2Kgs.24-2Kgs.25
+      i:
+        - Deut.29
+      j:
+        - Jer.39
+        - Ezra.1
+        - Hag.1-Hag.2
+        - Zech.3
+  - name: Of the Incarnation of Christ Jesus
+    number: 6
+    text: >
+      When the fullness of time came[a], God sent His Son, His eternal wisdom, the
+      substance of His own glory, into this world, who took the nature of manhood of
+      the substance of a woman, to wit, of a virgin, and that by operation of the
+      Holy Ghost[b], and so was born the just seed of David, the angel of the great
+      counsel of God, the very Messiah promised[c]. Whom we acknowledge and confess,
+      Immanuel, very God and very man, two perfect natures united and joined in one
+      person. By which our confession, we condemn the damnable and pestilent heresies
+      of Arius, Marcion, Eutyches, Nestorius, and such others, as either deny the
+      eternity of His Godhead, or the verity of His human nature, or confounded them,
+      or yet denied them.
+    verses:
+      a:
+        - Gal.4
+      b:
+        - Luke.1-Luke.2
+      c:
+        - Isa.7
+  - name: Why It Behooved the Mediator to Be Very God and Very Man
+    number: 7
+    text: >
+      We acknowledge and confess that this most wondrous conjunction between the
+      Godhead and the manhood in Christ Jesus did proceed from the eternal and
+      immutable decree of God, whence also our salvation springs and depends.
+    verses:
+  - name: Election
+    number: 8
+    text: >
+      For that same eternal God and Father, who of mere grace elected us in Christ
+      Jesus His Son before the foundation of the world was laid[a], appointed Him to
+      be our Head, our brother[b], our pastor, and great bishop of our souls[c]. But
+      because the enmity betwixt the justice of God and our sins was such that no
+      flesh by itself could or might have attained unto God, it behooved that the Son
+      of God should descend unto us and take Himself a body of our body, flesh of our
+      flesh, and bones of our bones: and so become the perfect mediator betwixt God
+      and man, giving power to so many as believe in Him to be the sons of God[d]. As
+      He Himself does witness, “I pass up to my Father and unto your Father, to my
+      God and unto your God”[e]. By which most holy fraternity, whatsoever we have
+      lost in Adam is restored to us again. And for this cause are we not afraid to
+      call God our Father, not so much that He has created us (which we have common with the reprobate)
+      as for that, that He has given to us His only Son, to be our brother, and given unto us grace to
+      acknowledge and embrace Him for our only mediator, as before was said. It
+      behooved further the Messiah and Redeemer to be very God and very man because
+      He was to undergo the punishment due for our transgressions[f], and to present
+      Himself in the presence of His Father’s judgment as in our person to suffer for
+      our transgression and disobedience by death, to overcome him that was author of
+      death. But because the only Godhead could not suffer death, neither yet could
+      the only manhood overcome the same, He joined both together in one person that
+      the weakness of the one should suffer and be subject to death (which we had deserved), and the
+      infinite and invincible power of the other, to wit, of the Godhead, should
+      triumph and purchase to us life, liberty, and perpetual victory. And so we
+      confess and most undoubtedly believe.
+    verses:
+      a:
+        - Eph.1
+      b:
+        - Heb.2
+      c:
+        - John.10
+      d:
+        - John.1
+      e:
+        - John.20
+      f:
+        - Isa.53
+  - name: Christ’s Death, Passion, Burial, Etc.
+    number: 9
+    text: >
+      That our Lord Jesus offered Himself a voluntary sacrifice unto His Father for
+      us[a], that He suffered contradiction of sinners, that He was wounded and
+      plagued for our transgressions[b], that He being the clean and innocent Lamb of
+      God was damned in the presence of an earthly judge, that we should be absolved
+      before the tribunal seat of our God. That He suffered not only the cruel death
+      of the cross (which was accursed by the sentence of God [Deut. 21; Gal. 3]),
+      but also that He suffered for a season the wrath of His Father, which sinners
+      had deserved. But yet we avow that He remained the only well beloved and
+      blessed Son of His Father, even in the midst of His anguish and torment which
+      He suffered in body and soul to make that full satisfaction for the sins of His
+      people[c]. After which we confess and avow that there remains no other
+      sacrifice for sin, which if any affirm, we nothing doubt to avow that they are
+      blasphemous against Christ’s death and the everlasting purgation and
+      satisfaction purchased to us by the same.
+    verses:
+      a:
+        - Heb.10
+      b:
+        - Isa.53
+      c:
+        - Heb.10
+  - name: Resurrection
+    number: 10
+    text: >
+      We undoubtedly believe that in as much as it was impossible that the sorrows of
+      death should retain in bondage the author of life[a], that our Lord Jesus,
+      crucified, died, and buried[b], who descended into hell, did rise again for our
+      justification, and destroying him who was author of death brought life again
+      unto us that were subject to death and to the bondage of the same. We know that
+      His resurrection was confirmed by the testimony of His very enemies[c], by the
+      resurrection of the dead whose sepulchers did open and they did arise and
+      appeared to many within the city of Jerusalem[d]. It was also confirmed by the
+      testimony of angels and by the senses and judgments of His apostles and of
+      others[e], who had conversation and did eat and drink with Him after His
+      resurrection.
+    verses:
+      a:
+        - Acts.2-Acts.3
+      b:
+        - Rom.6
+      c:
+        - Matt.28
+      d:
+        - Matt.27
+      e:
+        - John.20-John.21
+  - name: Ascension
+    number: 11
+    text: >
+      We nothing doubt but that the same self body which was born of the virgin, was
+      crucified, and buried, and which did rise again, did ascend into the
+      heavens[a], for the accomplishment of all things where in our names and for our
+      comfort, He has received all power in heaven and earth[b], where He sits at the
+      right hand of the Father[c], inaugurating His kingdom, advocate and only
+      mediator for us[d]. Which glory, honor, and prerogative, He alone amongst the
+      brethren will possess till all His enemies are made His footstool, as that we
+      undoubtedly believe they will be in the final judgment: to the execution
+      whereof we certainly believe that the same Lord Jesus will visibly return as He
+      was seen to ascend[e]. And then we firmly believe that the time of refreshing
+      and restitution of all things will come[f], in so much that those who from the
+      beginning have suffered violence, injury, and wrong for righteousness sake will
+      inherit that blessed immortality promised from the beginning. But contrariwise
+      the stubborn, disobedient, cruel oppressors, filthy persons, idolaters, and all
+      sorts of unfaithful[g] will be cast in the dungeon of utter darkness, where
+      their worm will not die, neither yet their fire be extinguished. The
+      remembrance of which day and of the judgment to be executed in the same is not
+      only to us a bridle whereby our carnal lusts are restrained, but also such
+      inestimable comfort that neither may the threatening of worldly princes,
+      neither yet the fear of temporal death and present danger move us to renounce
+      and forsake that blessed society which we the members have with our Head and
+      only Mediator, Christ Jesus. Whom we confess and avow to be the Messiah
+      promised, the only Head of His kirk, our just Lawgiver, our only High Priest,
+      Advocate and Mediator[h]. In which honors and offices, if man or angel presumes
+      to intrude themselves, we utterly detest and abhor them as blasphemous to our
+      sovereign and supreme governor Christ Jesus.
+    verses:
+      a:
+        - Acts.1
+      b:
+        - Matt.28
+      c:
+        - 1John.2
+      d:
+        - 1Tim.2
+        - Ps.110
+      e:
+        - Acts.1
+      f:
+        - John.19
+        - Acts.3
+      g:
+        - Rev.20
+        - Isa.66
+      h:
+        - Isa.7
+        - Col.1
+        - Heb.6
+        - Heb.10
+  - name: Faith in the Holy Ghost
+    number: 12
+    text: >
+      This our faith and the assurance of the same proceeds not from flesh and
+      blood[a], that is to say, from no natural powers within us, but is the
+      inspiration of the Holy Ghost[b], whom we confess God equal with the Father and
+      with the Son, who sanctifies us and brings us in all verity by His own
+      operation, without whom we should remain forever enemies to God and ignorant of
+      His Son, Christ Jesus. For by nature we are so dead, so blind, and so perverse
+      that neither can we feel when we are pricked, see the light when it shines, nor
+      assent to the will of God when it is revealed, unless the Spirit of the Lord
+      Jesus quicken that which is dead, remove the darkness from our minds, and bow
+      our stubborn hearts to the obedience of His blessed will. And so as we confess
+      that God the Father created us when we were not; as His Son our Lord Jesus
+      redeemed us when we were enemies to Him[c]; so also do we confess that the Holy
+      Ghost does sanctify and regenerate us without all respect of any merit
+      proceeding from us, be it before or be it after our regeneration. To speak this
+      one thing, yet in more plain words, as we willingly spoil our selves of all
+      honor and glory of our own creation and redemption, so do we also of our
+      regeneration and sanctification, for of our selves we are not sufficient to
+      think any good thought[d]. But He who has begun the good work in us is only He
+      that continues us in the same to the praise and glory of His undeserved grace.
+    verses:
+      a:
+        - Matt.16
+      b:
+        - John.14.-John.16
+      c:
+        - Rom.5
+      d:
+        - 2Cor.7
+  - name: The Cause of Good Works
+    number: 13
+    text: >
+      So that the cause of good works we confess to be not our free will, but the
+      Spirit of the Lord Jesus[a], who dwelling in our hearts by true faith brings
+      forth such good works as God has prepared for us to walk in. For this we most
+      boldly affirm, that it is blasphemy to say that Christ Jesus abides in the
+      heart of those in whom is no spirit of sanctification. And, therefore, we fear
+      not to affirm that murderers, oppressors, cruel persecutors, adulterers,
+      whoremongers, filthy persons, idolaters, drunkards, thieves, and all workers of
+      iniquity have neither true faith nor any portion of the Spirit of the Lord
+      Jesus so long as they obstinately continue in their wickedness. For how soon
+      that ever the Spirit of the Lord Jesus (which God’s elect children receive by
+      true faith) takes possession in the heart of any man, so soon does He
+      regenerate and renew the same man so that he begins to hate that which before
+      he loved and begins to love that which before he hated. And from thence comes
+      that continual battle which is betwixt the flesh and the spirit in God’s
+      children. While flesh and the natural man (according to their own corruption)
+      lusts for things pleasing and
+      delectable unto the self[b], grudges in adversity, is lifted up in prosperity,
+      and at every moment is prone and ready to offend the majesty of God. But the
+      Spirit of God, who gives witness to our spirit that we are the sons of God[c],
+      makes us to resist the devil, to abhor filthy pleasures, to groan in God’s
+      presence for deliverance from this bondage of corruption, and finally to
+      triumph over sin that it reign not in our mortal bodies. This battle has not
+      the carnal man being destitute of God’s Spirit: but do follow and obey sin with
+      greediness and without repentance, even as the devil and their corrupt lusts do
+      prick them. But the sons of God (as was before said), do fight against sin, do sob and mourn when
+      they perceive themselves tempted to iniquity; and if they fall, they rise again
+      with earnest and unfeigned repentance, and these things they do not by their
+      own power, but by the power of the Lord Jesus without whom they were able to do
+      nothing[d].
+    verses:
+      a:
+        - John.15
+        - Eph.2
+      b:
+        - Gal.3
+      c:
+        - Rom.8
+      d:
+        - John.15
+  - name: What Works are Reputed Good before God
+    number: 14
+    text: >
+      We confess and acknowledge that God has given to man His holy law[a] in which
+      not only are forbidden all such works as displease and offend His godly
+      majesty, but also are commanded all such as please Him and as He has promised
+      to reward. And these works be of two sorts. The one are done to the honor of
+      God; the other to the profit of our neighbors; and both have the revealed will
+      of God for their assurance. To have one God, to worship and honor Him, to call
+      upon Him in all our troubles, reverence His holy name, to hear His Word, to
+      believe the same, to communicate with His holy sacraments are the works of the
+      first table. To honor father and mother[b], princes, rulers and superior
+      powers[c], to love them, to support them, yes to obey their charges (not repugnant to the commandments of
+      God), to save
+      the lives of innocents[d], to repress tyranny[e], to defend the oppressed[f],
+      to keep our bodies clean and holy[g], to live in sobriety and temperance[h], to
+      deal justly with all men both in word and deed, and finally to repress all
+      appetite of our neighbor’s hurt, are the good works of the second table which
+      are most pleasing and acceptable unto God as those works that are commanded by
+      Himself. The contrary of which is sin most odious which always displeases Him
+      and provokes Him to anger[i]. As not to call upon Him alone when we have need,
+      not to hear His Word with reverence, to condemn and despise it, to have or to
+      worship idols, to maintain and defend idolatry, lightly to esteem the revered
+      name of God, to profane, abuse, or condemn the sacraments of Christ Jesus, to
+      disobey or resist any that God has placed in authority (while they pass not over the
+      bounds of their office)[j], to murder, to
+      consent thereto, to bear hatred or to suffer innocent blood to be shed, if we
+      may withstand it[k], and finally the transgression of any other commandment in
+      the first or second table, we confess and affirm to be sin by which God’s hot
+      displeasure is kindled against the proud and unthankful world.
+    verses:
+      a:
+        - Exod.20
+        - Deut.4-Deut.5
+      b:
+        - Eph.6
+      c:
+        - Rom.13
+        - 1Tim.2-1Tim.6
+      d:
+        - Ezek.22
+      e:
+        - Jer.22
+      f:
+        - Isa.58
+      g:
+        - 1Thess.4
+      h:
+        - Luke.2
+      i:
+        - Eph.5
+      j:
+        - Rom.13
+      k:
+        - Ezek.22
+  - name: The Perfection of the Law and Imperfection of Man
+    number: 15
+    text: >
+      The Law of God we confess and acknowledge most just, most equal, most holy, and
+      most perfect[a], commanding those things which being wrought in perfection were
+      able to give life and to bring man to eternal felicity[b]. But our nature is so
+      corrupt, so weak, and so imperfect[c] that we are never able to fulfill the
+      works of the Law in perfection. Yes, if we say we have no sin (even after we are regenerate)[d], we deceive
+      ourselves and the verity of God is not in us. And, therefore, it behooves us to
+      apprehend Christ Jesus with His justice and satisfaction, who is the end and
+      accomplishment of the Law[e], by whom we are set at this liberty[f] that the
+      curse and malediction of the Law[g] fall not upon us, albeit we fulfill not the
+      same in all points[h]. For God the Father beholding us in the body of His Son
+      Christ Jesus, accepts our imperfect obedience as it were perfect, and covers
+      our works, which are defiled with many spots, with the justice of His Son. We
+      do not mean that we are set so at liberty that we owe no obedience to the
+      Law (for that before we have plainly confessed). But this we
+      affirm that no man in earth (Christ Jesus only excepted) has given, gives, or will
+      give in work that obedience to the Law which the Law requires[i]. But when we
+      have done all things, we must fall down and unfeignedly confess that we are
+      unprofitable servants. And, therefore, whosoever boast themselves of the merits
+      of their own works or put their trust in the works of supererogation boast
+      themselves of that which is not, and put their trust in damnable idolatry.
+    verses:
+      a:
+        - Rom.7
+        - Ps.19
+      b:
+        - Deut.5
+      c:
+        - Rom.10
+      d:
+        - 1John.1
+      e:
+        - Rom.10
+      f:
+        - Gal.3
+      g:
+        - Deut.26
+      h:
+        - Eph.1
+        - Rom.4
+      i:
+        - Luke.10
+  - name: Of the Kirk
+    number: 16
+    text: >
+      As we believe in one God, Father, Son and Holy Ghost, so we must constantly
+      believe that from the beginning there has been, now is and to the end of the
+      world will be[a], a kirk, that is to say, one company and multitude of men
+      chosen of God[b], who rightly worship and embrace Him by true faith in Christ
+      Jesus, who is the only head of the same kirk, which also is the body and spouse
+      of Christ Jesus[c]. Which kirk is catholic, that is universal, because it
+      contains the elect of all ages, all realms, nations, and tongues[d] be they of
+      the Jews or be they of the Gentiles; who have communion and society with God
+      the Father and with His Son Christ Jesus, through the sanctification of His
+      Holy Spirit, and, therefore, is it called the communion (not of profane persons) but of saints, who
+      as citizens of the heavenly Jerusalem[e] have the fruition of the most
+      inestimable benefits, to wit, of one God, one Lord Jesus, one faith, and of one
+      baptism, out of which kirk there is neither life nor eternal felicity. And,
+      therefore, we utterly abhor the blasphemy of those that affirm that men, who
+      live according to equity and justice, will be saved whatsoever religion they
+      have professed. For as without Christ Jesus there is neither life nor
+      salvation, so will none be participant thereof, but such as the Father has
+      given unto His Son Christ Jesus[f], and those in time come unto Him, avow His
+      doctrine and believe in Him (we comprehend the children with the faithful parents).
+      This kirk is invisible, known only to God who alone knows it, whom He has
+      chosen, and comprehends as well (as is said) the elect that be departed (commonly
+      called the kirk triumphant) as those that yet live and fight against sin and Satan as will
+      live hereafter.
+    verses:
+      a:
+        - Matt.28
+      b:
+        - Eph.1
+      c:
+        - Col.1
+        - Eph.5
+      d:
+        - Rev.7
+      e:
+        - Eph.2
+      f:
+        - John.5-John.6
+  - name: The Immortality of the Soul
+    number: 17
+    text: >
+      The elect departed are in peace and rest from their labors[a], not that they
+      will sleep and come to any certain oblivion (as some fanatics do affirm), but they are delivered from all
+      fear, all torment, and all temptation to which we and all God’s elect are
+      subject in this life[b], and, therefore, do bear the name of the kirk militant.
+      As contrariwise the reprobate and unfaithful departed have anguish, torment,
+      and pain that cannot be expressed. So that neither are the one nor the other in
+      such sleep that they feel not joy or torment as the parable of Christ in the
+      sixteenth of Luke, His words to the thief and these words of the souls crying
+      under the altar, “O Lord thou that are righteous and just, how long will thou
+      not revenge our blood upon those that dwell on the earth?”
+    verses:
+      a:
+        - Rev.14
+      b:
+        - Rev.7
+  - name: Of the Notes by Which the True Kirk is Discerned from the False
+    number: 18
+    text: >
+      Because that Satan from the beginning has labored to deck his pestilent
+      synagogue with the title of the kirk of God and has inflamed the hearts of
+      cruel murderers to persecute, trouble and molest the true kirk and members
+      thereof, as Cain did Abel, Ishmael Isaac, Esau Jacob[a], and the whole
+      priesthood of the Jews, Christ Jesus Himself and His apostles after Him[b], it
+      is one thing most requisite that the true kirk be discerned from the filthy
+      synagogue by clear and perfect notes, lest we being deceived receive and
+      embrace to our own condemnation the one for the other. The notes, signs, and
+      assured tokens by which the immaculate spouse of Christ Jesus is known from
+      that horrible harlot, the kirk malignant, we affirm are neither antiquity,
+      title usurped, lineal descent, place appointed, nor multitude of men approving
+      any error. For Cain in age and title was preferred to Abel and Seth. Jerusalem
+      had prerogative above all places of the earth, where also were the priests
+      lineally descended from Aaron, and a greater multitude followed the scribes and
+      Pharisees and priests than unfeignedly believed and approved Christ Jesus and
+      His doctrine. And yet as we suppose no man (of whole judgment) will grant that any of the
+      forenamed were the kirk of God. The notes, therefore, of the true kirk of God,
+      we believe, confess and avow to be first, the true preaching of the Word of
+      God, in which God has revealed Himself to us[c] as the writings of the prophets
+      and apostles do declare. Secondly, the right administration of the sacraments
+      of Christ Jesus must be annexed unto the Word and promises of God to seal and
+      confirm the same in our hearts. Last, ecclesiastical discipline[d], uprightly
+      ministered as God’s Word prescribes whereby vice is reproved and virtue
+      nourished[e]. Wheresoever then these former notes are seen and of any time
+      continue (be the number never so few, about two or three), there without
+      all doubt is the true kirk of Christ, who according
+      to His promise is in the midst of them: not that universal (of which we have before spoken) but particular,
+      such as was in Corinth, Galatia, Ephesus, and other places[f] in which the
+      ministry was planted by Paul and were of himself named the kirks of God. And
+      such kirks we the inhabitants of the realm of Scotland, professors of Christ
+      Jesus, confess ourselves to have in our cities, towns, and places reformed. For
+      the doctrine taught in our kirks is contained in the written Word of God, to
+      wit, in the books of the New and Old Testaments. In those books we mean which
+      of the ancient have been reputed canonical in the which we affirm that all
+      things necessary to be believed for the salvation of mankind is sufficiently
+      expressed[f], the interpretation whereof we confess neither appertains to
+      private nor public persons, neither yet to any kirk for any preeminence or
+      prerogative personal or local which one has above another, but appertains to
+      the Spirit of God by which also the Scripture was written.
+    verses:
+      a:
+        - Gen.4
+        - Gen.21
+        - Gen.27
+      b:
+        - Matt.23
+        - John.11
+        - Acts.3
+      c:
+        - John.1
+        - John.10
+      d:
+        - Rom.4
+      e:
+        - 1Cor.5
+        - Acts.16
+        - Acts.18
+        - 1Cor.1
+        - Acts.20
+      f:
+        - John.21
+  - name: The Authority of the Scriptures
+    number: 19
+    text: >
+      As we believe and confess the Scriptures of God sufficient to instruct and make
+      the man of God perfect[a], so do we affirm and avow the authority of the same
+      to be of God and neither to depend on men nor angels. We affirm, therefore,
+      that such as allege the Scripture to have no authority but that which it
+      receives from the kirk, to be blasphemous against God and injurious to the true
+      kirk which always hears and obeys the voice of her own spouse and pastor[b],
+      but takes not upon her to be mistress over the same.
+    verses:
+      a:
+        - 2Tim.3
+      b:
+        - John.10
+  - name: Of General Councils
+    number: 20
+    text: >
+      As we do not rashly damn that which godly men assembled together in general
+      councils lawfully gathered have propounded unto us, so without just examination
+      dare we not receive whatsoever is forced upon men under the name of general
+      councils. For plain it is that as they were men so have some of them manifestly
+      erred and that in matters of great weight and importance. So far then as the
+      council proves the determination and commandment that it gives by the plain
+      Word of God, so far do we reverence and embrace the same. But if men under the
+      name of a council pretend to forge unto us new articles of our faith or to make
+      constitutions repugnant to the Word of God, then utterly we must refuse the
+      same as the doctrine of devils which draw our souls from the voice of our only
+      God to follow the doctrines and constitutions of men[a]. The cause then why
+      general councils convened was neither to make any perpetual law (which God before had not made) neither yet
+      to forge new articles of our belief, neither to give the Word of God authority,
+      much less to make that to be His Word or yet the true interpretation of the
+      same which was not before by His holy will expressed in His Word. But the cause
+      of councils (we mean of such as merit the name of councils) was
+      partly for confutation of heresies and for giving public
+      confession of their faith to the posterity following which both they did by the
+      authority of God’s written Word and not by any opinion or prerogative that they
+      could not err by reason of their general assembly. And this we judge to have
+      been the chief cause of general councils. The other was for good policy and
+      order to be constituted and observed in the kirk, in which (as in the house of God) it becomes all
+      things to be done decently and in order[b]. Not that we think that one policy
+      and one order in ceremonies can be appointed for all ages, times, and places:
+      for as ceremonies (such as man has devised) are but temporal so may and ought they to be changed when
+      they rather foster superstition than that they edify the kirk using the same.
+    verses:
+      a:
+        - 1Tim.4
+      b:
+        - 1Cor.14
+  - name: Of the Sacraments
+    number: 21
+    text: >
+      As the fathers under the Law (besides the verity of the sacrifices) had two chief sacraments, to wit, circumcision
+      and the Passover, the despisers and contemners whereof were not reputed for
+      God’s people[a], so we do acknowledge and confess that we now in the time of
+      the gospel have two sacraments only, instituted by the Lord Jesus and commanded
+      to be used of all those that will be reputed members of His body[b], to wit,
+      baptism and the Supper or table of the Lord Jesus called the communion of His
+      body and blood. And these sacraments (as well of the Old as of the New Testament)
+      were instituted of God, not only to
+      make a visible difference betwixt His people and those that were without His
+      league, but also to exercise the faith of His children and by participation of
+      the same sacraments to seal in their hearts the assurance of His promises and
+      of that most blessed conjunction, union and society which the elect have with
+      their head, Christ Jesus.
+    verses:
+      a:
+        - Gen.17
+      b:
+        - Matt.26
+        - Matt.28
+  - name: Of the Right Administration of the Sacraments
+    number: 22
+    text: >
+      That sacraments be rightly ministered, we judge two things requisite: the one,
+      that they be ministered by lawful ministers whom we affirm to be only they that
+      are appointed to the preaching of the Word or unto whose mouths God has put
+      some sermon of exhortation, they being men lawfully chosen thereto by some
+      kirk. The other, that they be ministered in such elements and in such sort as
+      God has appointed. Else we affirm that they cease to be right sacraments of
+      Christ Jesus. And therefore it is that we flee the society with the papistical
+      kirk in participation of their sacraments. First, because their ministers are
+      not ministers of Christ Jesus[a]; (yes, which is more horrible) they suffer women, whom the Holy Ghost
+      will not suffer, to teach in the congregation [and] to baptize. And secondly,
+      because they have so adulterated both the one sacrament and the other with
+      their own inventions that no part of Christ’s action abides in the original
+      purity. For oil, salt, spittle, and such like in baptism are but men’s
+      inventions, adoration, veneration, bearing through streets and towns and
+      keeping of bread in boxes or buists [small boxes] are profanation of Christ’s
+      sacraments and no use of the same. For Christ Jesus said, “Take and eat. Do ye
+      this in remembrance of me”[b]. By which words and charge He sanctified bread
+      and wine to be the sacrament of His body and blood to the end that the one
+      should be eaten and that all should drink of the other; and not that they
+      should be kept to be worshipped and honored as God, as the papists have done
+      heretofore, who also have committed sacrilege, stealing from the people the one
+      part of the sacrament, to wit, the blessed cup. Moreover that the sacraments
+      are rightly used, it is requisite that the end and cause why the sacraments
+      were instituted be understood and observed, as well of the minister as the
+      receivers. For if the opinion be changed in the receiver, the right use ceases
+      which is most evident by the rejection of the sacrifices as also if the teacher
+      plainly teaches false doctrine[c], which were odious and abominable unto God
+      (albeit they were His own ordinance)
+      because that wicked men used them to one other end than God had ordained. The
+      same affirm we of the sacraments[e] in the papistical kirk in which we affirm
+      the whole action of the Lord Jesus to be adulterated, as well in the external
+      form as in the end and opinion. What Christ Jesus did and commanded to be done
+      is evident by three evangelists[f] and by St. Paul[g]. What the priest does at
+      his altar we need not rehearse. The end and cause of Christ’s institution and
+      why the selfsame should be used is expressed in these words: “Do ye this in
+      remembrance of Me. As often as ever ye will eat of this bread and drink of this
+      cup, ye will show forth (that is, extol, preach, magnify, and praise)
+      the Lord’s death till He come.” But to what end and
+      in what opinion the priests say their Masses, let the words of the same, their
+      own doctors and writings witness. To wit, that they as mediators betwixt Christ
+      and His kirk do offer unto God the Father a sacrifice propitiatory for the sins
+      of the quick and the dead. Which doctrine as blasphemous to Christ Jesus and
+      making derogation to the sufficiency of His only sacrifice once offered for
+      purgation of all those that will be sanctified, we utterly abhor, detest, and
+      renounce.
+    verses:
+      a:
+        - 1Tim.6
+      b:
+        - Matt.26
+      c:
+        - Isa.1
+      d:
+        - Jer.7
+        - Isa.66
+      e:
+        - Matt.26
+      g:
+        - 1Cor.11
+  - name: To Whom Sacraments Appertain
+    number: 23
+    text: >
+      We confess and acknowledge that baptism appertains as well to the infants of
+      the faithful as unto those that be of age and discretion. And so we damn the
+      error of Anabaptists who deny baptism to appertain to children before they have
+      faith and understanding. But the Supper of the Lord, we confess to appertain to
+      such only as be of the household of faith, can try and examine themselves as
+      well in their faith as in their duty towards their neighbors. Such as eat and
+      drink at that holy table without faith or being at dissension and disunion with
+      their brethren do eat unworthily. And, therefore, it is that in our kirks our
+      ministers take public and particular examination of the knowledge and
+      conversation of such as are to be admitted to the table of the Lord Jesus.
+    verses:
+  - name: Of the Civil Magistrate
+    number: 24
+    text: >
+      We confess and acknowledge empires, kingdoms, dominions, and cities to be
+      distinguished and ordered by God[a], the powers and authority in the same
+      (be it of emperors in their empires, of kings in their realms, dukes, and princes in their
+      dominions or of other magistrates in free cities) to
+      be God’s holy ordinance[b] ordained for manifestation of His own glory and for
+      the singular profit and commodity of mankind. So that whosoever goes about to
+      take away or to confound the whole state of civil policies now long
+      established, we affirm the same men not only to be enemies to mankind, but also
+      wickedly to fight against God’s expressed will.
+    verses:
+      a:
+        - Dan.1-Dan.2
+        - Ezra.1
+      b:
+        - Rom.13
+  - name: The Gifts Freely Given to the Church
+    number: 25
+    text: >
+      Albeit that the Word of God truly preached, the sacraments rightly ministered
+      and discipline executed according to the Word of God, be the certain and
+      infallible signs of the true kirk, yet do we not so mean that every particular
+      person joined with such a company is an elect member of Christ Jesus. For we
+      acknowledge and confess that darnel, cockle, and chaff may be sown, grow and in
+      great abundance lie in the midst of the wheat[a], that is, the reprobate may be
+      joined in the society of the elect and may externally use with them the
+      benefits of the Word and sacraments; but such being but temporal professors in
+      mouth, but not in heart, do fall back and continue not to the end. And,
+      therefore, have they no fruit of Christ’s death, resurrection, nor ascension;
+      but such as whose heart unfeignedly believe[b] and whose mouth boldly confess
+      the Lord Jesus (as before we have said) will most assuredly receive these gifts first in this life,
+      remission of sins, and that by only faith in Christ’s blood[c], in so much that
+      albeit sin remains and continually abides in these our mortal bodies, yet is it
+      not imputed unto us, but is remitted and covered with Christ’s justice.
+      Secondarily, in the general judgment there will be given to every man and woman
+      resurrection of the flesh[d]; for the sea will give up her dead, the earth
+      those that therein be enclosed: yes, our eternal God will stretch out His hand
+      upon the dust and the dead will arise incorruptible and that in the substance
+      of the self same flesh that every man now bears, to receive according to their
+      works, glory, or punishment[e]. For such as now dealt in vanity, cruelty,
+      filthiness, superstition, or idolatry will be adjudged to that fire
+      inextinguishable in which they will be committed for ever[f], as well in their
+      own bodies as in their souls which now they give to serve the devil in all
+      abomination. But such as continue in well doing to the end, boldly professing
+      the Lord Jesus, who constantly believe that they will receive glory, honor, and
+      immortality to reign forever in life everlasting with Christ Jesus, to whose
+      glorified body all His elect will be made like[g], when He will appear again to
+      judgment and will render up the kingdom to God His Father, who then will be and
+      ever will remain all in all things[h], God blessed forever. To whom with the
+      Son and with the Holy Ghost be all honor and glory, now and ever.
+    verses:
+      a:
+        - Matt.3
+        - Matt.13
+      b:
+        - Rom.10
+      c:
+        - John.3
+        - Rom.3-Rom.5
+        - Rom.8
+      d:
+        - Isa.66
+        - Dan.12
+        - 1Cor.15
+        - Job.19
+      e:
+        - Rom.2
+      f:
+        - Rev.20-Rev.21
+      g:
+        - 1John.5
+      h:
+        - 1Cor.15
+  - name: Finis
+    number: 26
+    text: >
+      Arise, O Lord, and let Thy enemies be confounded, let them flee from Thy
+      presence that hate Thy godly name. Give thy servants strength to speak Thy word
+      in boldness, and let all nations attain to Thy true knowledge. So be it.
+    verses:
