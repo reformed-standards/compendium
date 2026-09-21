@@ -53,7 +53,7 @@ Contributing
 ------------
 
 Contributions are encouraged, and welcome.  Feel free to email us patches
-(team at confessional.tech), or open issues and pull requests on [GitHub.][2]
+(team at reformedstandards.com), or open issues and pull requests on [GitHub.][2]
 
 [1]: https://reformedstandards.com
 [2]: https://github.com/reformed-standards/compendium/
